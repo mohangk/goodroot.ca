@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/goodroot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://goodroot.ca
+  * I am goodroot (https://keybase.io/goodroot) on keybase.
+  * I have a public key with fingerprint 6C5B 563F 7D0C 6238 A58D  E409 A895 9F96 9F97 C55A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010147b97a91b99566d1b1b2e6597bc9ec1a9fce77f0de86e7072b364d1b4809e4a50a",
+            "fingerprint": "6c5b563f7d0c6238a58de409a8959f969f97c55a",
+            "host": "keybase.io",
+            "key_id": "a8959f969f97c55a",
+            "kid": "010147b97a91b99566d1b1b2e6597bc9ec1a9fce77f0de86e7072b364d1b4809e4a50a",
+            "uid": "ec3801bc2808d6017c6006994930bc19",
+            "username": "goodroot"
+        },
+        "service": {
+            "hostname": "goodroot.ca",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469312135,
+    "expire_in": 157680000,
+    "prev": "32d3d87205879c4763be115d8c398e56c8a7a1f79c9f192a7a30576e87404ef8",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJrSFRBFF4tTZfeZP4oe9x+SLHazH3ObFkRmkVFb/tRtt07d1avrveu
+u9dVEQtECCSjTHoQIRoRVhRSEmiFmogPKIXEtFIKIYIoykgIreZK/Yl+NjAM55zv
++853htM5b5bLHdV26MH46p0l3qi+9otFrsPnP5wq4zRLL+W8ZVw+nXloQKdh25dv
+6JyXAxBAUdGwomKoYSzJsg41qPFUlrCiEUwJVLGfUEXxA50imSpA4TVBFhlMRABT
+UZWAynk4v2Hm0FAwZJg2k5WJpEmy4Fd0QGReQKqEdCoCrCIsYT+W2VWIJDnEXCvs
+MJg5TQ3TVMNiORb4Zuz9A/+ffRfNyFEiIAA1wiOAdBlAhcgAyBiLWAAagdgBhmnI
+VAsoQ+dYlh6yLJsr93AsGzEIdT7WmeQvRCpxegRDlm0RK8AKubYdDHsdol0adJDF
+VPP91vBphqmzb2SMCA2FDcvkvJAhiW04olCUsQB5KEgejpYEjRD1GQ5CUmQE2HH6
+0AiTFHhd0JHCAwkpmIiKLGgUQklHRMCISjJBqqJCP6thP8Q8CwTARChSRCBSP+Kc
+qQpNi2nzzKeawzTDRo6p2kUhypV3tB2d7Ypyu2Jjop39crnjF/7ZuqJInGssSfJO
+Xvw5ElzffLDmZte5saZXa6wzaXu3zTVrd8Xu37JyY01W5YpvZlbVnoTkpPiulMpI
+x9vH6uuqu9VZ2d1rWi49m+rpH459v7MX1i4a5R5Ob6qOrWu5c+FY2oLM7Wu5C307
+3HmN2ct3pw+sW40OZg0WnrwxHn2rNjF91Y6rT7qeZteJU8M4rk691nGldzIwttQ4
+kezxjb75Vtye92j0+uIlURWb53/JPBtfXJ38feLz7crMwFBrweAEEZYVfH3RzU0f
+qBBGAlZr69aBpn1DYM7zjM6MjykNjXvv5TdfjU4r/1Jd/O544rnxmPs9nxImmtJf
+1tf31/wQTl8+smHu8rMNue2/AKqqQLU=
+=gJks
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/goodroot
+
+==================================================================
