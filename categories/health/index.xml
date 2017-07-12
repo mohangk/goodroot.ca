@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on Goodroot.ca</title>
+    <link>/categories/health/</link>
+    <description>Recent content in Health on Goodroot.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Declutter Your Digital Life</title>
+      <link>/post/2017/03/17/declutter-your-digital-life/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/03/17/declutter-your-digital-life/</guid>
+      <description>Many years ago, I had my life transformed by a silly book about cleaning. It was called The Life Changing Magic of Tidying Up and it was written by tidy-master Marie Kondō. Marie suggests taking a step back from your busy life, breathing deeply, then decluttering your life in one ruthless material purge.
+To become happier, more productive, and less stressed, she teaches one how to craft a simplified existence surrounded only by the things that spark joy within.</description>
+    </item>
+    
+    <item>
+      <title>Fungus: A Tale of Anti-Biotics, Sugar, and Candida</title>
+      <link>/post/2017/01/17/fungus-a-tale-of-anti-biotics-sugar-and-candida/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/01/17/fungus-a-tale-of-anti-biotics-sugar-and-candida/</guid>
+      <description>For as long as I can remember, I have told people that I am allergic to penicillin. Whomever discovered my allergy discovered it on the first day of my life. I was given this broad-spectrum anti-biotic, despite being healthy, at birth.
+Penicillin is a common anti-biotic, created from penicillium mold. If you find yourself afflicted with any sort of bacterial infection, your doctor may prescribe you this medicine.
+I was one healthy and hilarious little creature.</description>
+    </item>
+    
+  </channel>
+</rss>

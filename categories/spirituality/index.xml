@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spirituality on Goodroot.ca</title>
+    <link>/categories/spirituality/</link>
+    <description>Recent content in Spirituality on Goodroot.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/spirituality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>After Ayahuasca</title>
+      <link>/post/2016/03/22/after-ayahuasca/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/03/22/after-ayahuasca/</guid>
+      <description>One year ago, clothes were jammed into a backpack and a plane ticket was purchased for Iquitos, Peru. In the Amazon jungle, I spent a week with Shamans drinking Ayahuasca. My life has transformed. I am going to share with you my experiences re-integrating back into life after Ayahuasca.
+ “Life lived in the absence of the psychedelic experience that primordial shamanism is based on is life trivialized, life denied, life enslaved to the ego.</description>
+    </item>
+    
+    <item>
+      <title>The Hacker Who Drank Ayahuasca</title>
+      <link>/post/2015/03/15/the-hacker-who-drank-ayahuasca/</link>
+      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015/03/15/the-hacker-who-drank-ayahuasca/</guid>
+      <description>In the ‘90s, everyone was weird. The weirdest among us shuffled off the coil of reality entirely. We were the age-less, culture-less, state-less, God-less generation raised by the Internet… which is to say, we were raised by each other.
+The reason for departure differs from person to person: Your parents fought. You had an unusual face or were unsightly. You had weird hair or were full of too many idiosyncrasies. You wanted to learn the ways of technology.</description>
+    </item>
+    
+  </channel>
+</rss>

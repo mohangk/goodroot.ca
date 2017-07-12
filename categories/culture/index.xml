@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture on Goodroot.ca</title>
+    <link>/categories/culture/</link>
+    <description>Recent content in Culture on Goodroot.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/culture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Networks Are Bad For You</title>
+      <link>/post/2015/11/15/social-networks-are-bad-for-you/</link>
+      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015/11/15/social-networks-are-bad-for-you/</guid>
+      <description>Growing up, my parents painted an intriguing picture of life after sprouting into adulthood. “I was out of the house at 18!”, my father would remind me. Having now grown well past the age that my parents were when they flew from their nests… then owned their first home… then had children… I feel that living in a one-bedroom apartment with questionable asset accumulating potential and no seedlings makes me look soft by comparison.</description>
+    </item>
+    
+  </channel>
+</rss>

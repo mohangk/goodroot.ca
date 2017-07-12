@@ -1,0 +1,110 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: .5em;
+  line-height: 1.5em;
+}
+
+/* header and footer areas */
+.menu li { display: inline-block; }
+.article-meta, .menu a {
+  text-decoration: none;
+  background: #D2D6EF;
+  color: #FFF;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#TableOfContents, #TOC {
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.terms { font-size: .9em; }
+.menu, .article-meta, footer { text-align: center; }
+.title { font-size: 1.1em; }
+footer a { text-decoration: none; }
+
+.pull-left {
+    float: left
+}
+.pull-right {
+    float: right
+}
+
+a {
+  color: #613DC1;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 1.75rem;
+    font-family: Consolas, "Liberation Mono";
+    font-size: .875rem;
+    background: #613DC1;
+    border-bottom: 1px solid #000;
+    z-index: 99
+}
+
+header ul,
+header ol {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+header nav {
+    padding: 0 0.5rem
+}
+header .nav-center {
+    text-align: center;
+    line-height: 1.75rem;
+    color: #000;
+    text-transform: uppercase;
+    text-shadow: rgba(255, 255, 255, 0.098) 0 1px 0, rgba(255, 255, 255, 0.12) 0 0 1.875rem
+}
+header a {
+    color: #fff;
+    line-height: 1.75rem;
+    padding: 0 0.5rem
+
+}
+header a:hover,
+header .current a {
+    color: #fff
+}
+
+/* code */
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  background: #f8f8f8;
+  padding: 1em;
+  overflow-x: auto;
+}
+code { background: #f9f9f9; }
+pre code { background: none; }
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+main { hyphens: auto; }
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+tr:nth-child(even) { background: #eee }

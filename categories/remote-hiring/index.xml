@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Hiring on Goodroot.ca</title>
+    <link>/categories/remote-hiring/</link>
+    <description>Recent content in Remote Hiring on Goodroot.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/remote-hiring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Get a Remote Job</title>
+      <link>/post/2017/02/24/how-to-get-a-remote-job/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/02/24/how-to-get-a-remote-job/</guid>
+      <description>As someone who has hired many-a-folk into remote teams, I am often asked: &amp;ldquo;How do I get a remote job?&amp;rdquo;. Many are inspired by the luxurious, jet-setting allure of the Digital Nomad. Others just want to break away from a commute, escape the drudgery of a typical 9-to-5, and be closer to their families. Whatever your reasons, I hope to help you remote-enable your journey through life.
+Working with YC-based start-ups and a couple &amp;lsquo;major&amp;rsquo; technical companies, I have welcomed many into the remote-working world.</description>
+    </item>
+    
+  </channel>
+</rss>
