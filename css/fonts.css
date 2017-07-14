@@ -1,11 +1,5 @@
-@font-face {
-  font-family: 'Nexa Bold';
-  src: url('{{ .Site.BaseURL }}fonts/Nexa Bold.otf');
-}
-
 body {
-  font-family: 'Nexa Bold', Optima, Candara, Calibri;
-
+  font-family: Optima, Candara, Calibri;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
