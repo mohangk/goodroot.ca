@@ -53,7 +53,7 @@ I am relaxing at home after work, playing around on the computer. Someone has sh
 
 Whitethumbs has gone offline.
 
-![/images/whitethumbs.jpeg](RIP Taylor Oelrich)
+![RIP Taylor](/images/whitethumbs.jpeg)
 
 *RIP Taylor “Whitethumbs” Oelrich. Born August 26, 1987 in Prince George, BC.*
 
