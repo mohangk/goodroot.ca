@@ -1,0 +1,19 @@
+baseurl = "https://goodroot.ca"
+languageCode = "en-us"
+title = "Goodroot"
+theme = "hugo-classic"
+publishDir = "docs"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[[menu.feed]]
+    name = "RSS"
+    url = "/index.xml"
+
+[params]
+    description = "An introduction to, and the writings of, Goodroot."
+    footer = "Be Excellent to Each Other | [Github](https://github.com/goodroot) | [Twitter](https://twitter.com/thegoodroot) | [Keybase](https://keybase.io/goodroot) | kellen@goodroot.ca"
