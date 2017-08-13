@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://goodroot.ca/post/2017/08/12/microdosing-prologue/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://goodroot.ca/post/2017/08/07/hockey-and-roles/</loc>
     <lastmod>2017-08-07T13:56:31-07:00</lastmod>
   </url>
@@ -94,12 +99,18 @@
   
   <url>
     <loc>https://goodroot.ca/</loc>
-    <lastmod>2017-08-07T13:56:31-07:00</lastmod>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/categories/microdosing/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://goodroot.ca/post/</loc>
-    <lastmod>2017-08-07T13:56:31-07:00</lastmod>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
