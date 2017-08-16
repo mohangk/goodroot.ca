@@ -7,7 +7,7 @@ categories:
 slug: microdosing-baseline
 ---
 
-* 0: [Prologue](https://goodroot.ca/post/2017-08-12-microdosing-prologue/)
+* 0: [Prologue](https://goodroot.ca/post/2017/08/12/microdosing-prologue/)
 * **1: Baseline**
 
 It takes a certain oddness to ingest a psychedelic mushroom every third evening. Looking at the studies and reading the anecdotes of others who have embraced the weirdness, microdosing appears an alluring offer. When you apply _outside_ perception of the experiences, things get dicey. I'd like to speak more on that, then get into the work done to establish a baseline before under-taking this experiment; after-all, if you're going to do something people think is silly or even dangerous, you might as well document your experiences and explain yourself.
