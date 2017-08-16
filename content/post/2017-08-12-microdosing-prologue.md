@@ -7,6 +7,9 @@ categories:
 slug: microdosing-prologue
 ---
 
+**0: Prologue**
+1: [Baseline](https://goodroot.ca/post/2017-08-15-microdosing-prologue/)
+
 Today, I embark on a partnership. For the foreseeable future, I will be taking 0.2 grams of Psilocybe semilanceata mushrooms every third evening. I'd like to share why I've begun this adventure, what I hope to achieve, and document my experiences living a modern life, working in a fast-paced tech start-up. My intention is to write an update once per week, observing and describing the short and long-term impact of a softening, Psilocybin-infused consciousness.
 
 Two and a half years ago I had severe depression. To conquer the affliction, I deployed a variety of tools and tactics, with little respite. I meditated, with a determination that led me to daily practice and the completion of a 10 day silent Vipassana program in the forested mountains of British Columbia. I exercised and played hockey at a high level. I self-medicated with Marijuana, positive for the symptoms. I visited a psychologist and - thankfully, briefly - took a course of anti-depressants.
