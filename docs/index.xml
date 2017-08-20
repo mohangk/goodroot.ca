@@ -6,10 +6,19 @@
     <description>Recent content in Home on Goodroot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://goodroot.ca/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Practice Makes</title>
+      <link>https://goodroot.ca/post/2017/08/20/practice-makes/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2017/08/20/practice-makes/</guid>
+      <description>The brightest people I know practice or learn. Engineering things on the Internet is strange; it&amp;rsquo;s a new frontier. In order to feel aware of the web&amp;rsquo;s current state, through surprise blockchain forking, political revolts on social media, studious machine intelligence, new web frameworks and morphing server architecture, there are countless unrelenting streams of which to be mindful. It is folly to dream of understanding even a fraction of our beloved and capable global network.</description>
+    </item>
     
     <item>
       <title>Microdosing Baseline</title>
