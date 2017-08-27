@@ -7,7 +7,7 @@ title: Home
 
 ### Mugwump. Writer. Coderman.
 
-A Canadian-born Internet native, **Kellen Evan Person** - also known as Goodroot - loves to write, code, and propagate love-focused perspectives. Should you ever want a polite and - erhm - unique thought, he’s always open to gnarly ideas and curious people.
+A Canadian-born Internet native, **Kellen Evan Person** - also known as Goodroot - loves to write, turn ideas into living things, and propagate love-focused perspectives. Should you ever want a polite and unique thought, he’s always open to new ideas and curious people.
 
 At the moment, he’s writing within his personal blog - this one - and working with Fly.io building the world’s first **Application Delivery Network**.
 
