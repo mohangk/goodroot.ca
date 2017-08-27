@@ -38,7 +38,7 @@ After one hour, there is an onset period that last about four hours. This is whe
 
 * **Hot flashes**. It's not uncommon to feel a fleeting _hotness_, almost to the point of sweatiness. A flushed feeling can appear in my chest and face. It's a minor down-side, but it reminds one of their chemically altered state.
 
-## Day 2, Dose + 1.
+## Day 2, Dose + 1:
 
 During Day 1, immediate dosage presents a clear bump in mood. Day two is subtle, almost undetectable. If it weren't for the [care taken to establish a baseline](https://goodroot.ca/post/2017/08/15/microdosing-baseline/), I would be unable to articulate past: "I don't feel that different, just kinda better!" It's too subtle, even, for clear bullet points. Metaphor, it shall be.
 
@@ -50,7 +50,7 @@ Before, if my ego were to feel threatened, I'd consider a typical left-turn thro
 
 The mushrooms compel me to take the brighter path, a new path into love. The forests seem to give way; no longer needing to be hacked and contended against. The creep recedes and a path appears to lead me into the sunny unknown. The journey is not without struggle: challenge, with a playful sense of ease. Those dark, old roads need not be tread.
 
-## Day 3, Dose + 2.
+## Day 3, Dose + 2:
 
 Similar to day 2. I detect no crash, no dip in mood to compensate for the relative glow of the prior two days. My body feels softer, stress doesn't accumulate within my shoulders and neck; hazards of the keyboard bound trade. Thoughts and feelings linger much less than they otherwise would.
 
