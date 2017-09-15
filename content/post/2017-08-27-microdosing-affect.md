@@ -5,6 +5,7 @@ date: '2017-08-27'
 categories:
   - Microdosing
 slug: microdosing-affect
+published: false
 ---
 * 0: [Prologue](https://goodroot.ca/post/2017/08/12/microdosing-prologue/)
 * 1: [Baseline](https://goodroot.ca/post/2017/08/15/microdosing-baseline/)

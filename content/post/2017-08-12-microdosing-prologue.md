@@ -5,6 +5,7 @@ author: Kellen Evan Person
 categories:
   - Microdosing
 slug: microdosing-prologue
+published: false
 ---
 
 * **0: Prologue**
