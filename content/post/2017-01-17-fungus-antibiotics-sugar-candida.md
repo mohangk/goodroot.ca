@@ -5,6 +5,7 @@ author: Kellen Evan Person
 categories:
   - Health
 slug: fungus-antibiotics-sugar-candida
+published: false
 ---
 For as long as I can remember, I have told people that I am allergic to penicillin. Whomever discovered my allergy discovered it on the first day of my life. I was given this broad-spectrum anti-biotic, despite being healthy, at birth.
 
