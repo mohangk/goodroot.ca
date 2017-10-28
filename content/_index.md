@@ -5,13 +5,10 @@ title: Home
 
 ## Kellen Evan Person
 
-### Mugwump. Writer. Internetman.
+### Mugwump. Thinker. Spirit.
 
-A Canadian-born Internet native and entrepreneur, **Kellen Evan Person** - also known as Goodroot - loves to write, turn ideas into living things, and propagate love-focused perspectives. Should you ever want a polite and unique thought, he’s always open to new ideas and curious people.
+A Canadian-born Internet native and entrepreneur, **Kellen Evan Person** - also known as Goodroot - loves to turn ideas into living things and inspire love-focused perspectives. Should you ever want a unique thought, he loves to bring his vision and wisdom to new ideas.
 
-At the moment, he’s writing within his personal blog - this one - and working with Fly.io building the world’s first **Application Delivery Network**.
+He's worked with monolithic technology companies, high-profile start-ups, and major Canadian academic institutions. After nearly two decades spent developing web technologies, he's shifting his focus to build heartful communities and advocate for Entheogen and Spirit.
 
 <img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif">
-
----
-### Writings
