@@ -5,10 +5,10 @@ title: Home
 
 ## Kellen Evan Person
 
-### Mugwump. Thinker. Spirit.
+### A Wise and Hairy Canadian Fellow
 
-A Canadian-born Internet native and entrepreneur, **Kellen Evan Person** - also known as Goodroot - loves to turn ideas into living things and inspire love-focused perspectives. Should you ever want a unique thought, he loves to bring his vision and wisdom to new ideas.
+A Canadian-born Internet native and entrepreneur, **Kellen Evan Person** - also known as Goodroot - is a grizzled Internet veteran. He's worked with monolithic technology companies, high-profile start-ups, and major Canadian academic institutions.
 
-He's worked with monolithic technology companies, high-profile start-ups, and major Canadian academic institutions. After nearly two decades spent developing web technologies, he's shifting his focus to build heartful communities and advocate for Entheogen and Spirit.
+After spending nearly two decades developing web technologies, he's shifting his focus to build heartful communities, write, and advocate for Entheogen and Spirit. He's available for projects that tickle the heart and rekindle the spirit.
 
 <img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif">
