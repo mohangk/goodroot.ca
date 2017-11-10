@@ -7,7 +7,7 @@ title: Home
 
 ### A Wise and Hairy Canadian Fellow
 
-A Canadian-born Internet native and entrepreneur, **Kellen Evan Person** - also known as Goodroot - is a grizzled Internet veteran. He's worked with monolithic technology companies, high-profile start-ups, and major Canadian academic institutions.
+Born Canadian, **Kellen Evan Person** - also known as Goodroot - is a grizzled Internet veteran. He's started two companies, worked with monolithic technology corporations, high-profile start-ups, and major Canadian academic institutions.
 
 After spending nearly two decades developing web technologies, he's shifting his focus to build heartful communities, write, and advocate for Entheogen and Spirit.
 
