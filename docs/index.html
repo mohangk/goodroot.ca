@@ -42,13 +42,13 @@
 
 <h2 id="kellen-evan-person">Kellen Evan Person</h2>
 
-<h3 id="a-wise-and-hairy-canadian-fellow">A Wise and Hairy Canadian Fellow</h3>
+<h3 id="a-friendly-canadian-fellow">A Friendly Canadian Fellow</h3>
 
-<p>Born Canadian, <strong>Kellen Evan Person</strong> - also known as Goodroot - is a wily and lighthearted Web veteran. In the past, Kellen has joined forces with monolithic technology corporations, high-profile start-ups, and major Canadian academic institutions. He has even started two of his own companies, which failed magnificently.</p>
+<p>Born Canadian, <strong>Kellen Evan Person</strong> - also known as Goodroot - is a wily and lighthearted Web veteran.</p>
 
-<p>After spending nearly two decades developing applications, he&rsquo;s shifting his focus to write stories and share his wisdom and creativity.</p>
+<p>He&rsquo;s spent nearly two decades developing web technologies. His greatest joys are his friends and loved ones, Ayahuasca, reading and writing stories, building distributed web architecture, cooking, and helping sprout positive teams and communities. Current interests include blockchain technologies, good Fantasy books, and mastering the art of the Thai curry.</p>
 
-<p>He&rsquo;s available for projects that will tickle the heart and rekindle the spirit.</p>
+<p>If you are in need of leadership in technical projects that spark the mind, tickle the heart, and rekindle the spirit, you should send him an email.</p>
 
 <p><img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif"></p>
 
@@ -57,7 +57,32 @@
 
     <footer>
       
-<script async src="//yihui.name/js/center-img.js"></script>
+<script>
+
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+
+</script>
 
       
       <hr/>
