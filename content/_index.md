@@ -13,6 +13,6 @@ His greatest joys are his friends and loved ones, reading and writing stories, b
 
 Current interests include blockchain technologies, epic Fantasy novels, World of Warcraft, and mastering the art of the Thai curry.
 
-If you are in need of leadership in technical projects that spark the mind, tickle the heart, and rekindle the spirit, you should send him an email.
+If you are in need of leadership for technical projects that spark the mind, tickle the heart, and rekindle the spirit, you should send him an email.
 
 <img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif">
