@@ -7,7 +7,7 @@ title: Home
 
 ### A Friendly Canadian Fellow
 
-Born Canadian, **Kellen Evan Person** - also known as Goodroot - is a wily and lighthearted veteran of the World Wide Web. He's spent nearly two decades developing things on the Internet.
+Born Canadian, **Kellen Evan Person** - also known as goodroot - is a wily and lighthearted veteran of the World Wide Web. He's spent nearly two decades developing things on the Internet.
 
 His greatest joys are his friends and loved ones, reading and writing stories, building distributed web architecture, cooking, and helping sprout positive teams and communities.
 
