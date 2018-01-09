@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-<img src="https://raw.githubusercontent.com/goodroot/goodroot.ca/master/docs/images/kellen+monkey.jpg" style="max-width:30%;min-width:40px;float:right;padding:10px;" alt="Kellen Face">
+<img src="https://raw.githubusercontent.com/goodroot/goodroot.ca/master/themes/hugo-classic/images/kellen.png" style="max-width:30%;min-width:40px;float:right;padding:10px;" alt="Kellen Face">
 
 ## Kellen Evan Person
 
