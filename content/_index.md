@@ -1,11 +1,11 @@
 ---
 title: Home
 ---
-<img src="https://raw.githubusercontent.com/goodroot/goodroot.ca/master/themes/hugo-classic/images/kellen.png" style="max-width:30%;min-width:40px;float:right;padding:10px;" alt="Kellen Face">
+<img src="https://raw.githubusercontent.com/goodroot/goodroot.ca/master/themes/hugo-classic/images/kellen-thumbs.png" style="max-width:30%;min-width:40px;float:right;padding:10px;" alt="Kellen Face">
 
 ## Kellen Evan Person
 
-### Celebrating Flaws in the Age of Perfection
+### Spiritual Explorer. Writer. Developer.
 
 Born Canadian, **Kellen Evan Person** - also known as goodroot - is a wily and lighthearted veteran of the World Wide Web. He's spent nearly two decades developing things on the Internet.
 
