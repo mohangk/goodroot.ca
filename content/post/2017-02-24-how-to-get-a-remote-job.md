@@ -6,6 +6,7 @@ categories:
   - Programming
   - Remote Hiring
 slug: how-to-get-a-remote-job
+published: false
 ---
 
 As someone who has hired many-a-folk into remote teams, I am often asked: “*How do I land a good remote job*?”. Many are inspired by the luxurious, jet-setting allure of the Digital Nomad. Others just want to break away from a commute, escape the drudgery of a typical 9-to-5, and be closer to their families. Whatever your reasons, I hope to help you remote-enable your journey through life.

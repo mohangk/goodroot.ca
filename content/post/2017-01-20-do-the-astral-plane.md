@@ -18,21 +18,19 @@ In the 90s, Wikipedia did not yet exist to tell you how scientifically incorrect
 
 I wonder, now, who created these obscure, mystical, and out-right mad digital codexes. In my youth however, with filter undeveloped, I was quick to click on the first link and gobble up every word written as though it were gospel. I recall one page vividly. It had cryptic and large Times New Roman on a twilight background, speckled with planets and galaxies. GIFs of flame and sparkle book-ended headers, within which contained the instruction I sought: “How to Visit the Astral Plane”.
 
-Underneath several paragraphs of thick, capitalized, obscure, and oddly coloured text, there was a strange picture. “*Stare at it and breathe deeply*”, the words told me, “*you will feel your soul begin to seep outside of your body*.”
+Underneath several paragraphs of thick, capitalized, obscure, and oddly coloured text, there was a strange picture. “**STARE AT IT AND BREATHE DEEPLY** ”, the words told me, “**YOU WILL FEEL YOUR SOUL BEGIN TO SEEP OUTSIDE OF YOUR BODY**.”
 
-I felt it! I was sure! Fuelled by the rush of discovery, I tore through the remaining instructions. My perceptions had been fooled; the eerie sensation I felt had legitimized my faith and breathed life into fiction. I was committed to practicing this most mysterious art. I was determined to leave my flesh behind for moonlit adventuring within the Astral Plane.
+I felt it! I was sure! Fueled by the rush of discovery, I tore through the remaining instructions. My perceptions had been fooled; the eerie sensation I felt had legitimized my faith and breathed life into fiction. I was committed to practicing this most mysterious art. I was determined to leave my flesh behind for moonlit adventuring within the Astral Plane.
 
-“*LIE HORIZONTALLY*”, it said – mmm-hmm.
+“**LIE HORIZONTALLY**”, it said – mmm-hmm.
 
-“*CLOSE YOUR EYES*”, it reminded – ‘course.
+“**CLOSE YOUR EYES**”, it reminded – ‘course.
 
-“*BREATH DEEPLY AND REPEAT: I AM LEAVING MY BODY, I AM LEAVING MY BODY…*”, it droned – mmm.
+“**BREATH DEEPLY AND REPEAT: I AM LEAVING MY BODY, I AM LEAVING MY BODY…**”, it droned – mmm.
 
-“*DO NOT LINGER OR YOUR SOUL MAY BECOME LOST*”, it hinted – ya-ya.
+“**DO NOT LINGER OR YOUR SOUL MAY BECOME LOST**”, it hinted – ya-ya.
 
-“*BEWARE THE ASTRAL VAMPIRE*”, it warned – right, got it.
-
-
+“**BEWARE THE ASTRAL VAMPIRE**”, it warned – right, got it.
 
 Ready to slice my tether to reality asunder, I sprinted back into my bedroom, shut the door, lay flat, squeezed my eyes shut and began breathing deeply: *I am leaving my body*. Nothing yet. I will try again tomorrow, I promised myself.
 
@@ -42,13 +40,9 @@ Moons later, on one fateful evening whilst laying in my bed repeating my hauntin
 
 My ankles, then my elbows; my legs, and then my arms. Eventually, my entire being became alive with a warm and buzzing sensation. The electricity pulsed through every fibre of my watery vessel. Suddenly, my stomach gave a lurch and I flashed my eyes open for fear of rolling out of my bed. Instead of toppling onto the floor, I stared back into my own face which was smiling, relaxed in peaceful sleep.
 
-
-
 With ghostly appendages flailing in every direction, I had escaped. My spirit was free to drift among the radiant lights of unfathomable new dimensions. Here, there was no homework. Out in the Astral Plane, no one could boss you around or make you feel inadequate. My imagination burst open, imbuing the abstract night-world with a typhoon of eccentric characters and mystical locations. It was a spiritual paradise within my own mind.
 
 I practiced this bizarre and imagined ritual until one day in my teenaged years all became forgotten. The allure of the Astral Realm weakened and the pull of the material became too great. With hormones aflame, I moved, lost friends, developed new interests, created relationships, bought things, and gave in to endless distraction.
-
-
 
 My imagination dimmed and I lost touch with the desire to entertain the playful soul that existed within my flesh. No longer did I wish to explore the unknown mysteries of the cosmos. No longer did I travel the mesh of realities that intertwine with our own. Now, I wanted people to like me. I wanted to be strong. I wanted to be beautiful. I wanted to make a million dollars, and become a professional athlete.
 
@@ -56,7 +50,7 @@ It was during these years that something bad happened. A change came about me, g
 
 Fun thoughts, but I did not believe in that world anymore. I was *intelligent*. I was *rational*. I knew I had been laying in bed, somewhere in-between being awake and being in-dream. I knew my imagination catalyzed all of my make-believe adventures. I needed a scientific *solution* for my *clinical* depression.
 
-I looked for answers in books. I scoured the Internet. I talked with friends and doctors. There was no truth to be found. “*Take this pill*“: the best any medical professional could offer me. It took over a decade of meditation, personal growth, epiphanies, and a talented Peruvian Medicine-Man to expunge the darkness.
+I looked for answers in books. I scoured the Internet. I talked with friends and doctors. There was no truth to be found. *Take this pill*: the best any medical professional could offer me. It took over a decade of meditation, personal growth, epiphanies, and a talented Peruvian Medicine-Man to expunge the darkness.
 
 As years went by, the flame of spirit began to rekindle within my heart. Slowly, I stopped chasing things external to me and started looking within myself. My depressed musings began to ring true; I realized I *had* succeeded in separating my soul from my body. My soul had become lost, but not because it had spent too long in the Astral Plane or that it became a feast for an opportunistic Astral Vampire.
 

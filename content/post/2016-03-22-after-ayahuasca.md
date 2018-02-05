@@ -10,7 +10,7 @@ slug: after-ayahuasca
 
 One year ago, clothes were jammed into a backpack and a plane ticket was purchased for Iquitos, Peru. In the Amazon jungle, I spent a week with Shamans drinking Ayahuasca. My life has transformed. I am going to share with you my experiences re-integrating back into life after Ayahuasca.
 
-“Life lived in the absence of the psychedelic experience that primordial shamanism is based on is life trivialized, life denied, life enslaved to the ego.” ― [Terence McKenna](http://amzn.to/1pdrHq2)
+> “Life lived in the absence of the psychedelic experience that primordial shamanism is based on is life trivialized, life denied, life enslaved to the ego.” ― [Terence McKenna](http://amzn.to/1pdrHq2)
 
 Diving into psychedelic, non-ordinary reality is not for the faint of heart. I have spent my life on the Internet. From a tender, young, and impressionable age, the internet has strayed no further than several meters from my inquisitive consciousness.
 
