@@ -1,5 +1,5 @@
 ---
-title: Do the Astral Plane
+title: Do the Astral
 date: '2017-01-20'
 author: Kellen Evan Person
 categories:
@@ -12,7 +12,7 @@ As a youth, I enjoyed the abstract. The more bizarre and uncommon the plot-line,
 
 Astral Projection is the belief that - with enough patience, magic, and focus - an individual is capable of separating their ethereal souls from their physical bodies. Once free from fleshy confines, the soul is then permitted to explore the vapourous vastness of the Astral Plane. Within this plane one may find bizarre locales and beings of unimaginable power, benevolence, or malice.
 
-With an impish grin, reading about such concepts lit a strange-coloured fire somewhere in my heart; the lush, unspoiled, and well-populated imaginations of the young are of the most beautiful places. Creeping up to the computer I became intoxicated with wonder and possibility; into an archaic search engine, under the watchful eye of no agency or parental unit, I would type: **How to Visit the Astral Plane**.
+With an impish grin, reading about such concepts lit a strange coloured fire somewhere in my heart; the lush, unspoiled, and well-populated imaginations of the young are of the most beautiful places. Creeping up to the computer I became intoxicated with wonder and possibility; into an archaic search engine, under the watchful eye of no agency or parental unit, I would type: **How to Visit the Astral Plane**.
 
 In the 90s, Wikipedia did not yet exist to tell you how scientifically incorrect and silly your views were. The items that would populate the front-page were written and presented in lo-fidelity. Search engines did nothing to screen for “quality”; if it was relevant to your keywords and visited by people, it was presented higher.
 
