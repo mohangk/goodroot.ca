@@ -5,7 +5,7 @@ title: Home
 
 ## Kellen Evan Person
 
-### Spiritual Explorer. Writer. Developer.
+### Grooving on the Internet circa 1998.
 
 Born Canadian, **Kellen Evan Person** - also known as goodroot - is a wily and lighthearted veteran of the World Wide Web. He's spent nearly two decades developing things on the Internet.
 
