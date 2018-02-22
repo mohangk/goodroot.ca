@@ -56,17 +56,23 @@ There were more than a few dust-ups. Competition this intense is bound to boil o
 
 ![take a hit](/images/take-a-hit.png)
 
-How to take a hit to make a play. Do you see the bottom-most Canadian player, the fellow in white, the '1' on his jersey just visible? See the Canadian player to his right, ahead a short ways? Do you see that angry blue blurr that's three feet away? He's blurring because he's skating dozens of miles per hour. The moment #11, Patrick Marleau, of the Canadian team sails that dense, black, rubber biscuit off to his buddy to advance the play, he's going to get pancaked. It's going to hurt. This happens every time a play is made. If you want to gain ground, if you want to create offense, if you want to provide defense, if you want to win, you're going to take punishment. You need to sacrifice your body. Over, and over again.
+How to take a hit to make a play. Do you see the bottom-most Canadian player, the fellow in white, the '1' on his jersey just visible? See the Canadian player to his right, ahead a short ways? Do you see that angry blue blurr that's three feet away? He's blurring because he's skating dozens of miles per hour. The moment #11, Patrick Marleau, of the Canadian team sails that dense, black, rubber biscuit off to his buddy to advance the play, he's going to get pancaked. It's going to hurt. 
+
+This happens every time a play is made. If you want to gain ground, if you want to create offense, if you want to provide defense, if you want to win, you're going to take punishment. You need to sacrifice your body. Over, and over again.
 
 ![the first goal, toews](/images/toews.png)
 
 If you're fearless and in the right spot, the doors of fate may open just a crack. You'll see a glimmer of daylight bleed through. If you have the composure and the tenacity like Jonathan Toews, captain of the Chicago Blackhawks, you might be able to pop in a goal or two. He scored the first one. Toews captained the Blackhawks to 3 Stanley Cups, the hardest trophy in sports to win. He's won the Conn Smythe as playoff MVP, has won gold for Canada at the U-17s, 2006 and 2007 World Junior Champships, and the 2010 Olympics and the 2014 Olympics. But on this team, everyone is that good. Everyone has a list of accolades so long a paragraph can nary contain them.
 
-To make this team, Toews - like everyone else - needed to leave his ego at home. Each player on both sides is the champion of their respective team. It's leaders versus leaders; when 22 of you come together with a common goal, your pasts don't matter. Your ego doesn't matter. The team matters. You come together as a group and play the role the team needs. Are you normally the guy putting the puck in the net on the powerplay? Well, here you might not be. You might need to kill penalties. Don't normally block shots, eh? You'll be putting your pretty face in front of everything your opponents direct at your net. If you want to win, you need to buy in. Everyone needs to buy in.
+To make this team, Toews - like everyone else - needed to leave his ego at home. Each player on both sides is the champion of their respective team. It's leaders versus leaders; when 22 of you come together with a common goal, your pasts don't matter. Your ego doesn't matter. The team matters. You come together as a group and play the role the team needs. 
+
+Are you normally the guy putting the puck in the net on the powerplay? Well, here you might not be. You might need to kill penalties. Don't normally block shots, eh? You'll be putting your pretty face in front of everything your opponents direct at your net. If you want to win, you need to buy in. Everyone needs to buy in.
 
 ![](/images/the-unthinkable.png)
 
-If you don't, the other team will. With :24.4 seconds left in the game, the unthinkable happens. Canada is up 2-1. The USA pulls their goalie, granting them an extra attacker. It's 6 on 5. There is no room for error. Even if you're mistake free, the puck might still wind up in the back of your net. With :24.4 seconds left, Zach Parise makes that happen. Tie game. Every frozen lake or pond, every iced-over slab of community concrete knows what happens next. The slate is clean. Next goal wins. The previous 60 minutes no longer matters. It's your chance at glory. We're headed to over time. 
+If you don't, the other team will. With :24.4 seconds left in the game, the unthinkable happens. Canada is up 2-1. The USA pulls their goalie, granting them an extra attacker. It's 6 on 5. There is no room for error. Even if you're mistake free, the puck might still wind up in the back of your net. With :24.4 seconds left, Zach Parise makes that happen. Tie game. 
+
+Every frozen lake or pond, every iced-over slab of community concrete knows what happens next. The slate is clean. Next goal wins. The previous 60 minutes no longer matters. It's your chance at glory. We're headed to over time. 
 
 ![the-big-celly](/images/the-big-celly.png)
 
