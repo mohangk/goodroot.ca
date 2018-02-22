@@ -44,7 +44,7 @@ The modern hockey fan is subject to as much product advertisement and commercial
 
 This gold medal game, 8 years later, is presented in its purity. The intermissions have been chopped out. There are no commentators filling 'dead air'. There are no analysts aligning you to their subjective interpretations. There's no play-by-play painting the game with subtle bias. No one is trying to sell you a truck, entice you with an ice cold beer, or offer to manage your finances. The game isn't sponsored by monolithic telecommunications companies or skeezy Albertan oil firms. It's presented to you today, free and pure, thanks to the Internet. 
 
-The picture is high definition, unburdened with advertisement. The audio is crisp. You can hear the roar of the chanting crowd. The pucks ping off the posts. The on-ice mics pick up the beautiful bile that the players spew at one another as they lose themselves in the intensity. Shots ring clear, skates cut deep, and passes sing crisp. The Canadian collective blasts through your speakers each time a goal is scored. The athletes aren't getting paid. It's a bunch of men, representing their countries, playing a game of hockey.
+The picture is high definition and unburdened with advertisement. The audio is crisp. You can hear the roar of the chanting crowd. The pucks ping off the posts. The on-ice mics pick up the beautiful bile that the players spew at one another as they lose themselves in the intensity. Shots ring clear, skates cut deep, and passes sing crisp. The Canadian collective blasts through your speakers each time a goal is scored. The athletes aren't getting paid. It's a bunch of men, representing their countries, playing a game of hockey.
 
 ![grind](/images/grind.png)
 
@@ -52,15 +52,11 @@ And they worked their asses off. The players needed to scratch and claw for ever
 
 ![battle](/images/battle.png)
 
-There were more than a few dust-ups. Competition this intense is bound to boil over. In hockey, there is no focal point. Only the observers get fixated on the puck. The entire shape, 6 players aligning against 6 players, twists and wriggles in cohesive and elegant strategy. 
-
-While the players play different positions and carry different responsibilities, it's pure battle. It's a war out there. I've played competitive hockey. You know what's a hard lesson to learn?
+There were more than a few dust-ups. Competition this intense is bound to boil over. In hockey, there is no focal point. Only the observers get fixated on the puck. The entire shape, 6 players aligning against 6 players, twists and wriggles in cohesive and elegant strategy. While the players play different positions and carry different responsibilities, it's pure battle. It's a war out there. I've played competitive hockey. You know what's a hard lesson to learn?
 
 ![take a hit](/images/take-a-hit.png)
 
-How to take a hit to make a play. Do you see the bottom-most Canadian player, the fellow in white, the '1' on his jersey just visible? See the Canadian player to his right, ahead a short ways? Do you see that angry blue blurr that's three feet away? He's blurring because he's skating dozens of miles per hour. 
-
-The moment #11, Patrick Marleau, of the Canadian team sails that dense, black, rubber biscuit off to his buddy to advance the play, he's going to get pancaked. It's going to hurt. 
+How to take a hit to make a play. Do you see the bottom-most Canadian player, the fellow in white, the '1' on his jersey just visible? See the Canadian player to his right, ahead a short ways? Do you see that angry blue blurr that's three feet away? He's blurring because he's skating dozens of miles per hour. The moment #11, Patrick Marleau, of the Canadian team sails that dense, black, rubber biscuit off to his buddy to advance the play, he's going to get pancaked. It's going to hurt. 
 
 This happens every time a play is made. If you want to gain ground, if you want to create offense, if you want to provide defense, if you want to win, you're going to take punishment. You need to sacrifice your body. Over, and over again.
 
