@@ -8,9 +8,7 @@ slug: the-best-game-on-earth
 published: true
 ---
 
-Within every cold Canadian community, you'll find an outdoor rink. It is upon these frigid slabs of ice where _The Dream_ is born. These cold, snowy rinks are our churches. They are our playgrounds. When the greats lace up their boots and dazzle the masses, their glory echoes in renactment across all of our ice surfaces. 
-
-No game is more deserving of this immortal treatment than the gold medal game of Vancouver's 2010 Winter Olympics. It was the finest game of hockey - perhaps even the finest game - ever played. 
+Within every cold Canadian community, you'll find an outdoor rink. It is upon these frigid slabs of ice where _The Dream_ is born. These cold, snowy rinks are our churches. They are our playgrounds. When the greats lace up their boots and dazzle the masses, their glory echoes in renactment across all of our ice surfaces. No game is more deserving of this immortal treatment than the gold medal game of Vancouver's 2010 Winter Olympics. It was the finest game of hockey - perhaps even the finest game - ever played. 
 
 **[Watch: Canada vs USA: The Finest Game of Hockey Ever Played (1080p)](https://www.youtube.com/watch?v=lmS-pztANow)**
 
