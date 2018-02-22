@@ -8,7 +8,9 @@ slug: the-best-game-on-earth
 published: true
 ---
 
-Within every cold Canadian community, you'll find an outdoor rink. It is upon these frigid slabs of ice where _The Dream_ is born. These cold, snowy rinks are our churches. They are our playgrounds. When the greats lace up their boots and dazzle the masses, their glory echoes in renactment across all of our ice surfaces . No game is more deserving of this immortal treatment than the gold medal game of Vancouver's 2010 Winter Olympics. It was the finest game of hockey - perhaps even the finest game - ever played. 
+Within every cold Canadian community, you'll find an outdoor rink. It is upon these frigid slabs of ice where _The Dream_ is born. These cold, snowy rinks are our churches. They are our playgrounds. When the greats lace up their boots and dazzle the masses, their glory echoes in renactment across all of our ice surfaces. 
+
+No game is more deserving of this immortal treatment than the gold medal game of Vancouver's 2010 Winter Olympics. It was the finest game of hockey - perhaps even the finest game - ever played. 
 
 **[Watch: Canada vs USA: The Finest Game of Hockey Ever Played (1080p)](https://www.youtube.com/watch?v=lmS-pztANow)**
 
@@ -52,17 +54,23 @@ And they worked their asses off. The players needed to scratch and claw for ever
 
 ![battle](/images/battle.png)
 
-There were more than a few dust-ups. Competition this intense is bound to boil over. In hockey, there is no focal point. Only the observers get fixated on the puck. The entire shape, 6 players aligning against 6 players, twists and wriggles in cohesive and elegant strategy. While the players play different positions and carry different responsibilities, it's pure battle. It's a war out there. I've played competitive hockey. You know what's a hard lesson to learn?
+There were more than a few dust-ups. Competition this intense is bound to boil over. In hockey, there is no focal point. Only the observers get fixated on the puck. The entire shape, 6 players aligning against 6 players, twists and wriggles in cohesive and elegant strategy. 
+
+While the players play different positions and carry different responsibilities, it's pure battle. It's a war out there. I've played competitive hockey. You know what's a hard lesson to learn?
 
 ![take a hit](/images/take-a-hit.png)
 
-How to take a hit to make a play. Do you see the bottom-most Canadian player, the fellow in white, the '1' on his jersey just visible? See the Canadian player to his right, ahead a short ways? Do you see that angry blue blurr that's three feet away? He's blurring because he's skating dozens of miles per hour. The moment #11, Patrick Marleau, of the Canadian team sails that dense, black, rubber biscuit off to his buddy to advance the play, he's going to get pancaked. It's going to hurt. 
+How to take a hit to make a play. Do you see the bottom-most Canadian player, the fellow in white, the '1' on his jersey just visible? See the Canadian player to his right, ahead a short ways? Do you see that angry blue blurr that's three feet away? He's blurring because he's skating dozens of miles per hour. 
+
+The moment #11, Patrick Marleau, of the Canadian team sails that dense, black, rubber biscuit off to his buddy to advance the play, he's going to get pancaked. It's going to hurt. 
 
 This happens every time a play is made. If you want to gain ground, if you want to create offense, if you want to provide defense, if you want to win, you're going to take punishment. You need to sacrifice your body. Over, and over again.
 
 ![the first goal, toews](/images/toews.png)
 
-If you're fearless and in the right spot, the doors of fate may open just a crack. You'll see a glimmer of daylight bleed through. If you have the composure and the tenacity like Jonathan Toews, captain of the Chicago Blackhawks, you might be able to pop in a goal or two. He scored the first one. Toews captained the Blackhawks to 3 Stanley Cups, the hardest trophy in sports to win. He's won the Conn Smythe as playoff MVP, has won gold for Canada at the U-17s, 2006 and 2007 World Junior Champships, and the 2010 Olympics and the 2014 Olympics. But on this team, everyone is that good. Everyone has a list of accolades so long a paragraph can nary contain them.
+If you're fearless and in the right spot, the doors of fate may open just a crack. You'll see a glimmer of daylight bleed through. If you have the composure and the tenacity like Jonathan Toews, captain of the Chicago Blackhawks, you might be able to pop in a goal or two. He scored the first one. 
+
+Toews captained the Blackhawks to 3 Stanley Cups, the hardest trophy in sports to win. He's won the Conn Smythe as playoff MVP, has won gold for Canada at the U-17s, 2006 and 2007 World Junior Champships, and the 2010 Olympics and the 2014 Olympics. But on this team, everyone is that good. Everyone has a list of accolades so long a paragraph can nary contain them.
 
 To make this team, Toews - like everyone else - needed to leave his ego at home. Each player on both sides is the champion of their respective team. It's leaders versus leaders; when 22 of you come together with a common goal, your pasts don't matter. Your ego doesn't matter. The team matters. You come together as a group and play the role the team needs. 
 
