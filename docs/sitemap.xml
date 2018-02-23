@@ -43,8 +43,18 @@
   </url>
   
   <url>
+    <loc>https://goodroot.ca/post/2016/03/22/after-ayahuasca/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://goodroot.ca/post/2015/11/15/social-networks-are-bad-for-you/</loc>
     <lastmod>2015-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/2015/03/15/the-hacker-who-drank-ayahuasca/</loc>
+    <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,7 +63,14 @@
   </url>
   
   <url>
+    <loc>https://goodroot.ca/categories/ayahuasca/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://goodroot.ca/categories/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

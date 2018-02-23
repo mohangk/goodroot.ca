@@ -6,7 +6,7 @@ categories:
   - Spirituality
   - Ayahuasca
 slug: after-ayahuasca
-published: false
+published: true
 ---
 
 One year ago, clothes were jammed into a backpack and a plane ticket was purchased for Iquitos, Peru. In the Amazon jungle, I spent a week with Shamans drinking Ayahuasca. My life has transformed. I am going to share with you my experiences re-integrating back into life after Ayahuasca.

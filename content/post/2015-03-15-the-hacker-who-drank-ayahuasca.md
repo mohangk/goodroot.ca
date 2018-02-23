@@ -6,7 +6,7 @@ categories:
   - Ayahuasca
   - Spirituality
 slug: the-hacker-who-drank-ayahuasca
-published: false
+published: true
 ---
 In the ‘90s, everyone was weird. The weirdest among us shuffled off the coil of reality entirely. We were the age-less, culture-less, state-less, God-less generation raised by the Internet… which is to say, we were raised by each other.
 
