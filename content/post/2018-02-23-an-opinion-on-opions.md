@@ -8,23 +8,15 @@ slug: an-opinion-on-opions
 published: true
 ---
 
-People seem uncomfortable having opinions. I’ve heard people claim with pride that they have weak opinions that they hold weakly. Even more troubling are those who state with superiority that they have no opinions whatsoever. Strong opinions are good and there is nothing wrong with having them.
+People seem uncomfortable having opinions. I’ve heard people claim with pride that they have weak, weakly held opinions. More baffling has been hearing others boast that they have no opinions whatsoever. Strong opinions are good and there's nothing wrong with having them.
 
 > “All opinions are not equal. Some are a very great deal more robust, sophisticated and well supported in logic and argument than others.” ― Douglas Adams
 
-Merriann-Webster gives us three definitions of opinion:
-
-* a : a view, judgment, or appraisal formed in the mind about a particular matter
-
-* b : belief stronger than impression and less strong than positive knowledge
-
-* c : a formal expression of judgment or advice by an expert
-
 An opinion is not a fact. A fact is verifiable. The cup weights 1lb. You can put the cup upon a scale and prove that it does, in fact, weight 1lb. An opinion is akin to a belief. An opinion is a working theory. 
 
-Definition c sticks out. If an opinion is ‘a formal expression of judgment or advice by an expert’, why do we frown upon them in an engineering environment? What's wrong with a working theory? We've decided that we want data, fact, proof. We've decided there is a right answer and a wrong answer.
+If an opinion is ‘a formal expression of judgment or advice by an expert’ - according to Merrian-Webster - why do we frown upon them in an engineering environment? What's wrong with a working theory? Don't we trust the experience of the experts we've hired? Perhaps not. We've decided that we want data, fact; where's the proof!
 
-If the expression of an expert’s knowledge and experience is their opinion, it should be valuable. But it isn’t. We’re skeptical because opinions are the precursor to ignorance. They're hard to contend with. You just want to _do_ something, but someone else has their mind made up already. They don't know what you know -- you're right, they're wrong! They aren't looking at the data.
+If the expression of an expert’s knowledge and experience is their opinion, it should be valuable. But it isn’t. We’re skeptical because opinions run precursor to ignorance. They're hard to contend with, we think. You just want to _do_ something, but someone else has their mind made up already. They don't know what you know -- they're missing something; they're running in one of their old patterns; they aren't looking at the data.
 
 > “When you develop your opinions on the basis of weak evidence, you will have difficulty interpreting subsequent information that contradicts these opinions, even if this new information is obviously more accurate.” ― Nassim Nicholas Taleb
 
@@ -32,9 +24,9 @@ Consider that you’ve invested 15 hours into building a new service. A contrary
 
 Rightfully so! Engineering is complicated. There isn’t a playbook to follow. Everything being built is being built to the spec of someone’s best guess. You made yours, you know what you’re doing, you’ve worked hard, and you feel compelled to defend your decisions.
 
-This contrary new idea is backed by the illustrious data. I’ve spent time working within IBM. I understand what it’s like when an empowered new word appears to instil the fear, uncertainty, and doubt intended to shake your axiomatic foundations. The data will over-come and conquer; all those before data are obsolete.  
+Suppose this contrary new idea is backed by the illustrious data. I understand what it’s like when an empowered new word appears to instil the fear, uncertainty, and doubt intended to shake your axiomatic foundations. The data will over-come and conquer; all those before data are obsolete.  
 
-Even though the industry changes at an unfathomable pace, data has the beast finally mastered. The new ideal to replace the free-spirited _Opinion Driven Development_ is _Data Driven Development_. 
+Even though the industry changes at an unfathomable pace, data claims to have the beast finally mastered. The new ideal to replace the withering _Opinion Driven Development_ is _Data Driven Development_.
 
 We want data driven decisions, now. You shouldn’t build that, because the data says… We should optimize for this instead, because the data says… But there’s a funny thing about data. Data is not always factual. You still need to interpret it.
 
@@ -68,8 +60,8 @@ When a new idea arrives to challenge it, the new idea needs to do the work. The 
 
 > “Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.” ― Ralph Waldo Emerson
 
-To do this with grace, you’ll need to pull your self-worth out of your ideas. Be cool about it. You are not your ideas. If you’re wrong, or right, or half-wrong, or some-what right, it doesn’t matter.
+To do this with grace, you’ll need to pull your self-worth out of your ideas. Be cool about it. You are not your ideas. If you are wrong, or right, or half-wrong, or some-what right, it doesn’t matter. 
 
 Do not let others bully you into insecurity by telling you you’re opinionated or stubborn. Do not pay heed to those acting self-righteous because they’re too cowardly to hold opinions. Do not let others abuse your aversion to friction to manipulate how you think or feel.
 
-Your opinion will do nothing but reflect positively upon you if you trust your heart, think lucidly, and put forward well-distilled, logical, and rational arguments. Be strong. Have strong opinions.
+Your opinion will do nothing but reflect positively upon you if you trust your heart, think lucidly, and put forward well-distilled, logical, and rational arguments. Be strong. Create a vision. Lead others. Have strong opinions.
