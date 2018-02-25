@@ -24,7 +24,7 @@ Consider that you’ve invested 15 hours into building a new service. A contrary
 
 Rightfully so! Engineering is complicated. There isn’t a playbook to follow. Everything being built is being built to the spec of someone’s best guess. You made yours, you know what you’re doing, you’ve worked hard, and you feel compelled to defend your decisions.
 
-Suppose this contrary new idea is backed by the illustrious data. I understand what it’s like when an empowered new word appears to instil the fear, uncertainty, and doubt intended to shake your axiomatic foundations. The data will over-come and conquer; all those before data are obsolete.  
+Suppose this contrary new idea is backed by the illustrious data. Every now and then, an empowered new concept appears and begins to instil the fear, uncertainty, and doubt needed to shake your axiomatic foundations. The data will over-come and conquer; all those before data are obsolete.  
 
 Even though the industry changes at an unfathomable pace, data claims to have the beast finally mastered. The new ideal to replace the withering _Opinion Driven Development_ is _Data Driven Development_.
 
@@ -56,12 +56,12 @@ You’re likely well paid. You’re probably an expert, too. You should have str
 
 Materialize it as best you can. Write it out. Write it well, make it structured.  When you collate your assumptions, do they hold up to your own scrutiny? If they do, become their champion. Put your opinion forward.
 
-When a new idea arrives to challenge it, the new idea needs to do the work. The onus is on _it_ now to demonstrate that it is more sound than your own. Don’t give up before the battle because of who is holding it or because it's based on a metric that seems compelling. Dig into it. Explore it. Question it. Be sceptical. Be sure. But give it a chance. If it succeeds, concede. 
+When a new idea arrives to challenge it, that new idea needs to do work. The onus is on _it_ now to demonstrate that it is more sound than your own. Don’t give up before the battle because of who is holding it or because it's based on a metric that seems compelling. Dig into it. Explore it. Question it. Be sceptical. Be sure. But give it a chance. If it succeeds, concede. 
 
 > “Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.” ― Ralph Waldo Emerson
 
 To do this with grace, you’ll need to pull your self-worth out of your ideas. Be cool about it. You are not your ideas. If you are wrong, or right, or half-wrong, or some-what right, it doesn’t matter. 
 
-Do not let others bully you into insecurity by telling you you’re opinionated or stubborn. Do not pay heed to those acting self-righteous because they’re too cowardly to hold opinions. Do not let others abuse your aversion to friction to manipulate how you think or feel.
+Do not let others bully you into insecurity by telling you that you’re opinionated or stubborn. Do not pay heed to those acting self-righteous because they’re too cowardly to hold opinions. Do not let others abuse your aversion to friction to manipulate how you think or feel.
 
 Your opinion will do nothing but reflect positively upon you if you trust your heart, think lucidly, and put forward well-distilled, logical, and rational arguments. Be strong. Create a vision. Lead others. Have strong opinions.
