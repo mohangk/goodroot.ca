@@ -11,7 +11,7 @@ Born Canadian, **Kellen** - also known as goodroot - is a wily and lighthearted 
 
 His greatest joys are his friends and loved ones, meditation, reading and writing, building and scaling distributed web architecture, cooking, and helping sprout positive teams and communities.
 
-Current hobbies include writing a book, exploring blockchain technologies, reading The Stormlight Archives, and playing Divinity Original Sin.
+Current hobbies include writing a book, exploring blockchain technologies, reading The Stormlight Archives (Oathbringer), and playing The Legend of Zelda: Breath of the Wild.
 
 <img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif">
 
