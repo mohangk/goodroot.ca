@@ -3,7 +3,7 @@ title: Home
 ---
 <img src="https://raw.githubusercontent.com/goodroot/goodroot.ca/master/themes/hugo-classic/images/kellen-thumbs.png" style="min-width:40px;float:right;padding:10px;" alt="Kellen Face">
 
-## Kellen Evan person
+## Kellen Evan Person
 
 ### :ocean: Tinkering on the Internet circa 1998 
 
