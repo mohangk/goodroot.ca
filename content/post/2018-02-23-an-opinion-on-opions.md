@@ -8,13 +8,13 @@ slug: an-opinion-on-opions
 published: true
 ---
 
-People seem uncomfortable having opinions. I’ve heard people claim with pride that they have weak, weakly held opinions. More baffling has been hearing others boast that they have no opinions whatsoever. Strong opinions are good and there's nothing wrong with having them.
+People seem uncomfortable having opinions. I’ve had people tell me with pride that they have weak, weakly held opinions. I've had others boast that they hold no opinions of any kind. Strong opinions are good and there's nothing wrong with having them.
 
 > “All opinions are not equal. Some are a very great deal more robust, sophisticated and well supported in logic and argument than others.” ― Douglas Adams
 
 An opinion is not a fact. A fact is verifiable. The cup weights 1lb. You can put the cup upon a scale and prove that it does, in fact, weight 1lb. An opinion is akin to a belief. An opinion is a working theory. 
 
-If an opinion is ‘a formal expression of judgment or advice by an expert’ - according to Merrian-Webster - why do we frown upon them in an engineering environment? What's wrong with a working theory? Don't we trust the experience of the experts we've hired? Perhaps not. We've decided that we want data, fact; where's the proof!
+If an opinion is ‘a formal expression of judgment or advice by an expert’ - according to Merrian-Webster - why do we frown upon them? What's wrong with a working theory? Don't we trust the experience of the experts we've hired or the company we keep? Perhaps not. We've decided that we want data, fact; where's the proof!
 
 If the expression of an expert’s knowledge and experience is their opinion, it should be valuable. But it isn’t. We’re skeptical because opinions run precursor to ignorance. They're hard to contend with, we think. You just want to _do_ something, but someone else has their mind made up already. They don't know what you know -- they're missing something; they're running in one of their old patterns; they aren't looking at the data.
 
@@ -64,4 +64,4 @@ To do this with grace, you’ll need to pull your self-worth out of your ideas. 
 
 Do not let others bully you into insecurity by telling you that you’re opinionated or stubborn. Do not pay heed to those acting self-righteous because they’re too cowardly to hold opinions. Do not let others abuse your aversion to friction to manipulate how you think or feel.
 
-Your opinion will do nothing but reflect positively upon you if you trust your heart, think lucidly, and put forward well-distilled, logical, and rational arguments. Be strong. Create a vision. Lead others. Have strong opinions.
+Your opinion will do nothing but reflect positively upon you if you trust your heart, think lucidly, and put forward well-distilled, logical, and rational arguments. Be strong. Create a vision. Lead others. Have strong opinions. Otherwise, you're just a type of fleshy, compliant automaton.
