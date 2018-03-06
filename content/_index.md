@@ -23,7 +23,7 @@ His greatest joys are his friends and loved ones, meditation, reading and writin
 ------
 ### Open Source
 
-* [The Canalyzer](https://github.com/goodroot/canalyzer): Real-time headphone analysis and benchmarking engine, visit [here](https://canalyzer.ca). 
+* [The Canalyzer](https://github.com/goodroot/canalyzer): Real-time headphone analysis and benchmarking engine, live [here](https://canalyzer.ca). 
 * [Hugo-Classic](https://themes.gohugo.io/hugo-classic/): Source for this blog, a theme for [Hugo](https://gohugo.io).
 
 ------
