@@ -8,7 +8,7 @@ slug: the-garden-axiom
 published: true
 ---
 
-We hear ideas and often times our filters disallow entry into our minds. Our membranes of convention, intellect, logic, and reason, do not find it it easy to entertain the spectres of the meta-physical. If, for example, I wanted to share with you a Shamanic concept that could have a significant, positive impact on your life, how would you feel? Would you allow it? Could you accept it? At least we can entertain it.
+We hear ideas and often times our filters disallow entry into our minds. Our membranes of convention, intellect, logic, and reason, do not find it it easy to entertain the spectres of the meta-physical. If, for example, I wanted to share with you a Shamanic concept that could have a significant, positive impact on your life, how would you feel? Would you allow it? At least we can entertain it.
 
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” ― Aristotle
 
@@ -62,9 +62,7 @@ Within this space, we perceive and interact with a non-ordinary world, morphing 
 
 > “Skywalker is a direct translation of the word shaman out of the Tungusic, which is where Siberian shamanism comes from. So these heroes that are being instilled in the heart of the culture are shamanic heroes. They control a force which is bigger than everybody and holds the galaxy together.” — Terrence McKenna
 
-If we bend to this premise, that we become the master of our subconscious dream states, and our conscious state through imagination, what is off-limits to us? What other Shamanic techniques can we deploy? 
-
-To bludgeon you with things that polarize, I discovered one such technique in the midst of an Ayahuasca ceremony in the Amazon. 
+If we bend to this premise, that we become the master of our subconscious dream states, and our conscious state through imagination, what is off-limits to us? What other Shamanic techniques can we deploy? To bludgeon you with things that polarize, I discovered one such technique in the midst of an Ayahuasca ceremony in the Amazon. 
 
 During a period of rest when no one needed tending to, I found a quiet corner in our maloca, our ceremonial hut. I write a lot. I’ve started writing a book. As is common among advice within the Peruvian Ayahuasca tradition, I put forward an intention to the medicine. I sent an open call out to spirits of all ilk: “Would anyone like to be written about?”
 
