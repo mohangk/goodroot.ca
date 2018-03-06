@@ -66,7 +66,7 @@ If we bend to this premise, that we become the master of our subconscious dream 
 
 During a period of rest when no one needed tending to, I found a quiet corner in our maloca, our ceremonial hut. I write a lot. I’ve started writing a book. As is common among advice within the Peruvian Ayahuasca tradition, I put forward an intention to the medicine. I sent an open call out to spirits of all ilk: “Would anyone like to be written about?”
 
-There’s a _be careful what you wish for_ joke that  Ayahuasca drinkers wink at. This was one of those moments. Following my request, every faculty of my being became overwhelmed by input. 
+Be careful what you wish for! Following my request, every faculty of my being became overwhelmed by input. 
 
 Every synapse crackled to life, every cell vibrated in response. Vistas of dense harmonies erupted through my ears, pungent smells oozed into my nostrils; vision, after vision, after vision, bombarded my mind, smashing into one another and accumulating in an eternity of fractal creature, place, feeling, emotion, duality; ecstatic madness; weirdness. 
 
