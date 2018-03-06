@@ -72,7 +72,7 @@ Every synapse crackled to life, every cell vibrated in response. Vistas of dense
 
 “Whoa! Hold on, gang. We’ll have to come up with something a bit more — Erhmm… Manageable….”
 
-At that moment, all became clear. Three platforms hovering, one above the other. A waterfall splashes down from the top, to the middle, to the bottom, drawing from an infinite well of liquid that rests somewhere within the inky black abyss which cradles three separate blazing suns made up of  pure creative frequency. One white, one violet, one orange, each with different shades of feeling, attitude, character, setting, and opinion. 
+At that moment, all became clear. Three platforms hovering, one above the other. A waterfall splashes down from the top, to the middle, to the bottom, drawing from an infinite well of liquid that rests somewhere within the inky black abyss which cradles three separate blazing suns made up of  pure creative frequency. One white, one violet, one a shimmer colour I can't quite comprehend, each with different shades of feeling, attitude, character, setting, and opinion. 
 
 I walk up the steps, which themselves hang suspended in the air. Here, I am weightless. I marvel at the rich, fertile soil which stretches as far as I dare make it go. I find myself mesmerized as the garden plots spirals downwards, ever-downwards, or maybe upwards. I query the spirits again, refreshed by the reprieve from my temporary madness. This time, I am more careful.
 
