@@ -85,5 +85,3 @@ I’ll need help, I decide. And a friend appears. A spirit I am familiar with. H
 When I catch quiet moments, this is where I go. I walk among the rows, through the forests, singing to the plants, the wild-life, the flowers, and the trees. Ideas become seeds, rumination and insight the waters that nourish. 
 
 The spirit is there, always toiling, and when comes the need to pluck something, we pluck it together. He protects this place, cares for it; he takes his duties with serious diligence and holds me accountable to procrastinations. Only the right things may enter; even _I_ am not allowed in from time to time. I know this garden well and marvel at the intrigue, mystery, romance, and adventure that wait in bloom.
-
-I wonder, when I’m gone, will anyone come here and visit? Will you listen to the whispers of the stories I have grown? Will you plant these same seeds in your  own garden, shower them in your perspective, and see what grows? I’d like to find out and will explore it with you if I can.
