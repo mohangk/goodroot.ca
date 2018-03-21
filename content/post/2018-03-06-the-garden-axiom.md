@@ -8,17 +8,13 @@ slug: the-garden-axiom
 published: true
 ---
 
-Our membranes of convention, intellect, logic, and reason, don't find it it easy to entertain the spectres of the meta-physical. If, for example, I wanted to share with you a Shamanic concept that could have a significant, positive impact on your life, how would you feel? Would you allow it? At least we can entertain it.
-
 > “It is the mark of an educated mind to be able to entertain a thought without accepting it.” ― Aristotle
 
 You’ve applied Shamanism before, I’m sure of it. But no one would have told you that’s what it was.  And so the question becomes, what’s Shamanism? If you ask Wikipedia, it’d tell you that….
 
 _“Shamanism is a practice that involves a practitioner reaching altered states of consciousness in order to perceive and interact with a spirit world and channel these transcendental energies into this world.”_
 
-Our pontificating, scientificating membranes will scoff at most of those words. The sort of altered states most of us are familiar with come from the delirium of alcohol, the distraction of Cannabis, or the shallow veneer of club drugs. 
-
-These substances render altered states, indeed, but - with the exception of Entheogen - are seldom used with the intention of interacting with the spirit world to _manifest transcendental energy_. We’re more familiar with those sorts of substances as a method of, as we say in my part of Canada, _getting dickered_.   
+The sort of altered states most of us are familiar with come from the delirium of alcohol, the distraction of Cannabis, or the shallow veneer of club drugs. These substances render altered states, indeed, but - with the exception of Entheogen - are seldom used with the intention of interacting with the spirit world to _manifest transcendental energy_. We’re more familiar with those sorts of substances as a method of, as we say in my part of Canada, _getting dickered_.   
 
 There are at least two Shamanic methodologies which have warbled their way into contemporary consciousness. The first is method is lucid dreaming.  
 
