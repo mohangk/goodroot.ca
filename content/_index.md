@@ -5,7 +5,7 @@ title: Home
 
 ## Kellen Evan Person
 
-### :ocean: Tinkering on the Internet circa 1998 
+### :ocean: Always learning
 
 Born Canadian, **Kellen** - also known as goodroot - is an intrepid veteran of the World Wide Web. He's spent nearly two decades developing things on the Internet.
 
