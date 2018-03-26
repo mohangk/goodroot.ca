@@ -27,4 +27,4 @@ Thank you, Paul. Rest well, my friend. I will no longer hide from the insights w
 
 ![A cool picture of Dr. Paul](/images/paul_roberts.jpg)
 
-_Dr. Paul Roberst: January 17, 1955 - February 21, 2018_
+_Dr. Paul Roberts: January 17, 1955 - February 21, 2018_
