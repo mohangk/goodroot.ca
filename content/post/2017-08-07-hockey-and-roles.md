@@ -4,6 +4,7 @@ date: 2017-08-07T13:56:31-07:00
 author: Kellen Evan Person
 categories:
   - Culture
+published: false
 ---
 
 Hockey is a beautiful sport. Like many younglings who were born in Western Canada, I was raised in part by hockey rinks. Not long after becoming sufficient in tippy baby-walking, I was outside in the deep cold of an Albertan winter with blades strapped to my feet. Little did I know that the sport of hockey would teach me some of the most valuable life lessons and become an integral aspect of my character and contribute to my successes in technical teams.

@@ -5,6 +5,7 @@ author: Kellen Evan Person
 categories:
   - Culture
 slug: digital-vinyl
+published: false
 ---
 My ears can hear whatever they want. There’s a magical program within my computer and when I explore it every composition becomes mine. It makes lists for me, using heuristics to determine what I’d like to listen to. It’s often right. Music is beautiful. Music is on rails. A part of music is dead.
 
