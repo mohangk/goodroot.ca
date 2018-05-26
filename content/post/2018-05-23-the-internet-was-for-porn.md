@@ -8,7 +8,7 @@ slug: the-internet-was-for-porn
 published: true
 ---
 
-I am a child of the Internet. The allure of its borderless edges, never-ending stories, unrelenting novelty, and limitless supply of companions, had seduced me before I developed the faculties for resistance. The Internet is heralded as the greatest collaborative engineering effort in human history.  But it is much more than that. It is the mirror into which we meet our raw, carnal reality. It is the weaponized platform for our conflicts and outrage. It is the vehicle for our spiritual ascendence.
+I am a child of the Internet. The allure of its borderless edges, never-ending stories, unrelenting novelty, and limitless supply of companions, had seduced me before I developed the faculties for resistance. The Internet is heralded as the greatest collaborative engineering effort in human history.  But it is much more than that. It is the mirror into which we meet our raw, carnal reality. It is the weaponized platform for our conflicts and outrage. It is rocketing us towards our spiritual evolution.
 
 The world around me was polishing itself. There was a plan. By going to school, being quiet, and confining my perspectives into a curriculum, I was taught that I could succeed within it. This is science, this is history, this is how you write, this is how you behave. The machinery told me one thing. The Internet told me another. 
 
