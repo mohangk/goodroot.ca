@@ -24,9 +24,9 @@ We are angry. Cause, after cause, we claw at each other and spit vitriol. The de
 
 Axiomatic social rhythms have undergone gleeful decimation. We do not need old philosophers to educate us upon the relativity of truth, to remind us that the world is many shades, that there are always more questions. We can now sit back, flick through a glowing screen, and witness it all. The red, the blue, the black, the white, all culminating in an endless flow of mud. Our thoughts are no longer valuable. 
 
-Our social reality is in tatters. The next wall to topple will be that of our limitations. We are participants in the exhaustion of intellect. We are nearing mastery of our tangible reality. There is work to do. But it is within our grasp. We can meet the needs of every person on the planet. The sun gives us power. Our ingenuity has produced efficiencies and artworks that defy the imagination. We can return to natural balance with the nature, with Earth. Our species is destined to dance within the cosmos. The game is almost over.  Our labour is no longer valuable. 
+Our social reality is in tatters. The next wall to topple will be that of our limitations. We are participants in the exhaustion of intellect. We are nearing mastery of our tangible reality. There is work to do. But it is within our grasp. We can meet the needs of every person on the planet. The sun gives us power. Our ingenuity has produced efficiencies and artworks that defy the imagination. We can return to natural balance with with the Earth. Our species is destined to dance within the cosmos. The game is almost over. Our labour is no longer valuable. 
 
-But then what’s next? What is left? What are we?
+But without valuable thoughts and without valuable labour, what is next? What is left? What are we?
 
 Ancient and brilliant spiritual philosophies and modern psychologies share a common thread. There is the construct, our thoughts, the mind, the ego, the self; the thing with many names. Beyond the thing is the watcher, the observer, our spirit, the truth; God. 
 
