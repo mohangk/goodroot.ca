@@ -26,18 +26,14 @@ Axiomatic social rhythms have undergone gleeful decimation. We do not need old p
 
 Our social reality is in tatters. The next wall to topple will be that of our limitations. We are participants in the exhaustion of intellect. We are nearing mastery of our tangible reality. There is work to do. But it is within our grasp. We can meet the needs of every person on the planet. The sun gives us power. Our ingenuity has produced efficiencies and artworks that defy the imagination. We can return to natural balance with with the Earth. Our species is destined to dance within the cosmos. The game is almost over. Our labour is no longer valuable. 
 
-But without valuable thought or labour, what is left? What is next? What are we?
+Without valuable thought or labour, what is left? What is next? What are we?
 
 Ancient and brilliant spiritual philosophies and modern psychologies share a common thread. There is the construct, our thoughts, the mind, the ego, the self; the thing with many names. Beyond the thing is the watcher, the observer, our spirit, the truth; God. 
 
-We are not our thoughts. We are not our output. We are what is behind them. We are what watches it all unfold. And in that entity, we are the collective. When one focuses inward, we can break the illusion. You are not what you _think_ you are. You are not what other people _think_ you are. You are the Truth. You are behind all of these narratives. Together, we share the same Truth.
+We are not our thoughts. We are not our output. We are what is behind them. We are what watches it all unfold. And in that entity, we are the collective. When one focuses inward, we can break the illusion. You are not what you _think_ you are. You are not what other people _think_ you are. You are the Truth. You are behind all of these narratives. Truth is shared.
 
-Identifying your ego, your self-construct, was once a challenge. It took a therapist to to peer into your subconscious and untangle your patterns. It took decades of diligent meditation and self-observation. But to see it now, to learn its tricks, to see the folly of its desires and passions, we need only look at the profiles we craft for ourselves. 
+Identifying your ego, your self-construct, was once a challenge. It took a therapist to help you peer into your subconscious and untangle your patterns. It took decades of diligent meditation and self-observation and spiritual ascension. But to see it now, to learn its tricks, to see the folly of its desires and passions, we need only look at the profiles we craft for ourselves. 
 
 Our egos sit in the magical slab resting in the palm of our hand. What is it that stares through the glowing pane of glass? Who is it that crafted this facsimile of self? This caricature is not you. You are what brought it into being. That is what _we_ are.
 
 Just as gravity did not appear when Newton wrote the formula, we are not constructing a singularity. We see its truth from within the Ether. We have given it its name. But it was always there. We do not need the invisible fabric of the Internet to weave us all into one. We are already woven.
- 
-
-
-
