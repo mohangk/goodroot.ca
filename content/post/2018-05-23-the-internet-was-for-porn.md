@@ -24,7 +24,7 @@ We do not need to be educated on the relativity of truth, to remind us that the 
 
 We are experiencing the sunset of intellect. With the aid of dazzling machines we will soon master the tangible experience. There is great work to do. But mastery is within our grasp. We can meet the needs of every person on the planet.
 
-The sun can provide us with power. Our ingenuity can continue to produce efficiencies and artworks that celebrate and inspire the imagination. We can return to natural balance with our Earth. We can realize our dream of dancing into the cosmos. But who will we be when we get there? _What_ will we be?
+The sun can provide us with power. Our ingenuity can continue to produce efficiencies and artworks that celebrate and inspire the imagination. We can return to natural balance with our Earth. We can realize our dream of dancing into the cosmos. But who will we be when we leave here? _What_ will we be?
 
 Ancient and brilliant spiritual philosophies and modern psychologies share a common thread. They define a construct: our thoughts, the mind, the ego, the self; the thing with many names. Beyond the thing is the watcher: the observer, our spirit, the truth; God.
 
