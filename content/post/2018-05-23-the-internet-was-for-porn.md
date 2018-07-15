@@ -8,7 +8,7 @@ slug: the-internet-was-for-porn
 published: true
 ---
 
-Oh, the Internet. Its borderless edges, never-ending stories, unrelenting novelty, and limitless supply of companions won my heart and captivated my imagination. The Internet is heralded as the greatest collaborative engineering effort in human history.  But it is much more than that. It is the mirror within which we see our reality. It is the final platform for our conflicts and outrage. And it is rocketing us towards spiritual evolution.
+Oh, the Internet. Its borderless edges, never-ending stories, unrelenting novelty, and limitless supply of companions has won my heart and captivated my imagination. The Internet is heralded as the greatest collaborative engineering effort in human history.  But it is much more than that. It is the mirror within which we see our reality. It is the final platform for our conflicts and outrage. And it is rocketing us towards spiritual evolution.
 
 Growing up, I saw culture work to establish reality. There was a plan. By going to school, being quiet and confining my perspectives into a curriculum, I was taught that I could succeed. This is science, this is history, this is how you write, this is how you behave. The plan told me one thing. But the Internet told me another.
 
