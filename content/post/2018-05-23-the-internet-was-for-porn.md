@@ -10,8 +10,6 @@ published: true
 
 Oh, the Internet. Its borderless edges, never-ending stories, unrelenting novelty, and limitless supply of companions has won my heart and captivated my imagination. The Internet is heralded as the greatest collaborative engineering effort in human history.  But it is much more than that. It is the mirror within which we see our reality. It is the final platform for our conflicts and outrage. And it is rocketing us towards spiritual evolution.
 
-Growing up, I saw culture work to establish reality. There was a plan. By going to school, being quiet and confining my perspectives into a curriculum, I was taught that I could succeed. This is science, this is history, this is how you write, this is how you behave. The plan told me one thing. But the Internet told me another.
-
 Today the Internet is tidy. Monolithic structures sit like beacons of order. Your friends live in Social Networks, your games are on this platform and your videos are curated for on that platform. All of your content is collected in aggregate and filtered to you based on your interests. We can love, misbehave and roil amongst each other within beautiful systems.
 
 As often as you can find light, so too can you find darkness. If you are searching for games, you can find out how to cheat. If you are looking for friends, you can find combatants. If you are looking for horror, sexuality, gore and depravity, you can find it. If you are not looking for horror, sexuality, gore and depravity, you can find it, too!  
