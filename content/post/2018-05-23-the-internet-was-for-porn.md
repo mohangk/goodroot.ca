@@ -8,7 +8,7 @@ slug: the-internet-was-for-porn
 published: true
 ---
 
-I am a child of the Internet. The allure of its borderless edges, never-ending stories, unrelenting novelty, and limitless supply of companions won my heart. The Internet is heralded as the greatest collaborative engineering effort in human history.  But it is much more than that. It is the mirror within which we see our reality. It is the final platform for our conflicts and outrage. And it is rocketing us towards our spiritual evolution.
+I am a child of the Internet. The allure of its borderless edges, never-ending stories, unrelenting novelty, and limitless supply of companions won my heart and captivated my imagination. The Internet is heralded as the greatest collaborative engineering effort in human history.  But it is much more than that. It is the mirror within which we see our reality. It is the final platform for our conflicts and outrage. And it is rocketing us towards our spiritual evolution.
 
 Growing up, I saw culture work to establish reality. There was a plan. By going to school, being quiet and confining my perspectives into a curriculum, I was taught that I could succeed within it. This is science, this is history, this is how you write, this is how you behave. The plan told me one thing. The Internet told me another.
 
@@ -34,4 +34,4 @@ We are not our thoughts. We are what is behind them. We are what is watching the
 
 Identifying this ego, this story, the self-construct, was once a challenge. It took a therapist to help one peer into their subconscious and unearth their patterns of thought, their creations. Or it took deep spiritual practice or decades of diligent self-documentation and cultural revolution. But to see it now, to learn its tricks, to see the folly of its desires and passions, we need only look at the profiles we craft for ourselves.
 
-We have uploaded the ego into the magical machine that we clutch in our hands. And when we gaze into our profiles through glowing glass, who is it that gazing looking? It is the watcher, the spirit. The more clear this becomes, the easier the skin is to shed. And when we leave, we leave together. 
+We have uploaded the ego into the magical machine that we clutch in our hands. And when we gaze into our profiles through glowing glass, who is it that gazing looking? It is the watcher, the spirit. The more clear this becomes, the easier the skin is to shed. And when we leave, we leave together.
