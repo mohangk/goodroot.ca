@@ -34,4 +34,4 @@ We are not our thoughts. We are what is behind them. We are what is watching the
 
 Identifying this ego, this story, the self-construct, was once a challenge. It took a therapist to help one peer into their subconscious and unearth their patterns of thought, their creations. Or it took deep spiritual practice or decades of diligent self-documentation and cultural revolution. But to see it now, to learn its tricks, to see the folly of its desires and passions, we need only look at the profiles we craft for ourselves.
 
-We have uploaded the ego into the magical machine that we clutch in our hands. And when we gaze into our profiles through glowing glass, who is it that gazing looking? It is the watcher, the spirit. The more clear this becomes, the easier the skin is to shed. And when we leave, we leave together.
+We have uploaded the ego into the magical machine that we clutch in our hands. And when we gaze into our profiles through glowing glass, what is it that is seeing? It is the watcher, the spirit. The more clear this becomes, the easier the skin is to shed. And when we leave, we leave together.
