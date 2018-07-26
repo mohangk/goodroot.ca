@@ -7,7 +7,7 @@ title: Home
 
 ### :ocean: Always learning
 
-Born Canadian, **Kellen** - also known as goodroot - is an intrepid veteran of the World Wide Web. He has spent nearly two decades developing things on the Internet.
+Born Canadian, **Kellen** - also known as goodroot - is an explorer and builder of the World Wide Web. He has spent nearly two decades developing things on the Internet. He is a proud member of [Elastic](https://elastic.co).
 
 His greatest joys are his friends and loved ones, meditation, cooking, reading and writing, crafting distributed web architecture, and helping sprout positive teams and communities.
 
@@ -16,9 +16,12 @@ His greatest joys are his friends and loved ones, meditation, cooking, reading a
 ------
 ### Open Source
 
-* [The Canalyzer](https://github.com/goodroot/canalyzer): Real-time headphone analysis and benchmarking engine, [canalyzer.ca](https://canalyzer.ca). 
+* [The Canalyzer](https://github.com/goodroot/canalyzer): Real-time headphone analysis and benchmarking engine, [canalyzer.ca](https://canalyzer.ca).
 * [Hugo-Classic](https://themes.gohugo.io/hugo-classic/): Source for this blog, a theme for [Hugo](https://gohugo.io).
 
 ------
 
-### Writings
+### Rotating Writings
+
+* [Seeds](/post/2018/03/06/seeds/)
+* [Do the Astral](/post/2017/01/20/do-the-astral-plane/)
