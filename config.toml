@@ -9,6 +9,15 @@ enableEmoji = true
 
 footnotereturnlinkcontents = "↩"
 
+[[menu.main]]
+    name = "Archive"
+    url = "/archive/"
+    weight = 2
+
+[[menu.feed]]
+    name = "rss"
+    url = "/index.xml"
+
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
 
