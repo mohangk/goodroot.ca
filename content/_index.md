@@ -23,5 +23,6 @@ His greatest joys are his friends and loved ones, meditation, cooking, reading a
 
 ### Rotating Writings
 
+* [Twice Dead](/post/2018/07/29/twice-dead/)
 * [Seeds](/post/2018/03/06/seeds/)
 * [Do the Astral](/post/2017/01/20/do-the-astral-plane/)
