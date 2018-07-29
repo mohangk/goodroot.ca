@@ -9,11 +9,11 @@ published: true
 ---
 
 ```
-When I was done dying,
-my conscious regained
-So I began the struggle,
-a nothingness strained
-      - Dan Deacon
+                        When I was done dying,
+                        my conscious regained
+                        So I began the struggle,
+                        a nothingness strained
+                              - Dan Deacon
 ```
 
 This is a story of my two deaths. Growing up, I was thrice relocated: kindergarten, grade four and grade nine. Each move required that I reinvent my character. Traumatic, but not death. I was much alive!
