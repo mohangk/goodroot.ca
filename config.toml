@@ -11,7 +11,7 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
     name = "Writings"
-    url = "/writings/"
+    url = "/archive/"
     weight = 2
 
 [[menu.feed]]
