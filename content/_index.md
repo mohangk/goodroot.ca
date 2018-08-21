@@ -14,12 +14,6 @@ His greatest joys are his friends and loved ones, meditation, cooking, reading a
 <img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif">
 
 ------
-### Open Source
-
-* [The Canalyzer](https://github.com/goodroot/canalyzer): Real-time headphone analysis and benchmarking engine, [canalyzer.ca](https://canalyzer.ca).
-* [Hugo-Classic](https://themes.gohugo.io/hugo-classic/): Source for this blog, a theme for [Hugo](https://gohugo.io).
-
-------
 
 ### Rotating Writings
 
