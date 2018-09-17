@@ -9,11 +9,6 @@ enableEmoji = true
 
 footnotereturnlinkcontents = "↩"
 
-[[menu.main]]
-    name = "Writings"
-    url = "/archive/"
-    weight = 2
-
 [[menu.feed]]
     name = "rss"
     url = "/index.xml"
@@ -23,4 +18,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "An introduction to Goodroot."
-    footer = "Be Excellent to Each Other | [GitHub](https://github.com/goodroot) | [Keybase](https://keybase.io/goodroot) | [Open-source Theme](https://themes.gohugo.io/hugo-classic/) | public@goodroot.ca"
+    footer = "Be Excellent to Each Other | [GitHub](https://github.com/goodroot) | [Keybase](https://keybase.io/goodroot) | [Fork Theme](https://themes.gohugo.io/hugo-classic/) | public@goodroot.ca"

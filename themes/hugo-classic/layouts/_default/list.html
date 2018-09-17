@@ -6,4 +6,13 @@
 
 {{ .Content }}
 
+<ul>
+  {{ range ( where .Site.RegularPages "Title" "!=" "Archive" ) }}
+  <li>
+    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+    <a href="{{ .URL }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+
 {{ partial "footer.html" . }}
