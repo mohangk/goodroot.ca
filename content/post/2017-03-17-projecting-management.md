@@ -1,10 +1,9 @@
 ---
 title: Projecting Management
 date: '2017-03-17'
-author: Kellen Evan Person
-categories:
-  - Programming
+author: Kellen Evan
 slug: projecting-management
+published: false
 ---
 
 Communication is an exchange of ideas and emotions. When working remotely, our primary vehicle for communication is text. Is this healthy? We’ll look into a few passive aggressive manifestations to better prepare ourselves for the weird feelings Slack might give us. Then, we’ll see how we can do better.

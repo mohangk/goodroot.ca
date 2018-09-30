@@ -1,19 +1,17 @@
 ---
 title: "Twice Dead"
-author: Kellen Evan Person
+author: Kellen Evan
 date: '2018-07-29'
-categories:
-  - Spirituality
 slug: twice-dead
 published: true
 ---
 
 ```
-                                      When I was done dying,
-                                      my conscious regained
-                                      So I began the struggle,
-                                      a nothingness strained
-                                            - Dan Deacon
+                                  When I was done dying,
+                                  my conscious regained
+                                  So I began the struggle,
+                                  a nothingness strained
+                                        - Dan Deacon
 ```
 
 This is a story of my two deaths. Growing up, I was thrice relocated: kindergarten, grade four and grade nine. Each move required that I reinvent my character. Traumatic, but not death. I was much alive!
@@ -30,7 +28,7 @@ Not one to shy away from an opportunity to conjure a smile, I performed the most
 
 No laughter.
 
-“…That was not funny…”
+“…That was *not* funny…”
 
 A torturous silence followed.
 
@@ -50,7 +48,7 @@ My things were moved within an hour. My car was parked out front, my mattress pl
 
 A personality is what we show to the world. It is us, our self: me, I. The personality, the self, is our story of who we believe ourselves to be. How are our personalities created? Through experiences, through time.
 
-The beautiful machine of gray matter within our skull computes this self-narrative with impressive consistency. At all times it creates presence, an abiding belief that you are you, a living thing, whole, attached, here, relevant, and alive. It is vast and powerful, yet not immune to failure. In the shower that day, for _me_,  the system crashed.
+The beautiful machine of gray matter within our skull computes this self-narrative with impressive consistency. It creates your presence, the abiding belief that you are you, a living thing, whole, attached, here, relevant, and alive. It is vast and powerful, yet not immune to failure. In the shower that day, for _me_,  the system crashed.
 
 In an instant, there was no character. There was no self. No personality. No I.  A recursive mess of madness; self-references, referencing self-references which lack definition. The primitive gears in my mind remained alert: panic, horror, flight. Something is wrong. The system is offline. I sat on the floor of the shower, water pelting my head.
 
@@ -58,15 +56,15 @@ Where am I? Who am I? I… I know my name. I am me. I went to this school and I 
 
 I remained there for what felt like an eternity. There was no time. I had no answers to these questions. There remained only a strange sense of observation and dire screams from my animalistic senses.
 
-As the weeks went by my mind started to return to normal. But the operating system had changed, a fundamental alteration to the underlying source code. I now understood the existence of consciousness, separate from the idea of personality, of me.
+As the weeks went by my mind started to return to normal. But the operating system had changed, a fundamental alteration to the underlying source code. I now understood the existence of consciousness separate from the idea of personality, of me.
 
 I had heard about these moments from books and meditative teachings. But the experience was pure, harrowing madness. It was psychosis. I had experienced death of the self. This was my first death.
 
-After death comes rebirth. I moved into my own apartment, no roommate. I explored music. I worked on my mental health. I kept meditating. I changed every relationship I had and became the sole owner of my life, responsible for writing and participating within my own narratives. This journey of self authoring culminated in an experience with Ayahuasca, a powerful Amazonian Entheogen.  
+After death comes rebirth. I moved into my own apartment. No roommate. I explored music. I worked on my mental health. I kept meditating. I changed every relationship I had and became the sole owner of my life, responsible for writing and participating within my own narratives. This journey of self authoring culminated in an experience with Ayahuasca, a powerful Amazonian Entheogen.  
 
 I needed help creating a better self, telling a better story. I understood the impact that Entheogen like Ayahuasca can have on neurological plasticity.
 
-Plasticity is the brains ability to change, to establish new relationships, to soften. I made progress against depression through a methodical re-working of my mental patterns: meditation and mindfulness, exercise, a healthy diet, better relationships, and time.
+Plasticity is the brains ability to change, to establish new relationships, to soften. I made progress against depression through a methodical reworking of my mental patterns. I practiced meditation and mindfulness, I exercised, ate healthy diet, built better relationships, and went through time.
 
 But there was a knot. It was bleak, heavy, and often afflicting. A black mass. An error, deep in the code. I felt it time for the code to be re-written.
 
@@ -76,4 +74,4 @@ If behind your personality lies your experiences, then what lies behind experien
 
 Truth is the observer. It witnesses you - your personality, your narrative - unfold as an expression of time, from outside of time. Truth exists beyond what eyes can see and a mind - a self - can compute. Death is your imaginations best interpretation of Truth.
 
-The self can die to madness. It can die to Entheogen. It can die to deep meditation. It can die as all will do. My third death, whenever it may come, could be my final death. And from it, I may not return. But fear not, for it is only the self that is destroyed. The spirit forever remains with Truth.
+The self can die to madness. It can die to Entheogen. It can die to deep meditation. It can die as all will do. My third death, whenever it may come, could be my final death. And from it, I may not return. But fear not, for it is only the self that is destroyed. My spirit will forever remain as Truth.

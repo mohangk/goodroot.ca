@@ -1,6 +1,6 @@
 ---
 title: "Microdosing Affect"
-author: Kellen Evan Person
+author: Kellen Evan
 date: '2017-08-27'
 categories:
   - Microdosing

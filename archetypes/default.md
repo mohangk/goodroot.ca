@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-author: Kellen Evan Person
+author: Kellen Evan
 categories:
 draft: true
 ---

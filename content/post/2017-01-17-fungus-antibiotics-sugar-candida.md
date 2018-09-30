@@ -1,7 +1,7 @@
 ---
 title: Fungus - A Tale of Anti-Biotics, Sugar, and Candida
 date: '2017-01-17'
-author: Kellen Evan Person
+author: Kellen Evan
 categories:
   - Health
 slug: fungus-antibiotics-sugar-candida

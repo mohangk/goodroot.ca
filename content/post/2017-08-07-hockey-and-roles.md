@@ -1,7 +1,7 @@
 ---
 title: "Hockey and Roles"
 date: 2017-08-07T13:56:31-07:00
-author: Kellen Evan Person
+author: Kellen Evan
 categories:
   - Culture
 published: false

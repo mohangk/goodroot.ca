@@ -1,7 +1,7 @@
 ---
 title: How to Get a Remote Job
 date: '2017-02-24'
-author: Kellen Evan Person
+author: Kellen Evan
 categories:
   - Programming
   - Remote Hiring

@@ -3,6 +3,8 @@ body {
   margin: auto;
   padding: .2em;
   line-height: 1.5em;
+  background: #000;
+  color: #fff;
 }
 
 /* Table of Contents, if wanted
@@ -13,7 +15,7 @@ output:
   blogdown::html_page:
     toc: true
 
-    */
+*/
 
 #TableOfContents, #TOC {
   border: 1px solid #eee;
@@ -24,8 +26,8 @@ output:
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #D2D6EF;
-  color: #FFF;
+  background: #F8F0FB;
+  color: #000;
   padding: 5px;
   border-radius: 5px;
 }
@@ -43,7 +45,7 @@ footer a { text-decoration: none; }
 }
 
 a {
-  color: #613DC1;
+  color: #8075FF;
   text-decoration: none;
 }
 
@@ -58,7 +60,7 @@ header {
     height: 1.75rem;
     font-family: "Lucida Console" , "Liberation Mono";
     font-size: .875rem;
-    background: #613DC1;
+    background: #8075FF;
     border-bottom: 1px solid #000;
 }
 
@@ -100,6 +102,7 @@ blockquote {
   background: #f9f9f9;
   border-left: 5px solid #ccc;
   padding: 3px 1em 3px;
+  color: #000;
 }
 
 table {

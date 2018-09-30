@@ -1,27 +1,11 @@
 ---
 title: "Practice Makes"
 date: '2017-08-20'
-author: Kellen Evan Person
-categories:
-  - Culture
-  - Health
+author: Kellen Evan
+published: false
 ---
 
-The brightest people I know practice or learn. Engineering things on the Internet is strange; it's a new frontier. It is folly to hope to understand even a fraction of our beloved and capable global network. In the tangle of all these topics to practice, what kind of patterns are we imprinting?
-
-This weekend, you've learned the basics of Ruby; next weekend, as per usual, you're interested in learning something new. You know the basics of Ruby, but how about... _LanguageX_. Another weekend, another basic set of syntax. Or, perhaps a new book about design patterns. Maybe you have written a new application, or library, or chipped away at a side-project; you are inspired by the potential and feel as though you're staying on top.
-
-Let's take a step back and establish some premises:
-
-* Web engineering/development is an industry that moves with ferocity, speed, and depth; it's akin to a global tsunami of complex growth.
-* We accumulate knowledge of advanced topics and skills to stay afloat.
-* We habituate the collection novel knowledge.
-
-There are two avenues I'd love to explore. The first is what is driving our constant desire for knowledge.
-
-I often prevent myself from visiting sites I deem too distracting. HackerNews, somehow, has survived purge after purge of activities that are more distraction than benefit. The frothing, victor-less political and moral battlegrounds of social networks: gone. Aggregators with dubious ranking algorithms and suspect turf composition: gone. Once focused and objective tech media outlets: gone.
-
-Yet HackerNews remains because it's an insulated bubble of technology's _new and fascinating_; it self-governs well. It's raw and organic, with the occasional submarine. It plays host to many perspectives and engaging debates, albeit with an often-overwhelming pedantry, brooding cynicism, and negativity. To understand why every weekend we feel something must be gained, we should understand the persuasive impact of thousands upon thousands of our peers.
+I often prevent myself from visiting sites I deem too distracting. The frothing, victor-less political and moral battlegrounds of social networks: gone. Aggregators with dubious ranking algorithms and suspect turf composition: gone. Once focused and objective tech media outlets: gone.
 
 Never before have flavours of the month been so apparent; in every compelling thread, an expert on every niche subject. This does not inspire comfort. It is easy to get the sensation that someone or something is always ahead, always better. We feel that if we _don't_ study that we will fall behind the unseen, unrelenting curve. Our cushy jobs will vanish, the robots will take over and the rare chosen few, those who learned _that little bit extra_ will be their handlers.
 

@@ -1,7 +1,7 @@
 ---
 title: Microdosing Prologue
 date: '2017-08-12'
-author: Kellen Evan Person
+author: Kellen Evan
 categories:
   - Microdosing
 slug: microdosing-prologue

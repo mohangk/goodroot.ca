@@ -1,7 +1,7 @@
 ---
 title: Microdosing Baseline
 date: '2017-08-15'
-author: Kellen Evan Person
+author: Kellen Evan
 categories:
   - Microdosing
 slug: microdosing-baseline

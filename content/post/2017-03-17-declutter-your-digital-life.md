@@ -1,11 +1,9 @@
 ---
 title: Declutter Your Digital Life
 date: '2017-03-17'
-author: Kellen Evan Person
-categories:
-  - Programming
-  - Health
+author: Kellen Evan
 slug: declutter-your-digital-life
+published: false
 ---
 Many years ago, I had my life transformed by a silly book about cleaning. It was called: [The Life Changing Magic of Tidying Up](http://amzn.to/2qB5iqD) and it was written by tidying Marie Kondō. Marie suggests taking a step back from your busy life, breathing deeply, then decluttering your life in one ruthless material purge.
 
