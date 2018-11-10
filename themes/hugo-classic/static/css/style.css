@@ -3,8 +3,8 @@ body {
   margin: auto;
   padding: .2em;
   line-height: 1.5em;
-  background: #000;
-  color: #fff;
+  background: #fff;
+  color: #000;
 }
 
 /* Table of Contents, if wanted
@@ -45,7 +45,7 @@ footer a { text-decoration: none; }
 }
 
 a {
-  color: #8075FF;
+  color: #6e60ff;
   text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ header {
     height: 1.75rem;
     font-family: "Lucida Console" , "Liberation Mono";
     font-size: .875rem;
-    background: #8075FF;
+    background: #6e60ff;
     border-bottom: 1px solid #000;
 }
 
@@ -107,9 +107,9 @@ blockquote {
 
 table {
   margin: auto;
-  border-top: 1px solid #8075FF;
-  border-bottom: 1px solid #8075FF;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
 }
-table thead th { border-bottom: 1px solid #8075FF; }
+table thead th { border-bottom: 1px solid #000; }
 th, td { padding: 5px; }
-tr:nth-child(even) { background: #8075FF }
+tr:nth-child(even) { background: #6e60ff }
