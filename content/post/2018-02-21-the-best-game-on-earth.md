@@ -28,11 +28,11 @@ Captain Kirk was there!
 
 ![stephen harper and wayne gretzky](/images/great-one-and-puffy-one.png)
 
-The then Prime Minister even maintained human form alongside the greatest player of all time, Wayne Gretzky.
+And even the Prime Minister appeared human, alongside no other than the greatest player of all time, Wayne Gretzky.
 
 ![inside the rink](/images/lots-of-canadians.png)
 
-The atmosphere was explosive. Hockey has a high barrier for entry. It is expensive to play. It requires a cold climate or a fancy facility. The gold medal game, scheduled right before the closing ceremonies, gave Canada the opportunity to put its greatest passion on display for the world to see. The two teams, the classic rivals, the two warring nations, did not disappoint: Canada versus The United States of America.
+The atmosphere was explosive. The gold medal game, scheduled right before the closing ceremonies, gave Canada the opportunity to put its greatest passion on display for the world to see. The two teams, the classic rivals, the two warring nations, did not disappoint: Canada versus The United States of America.
 
 Watching the game, I reflect upon the state of hockey today. The National Hockey League has become faster, cleaner, and more competitive. There is acute parity; the gap between teams has shrunk due to the salary cap and the globalization of analytics oriented player development. The athletes have never been more fit or more skilled. Some priceless relics from 2010 might not make the NHL of today.
 
