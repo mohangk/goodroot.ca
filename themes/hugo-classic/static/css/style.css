@@ -112,4 +112,4 @@ table {
 }
 table thead th { border-bottom: 1px solid #000; }
 th, td { padding: 5px; }
-tr:nth-child(even) { background: #6e60ff }
+tr:nth-child(even) { background: #998FFF }
