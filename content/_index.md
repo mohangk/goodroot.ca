@@ -7,7 +7,7 @@ title: Home
 
 ### :ocean: Always learning
 
-Born Canadian, **Kellen** - also known as goodroot - is an explorer and builder of the World Wide Web. He has spent nearly two decades developing things on the Internet. He is a proud member of [Elastic](https://elastic.co).
+Born Canadian, **Kellen** - also known as goodroot - is an explorer and builder. He has spent nearly two decades developing things on the Internet and today works with [Elastic](https://elastic.co).
 
 His greatest joys are his friends and loved ones, meditation, cooking, reading and writing, crafting distributed web architecture, and helping sprout positive teams and communities.
 
