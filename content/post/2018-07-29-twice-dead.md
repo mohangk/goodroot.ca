@@ -14,7 +14,7 @@ published: true
                                         - Dan Deacon
 ```
 
-This is a story of my two deaths. Growing up, I was thrice relocated: kindergarten, grade four and grade nine. Each move required that I reinvent my character. Traumatic, but not death. I was much alive!
+This is a story of my two deaths. Growing up, I was thrice relocated: kindergarten, grade four and grade nine. Each move required that I reinvent my character. Traumatic perhaps, but not to extent of death. I was much alive!
 
 In Elementary School, I was the class clown of the third grade. You could never coax me into being still. I would leap to make people laugh, to joke, make a silly noise, or a funny impression. But when I changed schools in grade four, that changed.
 
@@ -38,7 +38,7 @@ He tells a joke. The intimidating Brazilian guffaws. A hearty and earnest chuckl
 
 “Well, it looks like you are not funny. [OTHER_BOY] is _really_ funny.”
 
-And so it was. Death to the funny boy. But being funny is who I am! If I am not the funny boy, then which boy am I? Over time, I learned to become different boys. I became the computer boy, the gaming boy, the story-telling boy, the hockey boy, the sad, alone and depressed boy. Each time I shed my skin my essence re-shaped. I grew, as kids do. Traumatic, but not yet my first death.
+And so it was. Death to the funny boy. But being funny is who I am! If I am not the funny boy, then which boy am I? Over time, I learned to become different boys. I became the computer boy, the gaming boy, the story-telling boy, the hockey boy, the sad, alone and depressed boy. Each time I shed my skin my essence re-shaped. I grew, as kids do. Sad, but not yet my first death.
 
 In 2009, I was three years removed from High School. More a man than a boy, but still ever-changing in the confusion of early adulthood. As reproductive and social strategies failed, newer, bolder ones would arise to take their place. Over and over. Until one day everything changed.
 
@@ -56,15 +56,15 @@ Where am I? Who am I? I… I know my name. I am me. I went to this school and I 
 
 I remained there for what felt like an eternity. There was no time. I had no answers to these questions. There remained only a strange sense of observation and dire screams from my animalistic senses.
 
-As the weeks went by my mind started to return to normal. But the operating system had changed, a fundamental alteration to the underlying source code. I now understood the existence of consciousness separate from the idea of personality, of me.
+As the weeks went by my mind started to return to normal. But the operating system had changed, a fundamental alteration to the underlying source code. I now understood the existence of consciousness separate from the idea of personality, the idea of me.
 
-I had heard about these moments from books and meditative teachings. But the experience was pure, harrowing madness. It was psychosis. I had experienced death of the self. This was my first death.
+I had heard about these moments from books and meditative teachings. But the experience was pure, harrowing madness. It was psychosis. I had experienced death of the self. This was my first death. But after death came rebirth.
 
-After death comes rebirth. I moved into my own apartment. No roommate. I explored music. I worked on my mental health. I kept meditating. I changed every relationship I had and became the sole owner of my life, responsible for writing and participating within my own narratives. This journey of self authoring culminated in an experience with Ayahuasca, a powerful Amazonian Entheogen.  
+I moved into my own apartment. No roommate. I explored music. I worked on my mental health. I kept meditating. I changed every relationship I had and became the sole owner of my life, responsible for writing and participating within my own narratives. This journey of self authoring culminated in an experience with Ayahuasca, a powerful Amazonian Entheogen.  
 
 I needed help creating a better self, telling a better story. I understood the impact that Entheogen like Ayahuasca can have on neurological plasticity.
 
-Plasticity is the brains ability to change, to establish new relationships, to soften. I made progress against depression through a methodical reworking of my mental patterns. I practiced meditation and mindfulness, I exercised, ate healthy diet, built better relationships, and went through time.
+Plasticity is the brains ability to change, to establish new relationships, to soften. I made progress against depression through a methodical reworking of my mental patterns. I practiced meditation and mindfulness, I exercised, ate a healthy diet, built better relationships, and enjoyed time.
 
 But there was a knot. It was bleak, heavy, and often afflicting. A black mass. An error, deep in the code. I felt it time for the code to be re-written.
 
@@ -74,4 +74,4 @@ If behind your personality lies your experiences, then what lies behind experien
 
 Truth is the observer. It witnesses you - your personality, your narrative - unfold as an expression of time, from outside of time. Truth exists beyond what eyes can see and a mind - a self - can compute. Death is your imaginations best interpretation of Truth.
 
-The self can die to madness. It can die to Entheogen. It can die to deep meditation. It can die as all will do. My third death, whenever it may come, could be my final death. And from it, I may not return. But fear not, for it is only the self that is destroyed. My spirit will forever remain as Truth.
+The self can die to madness. It can die to Entheogen. It can die to deep meditation. It can die as all will do. My third death, whenever it may come, may be my final death. And from it, I may never return. But fear not, for it is only the self that is destroyed. Spirit forever remains as one with Truth.
