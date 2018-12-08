@@ -98,7 +98,3 @@ The open source method has been successful in producing quality systems of a loo
 Communication structures live in deep complexity and are fractal in nature. We can follow them to great depth, inward and outward, to a limitless degree: systems, influenced by systems, influencing systems. The microcosm hints at the macrocosm. As above, so below.
 
 This not an engineering problem. It is a natural one. It is a social one. And it is not a problem at all. We walk the brightest path by improving our communication with others. The organization that learns to minimize ego and **enhance** verbal, non-verbal, emotional, technical, and spiritual communication will reach the highest of heights, building the brilliant things that today are constrained by contemporary discourse.
-
-Your mind is an organization of systems, thoughts, biases, and patterns which reflect, and are constrained by, other systems of communication. If one is destined to reproduce systems upon systems -- your thought patterns, your own individual narratives -- where do we start? What do we change?
-
-It is easy to get lost within ego, succumbing to pretense, petty politics, doubt, conflict, and selfishness. It is much more difficult to operate in truth, to breath and slowdown, to look someone in the eye, open yourself, risk being wrong or awkward, and have a candid, expansive, and respectful conversation. Better systems start when we look at ourselves, inwards and outwards, together.
