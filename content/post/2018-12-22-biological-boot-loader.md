@@ -11,8 +11,7 @@ The machines are coming and we will all perish. _Artificial intelligence_, _cogn
 
 This is not a reality to which I prescribe. If a program does an evil deed, it will not be because it had an evil _intention_. It will do the deed because that is what it was programmed to do.
 
-Individuals have lost tabsafari
-le games to programs written by groups of dedicated researchers. Afterwards, we claim a machine beat our best. But this is not an artificial mind; it is group intelligence consolidated into an application. This is hardly a fair contest, the many and time versus the one and pressure!
+Individuals have lost table games to programs written by groups of dedicated researchers. Afterwards, we claim a machine beat our best. But this is not an artificial mind; it is group intelligence consolidated into an application. This is hardly a fair contest, the many and time versus the one and pressure!
 
 We have not yet entered the era of the prescient, conscious machine, or a new form of electronic intelligence. We may never see such. Instead, we are building sophisticated applications that **mirror the logical and rationale frameworks** installed in them by their programmers.
 
