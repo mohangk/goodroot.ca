@@ -55,3 +55,5 @@ As years went by, the flame of spirit began to rekindle within my heart. Slowly,
 Instead of exploring the magical realms of faith and silly belief that live inside each of us, I became an empty, material vessel. I lost touch with myself. I stopped imagining. I abandoned introspection and I lusted after things and people, trying to fill a hole I had created in their pursuit. It was my physical being that decided it wanted no part of being whole, casting my soul adrift.
 
 My spirit did not hold a grudge. To rescue my ethereal other-half from the solitary abyss, I only needed to open my heart, extend an invitation and welcome it back. And, of course, promise to let it out to venture from time to time. Now, darkness is unfamiliar to me; my imagination glows anew. My body and soul are together and I feel complete.
+
+[Find other articles](/)

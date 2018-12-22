@@ -84,4 +84,6 @@ But it was not just Crosby that scored. It was each and every one of us.
 
 ![fuckin eh bud](/images/mounties.png)
 
-And we lost our collective shit.
+And we lost our collective minds.
+
+[Find other articles](/)

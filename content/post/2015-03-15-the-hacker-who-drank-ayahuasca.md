@@ -90,3 +90,5 @@ They stay with him for an eternity. Capable of nothing but love, they accompany 
 The soul returns to the world of the technical, where countless internet packets stream across borders and into homes, carrying lost spirits. The shamans call it medicine, an honest and accurate description. As one soul who has traversed deeply into both the darkest and brightest corners of the Internet and the spiritual world will now tell you: our world is sick.
 
 We can make the right choices out of love and trust in the right medicine or we can continue trying to apply material and intellectual solutions to the void that exists inside our being… where our souls used to be.
+
+[Find other articles](/)

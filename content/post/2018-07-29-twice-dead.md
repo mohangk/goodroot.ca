@@ -75,3 +75,5 @@ If behind your personality lies your experiences, then what lies behind experien
 Truth is the observer. It witnesses you - your personality, your narrative - unfold as an expression of time, from outside of time. Truth exists beyond what eyes can see and a mind - a self - can compute. Death is your imaginations best interpretation of Truth.
 
 The self can die to madness. It can die to Entheogen. It can die to deep meditation. It can die as all will do. My third death, whenever it may come, may be my final death. And from it, I may never return. But fear not, for it is only the self that is destroyed. Spirit forever remains as one with Truth.
+
+[Find other articles](/)
