@@ -33,4 +33,4 @@ Arriving home, I race down to the machine. I have gotten several new permutation
 
 Today I go to work. I click a button next to a list.. It plays all day and I love every sound it makes. There is another list, just below it. I click it sometimes, to change the pace. It plays all day and I love every sound it makes. Sometimes I put new sounds in and take old sounds out, a gifted curator. Sometimes I listen to the lists the program makes for me. They play all day and I love every sound they make. My old CD has been cut up and lined into my lists. It plays all day and I love every sound it makes.
 
-[Find other articles](/)
+[Thanks for reading! [Return to homepage](/). ](/)
