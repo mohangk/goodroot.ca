@@ -86,4 +86,4 @@ But it was not just Crosby that scored. It was each and every one of us.
 
 And we lost our collective minds.
 
-[Return to homepage](/).
+[Return to homepage.](/)

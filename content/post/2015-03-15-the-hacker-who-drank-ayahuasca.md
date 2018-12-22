@@ -91,4 +91,4 @@ The soul returns to the world of the technical, where countless internet packets
 
 We can make the right choices out of love and trust in the right medicine or we can continue trying to apply material and intellectual solutions to the void that exists inside our being… where our souls used to be.
 
-[[Return to homepage](/). ](/)
+[[Return to homepage.](/) ](/)

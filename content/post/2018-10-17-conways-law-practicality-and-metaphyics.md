@@ -99,4 +99,4 @@ Communication structures live in deep complexity and are fractal in nature. We c
 
 This not an engineering problem. It is a natural one. It is a social one. And it is not a problem at all. We walk the brightest path by improving our communication with others. The organization that learns to minimize ego and **enhance** verbal, non-verbal, emotional, technical, and spiritual communication will reach the highest of heights, building the brilliant things that today are constrained by contemporary discourse.
 
-[Return to homepage](/).
+[Return to homepage.](/)
