@@ -10,9 +10,9 @@ Some ideas shine with truth. One such idea was articulated in 1967 by computer p
 
 > “organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.”
 
-It is often found in good humour. The dysfunctional product: the system is a mess and the people who made it are a mess. Haha -- that's Conway's Law for you! Apart from applied silliness, lies the potential for a radical leap forward in the development of complex programmatic systems.
+It is often found in good humour. The dysfunctional product: the system is a mess and the people who made it are a mess. Haha -- that's Conway's Law for you! Joking aside, it holds the potential for a radical leap forward in the development of complex programmatic systems.
 
-## The Weeds
+## Up, Up, and Conwaaaaay ~
 
 In 2011, Harvard business school published a paper: [Exploring the Duality between Product and Organizational Architectures: A Test of the “Mirroring” Hypothesis](https://www.hbs.edu/faculty/Publication%20Files/08-039_1861e507-1dc1-4602-85b8-90d71559d85b.pdf). The collaborative work, conducted by MaCormack, Rusnak, and Baldwin, applied scientific rigour to Conway's Law.
 
