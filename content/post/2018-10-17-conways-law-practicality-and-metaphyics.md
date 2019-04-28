@@ -12,7 +12,7 @@ Some ideas shine with truth. One such idea was articulated in 1967 by computer p
 
 It is often found in good humour. The dysfunctional product: the system is a mess and the people who made it are a mess. Haha -- that's Conway's Law for you! Joking aside, it holds the potential for a radical leap forward in the development of complex programmatic systems.
 
-## Up, Up, and Conwaaaaay ~
+## Proving the Law
 
 In 2011, Harvard business school published a paper: [Exploring the Duality between Product and Organizational Architectures: A Test of the “Mirroring” Hypothesis](https://www.hbs.edu/faculty/Publication%20Files/08-039_1861e507-1dc1-4602-85b8-90d71559d85b.pdf). The collaborative work, conducted by MaCormack, Rusnak, and Baldwin, applied scientific rigour to Conway's Law.
 
@@ -80,7 +80,7 @@ It is easy to miss 'the forest from the trees' when drawing conclusions from sci
 
 Or, in short: **Conway's Law is true**.
 
-## Microservices by Conway
+## The Reverse Conway
 
 To optimize for Conway's Law and establish organizational structure as projects grow, proponents of _microservice architecture_ presented a solution:
 
@@ -90,7 +90,7 @@ The approach appears wise. A microservice team will be small, likely have a "mas
 
 Microservice proponents will point to 'smart endpoints, dumb pipes' and 'you build it, you run it' as social/technical maxims to address some of these higher level concerns. Compared to busy monolithic designs, loosely-coupled microservice teams proliferate systems that are more approachable and less failure prone. But it cuts the other way in that one now has a whole made up of independent pieces, each individually vulnerable to the drawbacks of poor communication. 
 
-## Debug Yourself
+## Conway Yourself
 
 Communication is often called a "_soft problem_". That means it is emotionally rooted. And that is often the basis for dismissing the impact of non-technical discourse. Often, attempts to alter the social dynamics within a software engineering team is not met with enthusiasm. 
 
