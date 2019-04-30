@@ -92,9 +92,9 @@ Microservice proponents will point to 'smart endpoints, dumb pipes' and 'you bui
 
 ## Conway Yourself
 
-Communication is often called a "_soft problem_". It is emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible and it isn't logical. Naturally, attempts to alter the soft social dynamic of a software engineering team are not often met with enthusiasm. 
+Communication is sometimes called a "_soft problem_". It is emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible and it isn't logical. Naturally, attempts to alter the "soft" social dynamic of a software engineering team are not met with enthusiasm. 
 
-And it makes sense as to why. There is evidence that open source projects successfully operate without a long-term plan, organizational structure or even social interaction. And it appears as though you can "reverse conway" your systems, using system architectural changes to "fix" your people. But neither approach is good. Neither will scale. They break down when other engineering, product, marketing, and design groups need to contribute. They do not develop effective collaboration. 
+And it makes sense as to why. There is evidence that open source projects successfully operate without a long-term plan, organizational structure or even social interaction. And it appears as though you can "reverse conway" your systems, using system architectural changes to "fix" your people. But neither approach is good. Neither will scale. They break down when other engineering, product, marketing and design groups need to contribute. They do not develop effective collaboration. They don't build **teams**. 
 
 Communication is not an engineering problem. And it isn't a _soft_ problem. It is one of the hardest problems there is. It is ubiqutious; you can't escape it. We take the leap when we improve our communication with others. The teams that learn to minimize ego and **enhance** verbal, non-verbal, emotional, technical and spiritual communication will reach the highest of heights, building the brilliant things that today are constrained by contemporary discourse. 
 
