@@ -84,6 +84,8 @@ Or, in short: **Conway's Law is real**.
 
 To optimize for Conway's Law and establish organizational structure as projects grow, proponents of _microservice architecture_ offered a solution: architect your code into smaller, more module microservices first, then the optimal organizational structure will follow. That way, the system's communications reflect onto the team. It's Conway's Law in reverse.
 
+![corporatelaugh](https://i.gifer.com/DOT.gif)
+
 The approach seems wise. A microservice team will be small, likely have a "master/lead" and be made up of one working group. But when we think back to the "ideal team", a microservice team can still be impacted by churn, make many updates, and need to work across other microservice teams. And people still need to communicate.
 
 Microservice proponents will point to 'smart endpoints, dumb pipes' and '[you build it, you run it](https://queue.acm.org/detail.cfm?id=1142065)' as social/technical maxims to address some of these higher level concerns. And they're right, to an extent. Compared to busy monolithic designs, loosely-coupled microservice teams proliferate systems that are more approachable and less failure prone. But it cuts the other way in that the organization now has a mesh of independent pieces, each vulnerable to the drawbacks of poor communication.
