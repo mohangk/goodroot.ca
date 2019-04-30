@@ -94,7 +94,7 @@ Communication is sometimes called a "_soft problem_". It is emotionally rooted, 
 
 And it makes sense as to why. There is evidence that open source projects successfully operate without a long-term plan, organizational structure, or even social interaction. And it appears as though you can "reverse conway" your systems, using system architectural changes to "fix" your people. But neither approach is good. Neither will scale. They break down when other engineering, product, marketing, and design groups need to contribute. They do not foster collaboration. They don't build **teams**. 
 
-Communication is not an engineering problem. And it isn't a _soft_ problem. It is one of the hardest problems there is. It is ubiqutious; you can't escape it. We take the leap when we improve our communication with others. The teams that learn to minimize ego and **enhance** verbal, non-verbal, emotional, technical and spiritual communication will reach the highest of heights, building the brilliant things that today are constrained by contemporary discourse. 
+Communication is not an engineering problem. And it isn't a _soft_ problem. It is one of the hardest problems there is. It is everywhere; you can't escape it. We take the leap when we improve our communication with others. The teams that learn to minimize ego and **enhance** verbal, non-verbal, emotional, technical and spiritual communication will reach the highest of heights, building the brilliant things that today are constrained by contemporary discourse. 
 
 So how do you do it? Ask your team mates.
 
