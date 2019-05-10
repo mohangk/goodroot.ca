@@ -1,5 +1,5 @@
 ---
-title: "Conway's Law, Practicality & Metaphysics"
+title: "Conway's Law Is Real"
 author: Kellen Evan
 date: '2018-10-13'
 slug: practicality-metaphysics-conways-law
