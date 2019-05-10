@@ -98,6 +98,4 @@ Communication is not an engineering problem. And it isn't a _soft_ problem. It i
 
 So how do you do it? Ask your team mates.
 
-![corporatelaugh](https://i.gifer.com/DOT.gif)
-
 [Return to homepage.](/)
