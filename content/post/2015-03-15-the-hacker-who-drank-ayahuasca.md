@@ -6,8 +6,6 @@ slug: the-hacker-who-drank-ayahuasca
 published: true
 ---
 
-[Appeared on the Hackernews Front-page](https://news.ycombinator.com/item?id=9242260)
-
 In the ‘90s, everyone was weird. The weirdest among us shuffled off the coil of reality entirely. We were the age-less, culture-less, state-less, God-less generation raised by the Internet… which is to say, we were raised by each other.
 
 The reason for departure differs from person to person. Your parents fought. You had an unusual face or were unsightly. You had weird hair or were full of too many idiosyncrasies. You wanted to learn the ways of technology. You went seeking for greater truths. You were lonely.
@@ -94,4 +92,6 @@ The soul returns to the world of the technical, where countless internet packets
 
 We can make the right choices out of love and trust in the right medicine or we can continue trying to apply material and intellectual solutions to the void that exists inside our being… where our souls used to be.
 
-[[Return to homepage.](/) ](/)
+[Hacker News Conversation](https://news.ycombinator.com/item?id=9242260)
+
+> [[Return to homepage.](/) ](/)
