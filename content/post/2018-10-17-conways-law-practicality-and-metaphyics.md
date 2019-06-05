@@ -42,7 +42,7 @@ A second study, [The Influence of Organizational Structure on Software Quality: 
 
 > "...organizational metrics when applied to data from Windows Vista were statistically significant predictors of failure-proneness."
 
-This proved that Conway's Law is bidirectional: code level failure metrics indicate poor organizational metrics. And what were the organizational metrics that they collected? And how did these metrics speak towards software failure proness?
+This proved that Conway's Law is bidirectional: code level failure metrics indicate poor organizational metrics. And what were the organizational metrics that they collected? And how did these metrics speak towards software failure proneness?
 
 _The following table has been adapted from the article, with the descriptions expanded for clarity and context. Low failure rate is is good, high failure rate is bad._
 
@@ -57,7 +57,7 @@ _The following table has been adapted from the article, with the descriptions ex
 | Overall Organization Ownership | The ratio of "masters" making edits to code compared to the total number of engineers. The better the ratio in favour of "master" contribution, the lower the failure rate. |
 | Organization Intersection Factor | For each group that contributed 10% or more to a codebase, the higher the failure rate.  |
 
-From the quality indications, we can dsecribe an **"ideal development team"** as one that: 
+From the quality indications, we can describe an **"ideal development team"** as one that:
 
 * is small
 * has had no churn
@@ -90,11 +90,11 @@ Microservice proponents will point to 'smart endpoints, dumb pipes' and '[you bu
 
 ## Conway Yourself
 
-Communication is sometimes called a "_soft problem_". It is emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible, and it isn't logical. Naturally, attempts to alter the "soft" social dynamic of a software engineering team are not met with enthusiasm. 
+Communication is sometimes called a "_soft problem_". It is emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible, and it isn't logical. Naturally, attempts to alter the "soft" social dynamic of a software engineering team are not met with enthusiasm.
 
-And it makes sense as to why. There is evidence that open source projects successfully operate without a long-term plan, organizational structure, or even social interaction. And it appears as though you can "reverse conway" your systems, using system architectural changes to "fix" your people. But neither approach is good. Neither will scale. They break down when other engineering, product, marketing, and design groups need to contribute. They do not foster collaboration. They don't build **teams**. 
+And it makes sense as to why. There is evidence that open source projects successfully operate without a long-term plan, organizational structure, or even social interaction. And it appears as though you can "reverse conway" your systems, using system architectural changes to "fix" your people. But neither approach is good. Neither will scale. They break down when other engineering, product, marketing, and design groups need to contribute. They do not foster collaboration. They don't build **teams**.
 
-Communication is not an engineering problem. And it isn't a _soft_ problem. It is one of the hardest problems there is. It is everywhere; you can't escape it. We take the leap when we improve our communication with others. The teams that learn to minimize ego and **enhance** verbal, non-verbal, emotional, technical and spiritual communication will reach the highest of heights, building the brilliant things that today are constrained by contemporary discourse. 
+Communication is not an engineering problem. And it isn't a _soft_ problem. It is one of the hardest problems there is. It is everywhere; you can't escape it. We take the leap when we improve our communication with others. The teams that learn to minimize ego and **enhance** verbal, non-verbal, emotional, technical and spiritual communication will reach the highest of heights, building the brilliant things that today are constrained by contemporary discourse.
 
 So how do you do it? Ask your team mates.
 
