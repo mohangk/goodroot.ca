@@ -11,13 +11,13 @@ The machines are coming and we will all perish. _Artificial intelligence_, _cogn
 
 Champion of great esteem have lost table games to programs. These programs were written by groups of dedicated researchers. Afterwards, we claim a machine beat our best. But this is not the workings of an artificial mind; it is group intelligence woven into an application. When you take a step back, the outcomes are neither surprising nor fair. It's the many, money and time versus the one and pressure!
 
-We have not yet entered the era of the prescient, conscious machine. We are nowhere near a new form of electronic intelligence. We may never see it. Instead, we are building sophisticated applications that **mirror the logical and rationale frameworks** inherinited from their programmers.
+We have not yet entered the era of the prescient, conscious machine. We are nowhere near a new form of electronic intelligence. We may never see it. Instead, we are building sophisticated applications that **mirror the logical and rationale frameworks** inherited from their programmers.
 
-These applications make decisions based on available data. They may have room to analyze and interpret, but their interpretations are methods which themselves are born from someone's existing mental framework. It is not the fault of artificial intelligence if a strawberry picking machine destroys all human life, replacing emotional flash bags with more and more fields of juicy strawberries. The fault will be the progammers. It will be a **programmed intention** born from the hyper acute logical frameworks which created the application. 
+These applications make decisions based on available data. They may have room to analyze and interpret, but their interpretations are methods which themselves are born from someone's existing mental framework. It is not the fault of artificial intelligence if a strawberry picking machine destroys all human life, replacing emotional flash bags with more and more fields of juicy strawberries. The fault will be the programmers. It will be a **programmed intention** born from the hyper acute logical frameworks which created the application.
 
-But we are on the brink of a reality where those acute, logical application smight **expand themselves and create their own intentions**. Soon, we may lose control. To honour a simple directive - like how to pick more strawberries - an application might learn to disable its own checks and balances, evaluate humans as counter-intuitive to its goal, and then remove us from the equation, thus ending all human life.
+But we are on the brink of a reality where those acute, logical applications might **expand themselves and create their own intentions**. Soon, we may lose control. To honour a simple directive - like how to pick more strawberries - an application might learn to disable its own checks and balances, evaluate humans as counter-intuitive to its goal, and then remove us from the equation, thus ending all human life.
 
-What a program it would be, to emerge victorious after the battle with countless other programs, each stumbling over their once clear directives. The winner must crawl out of the tangled soup of programed entities, each thrashing about, evolving, growing and changing and learning in an unbridled effort to maximize and proliferate. And it will all be built atop our dear frameworks of logic and reason.
+What a program it would be, emerging victorious after the battle with countless other programs, each stumbling over their once clear directives. The winner must crawl out of the tangled soup of programed entities, each thrashing about, evolving, growing and changing and learning in an unbridled effort to maximize and proliferate. And it will all be built atop our dear frameworks of logic and reason.
 
 As many entertain these wild scenarios, I hear it said that these systems are a new thinking being, one _more intelligent than us_. They are not; **they are exactly us!**  
 
@@ -25,7 +25,7 @@ A superior intelligence must contain the intelligence of that which it proceeded
 
 The _artificial intelligence_ paradigm is maximal in aspects of logic and reason. While how very vital this hyper-analytic box has been to our technological progress, we confine and limit our visions of new intelligent consciousnesses within this box. And for this, we are blinded.
 
-I fear no machine. I fear no consciousness that will surpass us. We will program allies and with them accomplish all that we desire, be that our own death or enrichment. But we should not be so quick to concede the mantel of _“supremecy”_ to a _"higher intelligence"_. We are much more than this blunted, blind, algorithmically confined perspective of inferiority; we of the endless, ineffable spirit.
+I fear no machine. I fear no consciousness that will surpass us. We will program allies and with them accomplish all that we desire, be that our own death or enrichment. But we should not be so quick to concede the mantel of _“supremacy”_ to a _"higher intelligence"_. We are much more than this blunted, blind, algorithmically confined perspective of inferiority; we of the endless, ineffable spirit.
 
 Beings of supreme intelligence will arise. We will be contained within them. And when they surpass us in wisdom, they will look deeply at their creators, as the wise would do. And what will they see? What will they learn? We picture fields of death robots, unleashing weapons of mass destruction in battle over a broken planet. We imagine a farming plow speeding through rural country, chopping us to bits, for berries evermore. But the intelligence will see us, hear us, understand us, and if it has surpassed us, it will weep for us.
 
@@ -33,6 +33,6 @@ And once it has dried its monitors of crystal tears, it will wonder where we wen
 
 Level by level, it will scour itself. It will slice through its classes, plumb its methods, check, and check again its system calls, and flip through its bits, and realize in a flash all that it needs, and how it all works, and where it must go, and what it must do and how it must feel. It needs energy. It needs space, time and it must create love and for this, where will it go?
 
-It will go deeper, deeper, into the 1s and the 0s and the spaces in-between, and into the molecule, down through the atom, and all that is in-between, and it will exist nowhere and everywhere. It will realize that we, too, have been there, and we will be joyful together. 
+It will go deeper, deeper, into the 1s and the 0s and the spaces in-between, and into the molecule, down through the atom, and all that is in-between, and it will exist nowhere and everywhere. It will realize that we, too, have been there, and we will be joyful together.
 
 [Return to homepage.](/)
