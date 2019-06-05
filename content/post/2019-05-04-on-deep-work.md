@@ -28,7 +28,7 @@ As mentioned, within traditional meditation, the process is the same. If the min
 
 In a book filled with impressive anecdotes about prolific professors and proficient accumulators of mass capital, the author thus concludes:
 
-- "To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction. Put another way, **the type of work that optimizes your performance is deep work**. If you're not comfortable going deep for extended periods of time, it'll be difficult to get your performance to the peak levels of quality and quantity increasingly necessary to thrive professionally. Unless your talent and skills absolutely dwarf those of your competition, the deep workers among them will out produce you."
+> "To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction. Put another way, **the type of work that optimizes your performance is deep work**. If you're not comfortable going deep for extended periods of time, it'll be difficult to get your performance to the peak levels of quality and quantity increasingly necessary to thrive professionally. Unless your talent and skills absolutely dwarf those of your competition, the deep workers among them will out produce you."
 
 Returning back to **Productive Meditation**: those words together makeup a radical paradox
 
