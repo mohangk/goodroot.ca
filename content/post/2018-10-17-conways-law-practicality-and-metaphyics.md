@@ -32,7 +32,7 @@ _Table from "A Test of the “Mirroring” Hypothesis"_
 |  Location | Centralized, Colocated  | Decentralized, Distributed  |
 |  Behaviour | Planned, Coordinated | Emergent, Independent  |
 
-A key concept from the study is that of _Propagation Cost_: _"the percentage of system elements that can be affected, on average, when a change is made to a randomly chosen element."_ In other words, the propagation cost is the **overall percentage of a system that is impacted when a function or file is altered**.
+A key concept from the study is that of _Propagation Cost_: _"the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element."_ In other words, the propagation cost is the **overall percentage of a system that is impacted when a function or file is altered**.
 
 By comparing software systems which began as open source projects to those that were private, then opened, the paper established a clear link. Tightly coupled organizations create software with significantly higher propagation cost. In contrast, loosely coupled organizations build systems with a much lower propagation cost. Loosely coupled systems are more modular and are therefore more approachable.
 
