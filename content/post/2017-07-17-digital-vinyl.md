@@ -3,7 +3,7 @@ title: Digital Vinyl
 date: '2017-07-17'
 author: Kellen Evan
 slug: digital-vinyl
-published: true
+published: false
 ---
 My ears can hear whatever they want. There is a magical program within my computer and when I explore it every composition becomes mine. It makes lists for me, using heuristics to determine to what I like to listen. It is often right. Music is beautiful. But music is now rails.
 
