@@ -3,8 +3,6 @@ body {
   margin: auto;
   padding: .2em;
   line-height: 1.5em;
-  background: #fff;
-  color: #000;
 }
 
 /* Table of Contents, if wanted
@@ -15,7 +13,7 @@ output:
   blogdown::html_page:
     toc: true
 
-*/
+    */
 
 #TableOfContents, #TOC {
   border: 1px solid #eee;
@@ -26,8 +24,8 @@ output:
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #F8F0FB;
-  color: #000;
+  background: #D2D6EF;
+  color: #FFF;
   padding: 5px;
   border-radius: 5px;
 }
@@ -45,7 +43,7 @@ footer a { text-decoration: none; }
 }
 
 a {
-  color: #603ec1;
+  color: #613DC1;
   text-decoration: none;
 }
 
@@ -58,18 +56,9 @@ header {
     position: relative;
     width: 100%;
     height: 1.75rem;
-    font-family:
-      -apple-system,
-      BlinkMacSystemFont,
-      "Segoe UI",
-      Helvetica,
-      Arial,
-      sans-serif,
-      "Apple Color Emoji",
-      "Segoe UI Emoji",
-      "Segoe UI Symbol";
-    font-size: .775rem;
-    background: #603ec1;
+    font-family: "Lucida Console" , "Liberation Mono";
+    font-size: .875rem;
+    background: #613DC1;
     border-bottom: 1px solid #000;
 }
 
@@ -111,14 +100,13 @@ blockquote {
   background: #f9f9f9;
   border-left: 5px solid #ccc;
   padding: 3px 1em 3px;
-  color: #000;
 }
 
 table {
   margin: auto;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
 }
-table thead th { border-bottom: 1px solid #000; }
+table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-tr:nth-child(even) { background: #998FFF }
+tr:nth-child(even) { background: #eee }
