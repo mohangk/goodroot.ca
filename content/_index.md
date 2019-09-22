@@ -12,7 +12,3 @@ Born Canadian, **Kellen** - also known as goodroot - is an explorer and builder.
 His greatest joys are his friends and loved ones, meditation, hockey, cooking, reading and writing, crafting distributed web architecture, and helping sprout positive teams and communities.
 
 <img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif">
-
-------
-
-### Writings
