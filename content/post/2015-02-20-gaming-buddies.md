@@ -57,4 +57,4 @@ Whitethumbs has gone offline.
 
 *RIP Taylor “Whitethumbs” Oelrich. Born August 26, 1987 in Prince George, BC.*
 
-*Passed away February 15, 2015*
+*Ventured elsewhere February 15, 2015*

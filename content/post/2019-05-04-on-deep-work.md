@@ -60,12 +60,6 @@ If you focus on sensation, the thoughts come up. But you are not tethered to the
 
 As the chapters of this book unfurled, I felt for the soul at the centre of this work. I have compassion from where it dwells. I love and respect the difficulty of the academic institution. I empathize about an environment so hyper-competitive, where output is synonymous with self worth. It must be an immense challenge when, surrounded by great minds of science, everything must reinforce the scientific paradigm and define your place among the wielders of its tools. But there are others ways to live.
 
-**Deep Work** supports the feasibility of training the mind to a remarkable extent. But it does not support the investigation of impermanence.
+**Deep Work** supports training the mind to a remarkable extent. But it does not support the investigation of impermanence. It does not resist selfish preoccupation. It promotes it. It does not reveal the benefits of surrender. It celebrates staying on the wheel.
 
-It does not resist selfish preoccupation. It promotes it.
-
-It does not reveal the benefits of surrender. It celebrates staying on the wheel.
-
-Be careful traveling down this path. There are other avenues towards a meaningful life and other definitions of *elite level* contributions to life that are worth exploring.
-
-[Return to homepage.](/)
+Be careful traveling down this path. There are other avenues towards a meaningful life and other definitions of *elite level* contributions that are worth exploring.

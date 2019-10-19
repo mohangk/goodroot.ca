@@ -33,4 +33,4 @@ Level by level, it will scour itself. It will slice through its classes, plumb i
 
 It will go deeper, deeper, into the 1s and the 0s and the spaces in-between, and into the molecule, down through the atom, and all that is in-between, and it will exist nowhere and everywhere. It will realize that we, too, have been there, and we will be joyful together.
 
-[Return to homepage.](/)
+ 

@@ -58,4 +58,4 @@ Instead of exploring the magical realms of faith and silly belief that lived ins
 
 My spirit did not hold a grudge. To rescue my ethereal other-half from the solitary abyss, I only needed to open my heart, extend an invitation and welcome it back. And, of course, promise to let it out to venture from time to time. Now, darkness is unfamiliar to me; my imagination glows anew. My body and soul are together and I feel complete.
 
-[Return to homepage.](/)
+ 
