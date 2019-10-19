@@ -94,7 +94,10 @@ code { background: #f9f9f9; }
 pre code { background: none; }
 
 /* Images, tables, misc. */
-img, iframe, video { max-width: 100%; }
+img, iframe, video {
+  max-width: 100%;
+  height: auto;
+}
 main { hyphens: auto; }
 blockquote {
   background: #f9f9f9;
