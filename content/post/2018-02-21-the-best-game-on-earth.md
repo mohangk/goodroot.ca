@@ -3,7 +3,7 @@ title: "The Best Game on Earth"
 author: Kellen Evan
 date: '2018-02-21'
 slug: the-best-game-on-earth
-published: true
+published: false
 ---
 
 Within every cold Canadian community, you will find an outdoor rink. It is upon these frigid slabs of ice where _The Dream_ is born. These cold, snowy rinks are our churches. They are our playgrounds. The players and their accomplishments become legend, living forever in time. No one game is more deserving of this immortal treatment than the gold medal game of Vancouver's 2010 Winter Olympics. It was the finest game of hockey I have ever seen played.
@@ -106,5 +106,3 @@ But it was not just Crosby that scored. It was each and every one of us.
 ![fuckin eh bud](/images/mounties.png)
 
 And we lost our collective minds.
-
- 
