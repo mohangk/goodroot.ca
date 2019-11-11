@@ -130,5 +130,11 @@ th, td { padding: 5px; }
 tr:nth-child(even) { background: #eee }
 
 .content-wrapper {
-  padding: 12px;
+  padding: 0px 12px 0px 12px;
+}
+#kellen-face {
+  min-width: 40px;
+  float: right;
+  padding: 10px;
+  display: block;
 }

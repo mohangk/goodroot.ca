@@ -15,9 +15,9 @@
 {{ if .Params.toc }}
 {{ .TableOfContents }}
 {{ end }}
-
-<main>
-{{ .Content }}
-</main>
-
+<div class="content-wrapper">
+  <main>
+  {{ .Content }}
+  </main>
+</div>
 {{ partial "footer.html" . }}
