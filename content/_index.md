@@ -1,7 +1,10 @@
 ---
 title: Home
 ---
-<img src="https://raw.githubusercontent.com/goodroot/goodroot.ca/master/themes/hugo-classic/images/kellen-smiley.png" style="min-width:40px;float:right;padding:10px;" alt="Kellen Face">
+<img
+  id="kellen-face"
+  src="https://raw.githubusercontent.com/goodroot/goodroot.ca/master/themes/hugo-classic/images/kellen-smiley.jpg"
+  alt="Kellen Face">
 
 ## Kellen
 
