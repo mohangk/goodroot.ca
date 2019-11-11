@@ -3,7 +3,7 @@ title: Home
 ---
 <img
   id="kellen-face"
-  src="/images/kellen-smiley.jpg"
+  src="/images/kellen-smiley.jp2"
   alt="Kellen Face">
 
 ## Kellen
