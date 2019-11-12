@@ -3,6 +3,7 @@ title: "Conway's Law Is Real"
 author: Kellen Evan
 date: '2018-10-13'
 slug: practicality-metaphysics-conways-law
+description: "People build systems that reflect their communication structures. This is an easy to digest and thoughtful introduction to Conway's Law. Learn how to unlock..."
 published: true
 ---
 
@@ -94,6 +95,6 @@ Communication is sometimes called a "_soft problem_". It is emotionally rooted, 
 
 There is evidence that open source projects operate without a long-term plan, organizational structure, or even social interaction. And it appears as though organizations can "reverse Conway" their systems, using system architectural changes to "fix" their people. But neither approach is good. Neither will scale. They both break down when other engineering, product, marketing, and design groups need to contribute. They do not foster collaboration. They don't **build teams**.
 
-Communication is not an engineering problem. And it isn't a _"soft"_ problem. It's the hardest problem. It's everywhere; you can't escape it. A team optimizes for Conway's Law when it improves its **interpersonal** communication. The technical brilliance of tomorrow will be born from those that learn to minimize ego and **enhance** verbal, non-verbal, emotional, spiritual communication. 
+Communication is not an engineering problem. And it isn't a _"soft"_ problem. It's the hardest problem. It's everywhere; you can't escape it. A team optimizes for Conway's Law when it improves its **interpersonal** communication. The technical brilliance of tomorrow will be born from those that learn to minimize ego and **enhance** verbal, non-verbal, emotional, spiritual communication.
 
 So how do you do it? Ask your team mates.
