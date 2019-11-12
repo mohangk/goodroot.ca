@@ -2,9 +2,12 @@ body {
   max-width: 800px;
   margin: auto;
   padding: .2em;
-  line-height: 1.5em;
+  line-height: 1.5em !important;
 }
 
+h1 {
+  line-height: 1.5em;
+}
 /* Table of Contents, if wanted
 
 Add to yaml:
@@ -137,4 +140,14 @@ tr:nth-child(even) { background: #eee }
   float: right;
   padding: 10px;
   display: block;
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+  #kellen-face {
+    min-width: 40px;
+    float: center;
+    padding: 10px 10px 10px 20px;
+    display: block;
+  }
 }
