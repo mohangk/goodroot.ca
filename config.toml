@@ -1,6 +1,6 @@
 baseurl = "https://goodroot.ca"
 languageCode = "en-us"
-title = "Goodroot"
+title = "goodroot"
 theme = "hugo-classic"
 publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
