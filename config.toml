@@ -17,5 +17,5 @@ footnotereturnlinkcontents = "↩"
     post = "/post/:year/:month/:day/:slug/"
 
 [params]
-    description = "An introduction to Goodroot."
+    description = "Thoughts from the deep."
     footer = "Be Excellent to Each Other | [GitHub](https://github.com/goodroot) | [Source](https://themes.gohugo.io/hugo-classic/) | [public@goodroot.ca](mailto:public@goodroot.ca)"
