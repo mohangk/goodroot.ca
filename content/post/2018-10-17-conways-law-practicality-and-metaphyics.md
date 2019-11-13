@@ -93,9 +93,11 @@ The approach still seems wise on the surface. Compared to tighly coupled, monoli
 
 ## Conway Yourself
 
-Communication is sometimes called a "_soft problem_". It is emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible and it isn't logical. You can't control it. Naturally, attempts to alter the "soft" social dynamic of a software engineering team are not met with enthusiasm. And on the the surface, that makes sense.
+Communication is sometimes called a "_soft problem_". It's emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible and it isn't logical. You can't control it. Most attempts to alter the "soft" social dynamics of a software engineering team are not met with enthusiasm. And on the the surface, that makes sense.
 
-There is evidence that open source projects operate without a long-term plan, organizational structure or even social interaction. And it appears as though organizations can "reverse Conway" their systems, using system architectural changes to "fix" their people. But neither approach is good. Neither will scale. They both break down when other engineering, product, marketing and design groups need to contribute. Neither will foster collaboration. Neither will **build a team**.
+There is evidence that open source projects operate successfully without a long-term plan, organizational structure and any form of social interaction. And it appears as though organizations can "reverse Conway" their systems, using architectural changes to "fix" their people.
+
+But neither approach is good. Neither will scale. They both break down when other engineering, product, marketing and design teams need to contribute. Neither will foster collaboration. Neither will **build a team**.
 
 Communication isn't an engineering problem. And it isn't a _"soft"_ problem. It's our default mode. A team optimizes for Conway's Law when it **improves its interpersonal communication**. The technical brilliance of tomorrow will be born from those that learn to minimize ego and **enhance** verbal, non-verbal, emotional and spiritual communication.
 
