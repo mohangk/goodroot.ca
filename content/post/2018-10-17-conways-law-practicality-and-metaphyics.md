@@ -93,7 +93,7 @@ The approach still seems wise on the surface. Compared to tighly coupled, monoli
 
 ## Conway Yourself
 
-Communication is sometimes called a "_soft problem_". It's emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible and it isn't logical. You can't control it. Most attempts to alter the "soft" social dynamics of a software engineering team are not met with enthusiasm. And on the the surface, that makes sense.
+Communication is sometimes called a "_soft problem_". It's emotionally rooted, which is used as the rationale to dismiss its importance. It isn't code, it isn't tangible and it isn't logical. You can't control it. Most attempts to alter the "soft" social dynamics of a software engineering team are not met with enthusiasm. And on the the surface that makes sense.
 
 There is evidence that open source projects operate successfully without a long-term plan, organizational structure and any form of social interaction. And it appears as though organizations can "reverse Conway" their systems, using architectural changes to "fix" their people.
 
