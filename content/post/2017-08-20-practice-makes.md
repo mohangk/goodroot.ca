@@ -3,7 +3,7 @@ title: "Practice Makes"
 date: '2017-08-20'
 author: Kellen Evan
 description: "Addicted to technology? Trying to cut back? What else do you learn when you fill up your reading list with endless pages? What do you really practice?"
-published: true
+published: false
 ---
 
 I no longer visit distracting applications. The frothing battlegrounds of social networks: gone. Aggregators with dubious ranking algorithms and suspect turf composition: so long! Once focused and objective tech media outlets: adios. My reading list has been replaced with a deeper peace.
@@ -28,7 +28,7 @@ My being cared little what day it is on the calendar. To it  there is one day, o
 
 We are unable to **defer** relaxation just as we can not defer learning. If I want to relax, then I have to stop. I have to return to the present, breath and let go. And if I want to learn, then I have to stop. I have to pick something -- and then learn it, deeply -- right now!
 
-Patterns do not come when called. They are woven through time, encoded deep into your being. And if you defer and lose the perseverance to develop meaningful skills then you will never grow. You will never learn to sit with the moment and blossom. You will just keep clicking through struggle into something that feels easier. 
+Patterns do not come when called. They are woven through time, encoded deep into your being. And if you defer and lose the perseverance to develop meaningful skills then you will never grow. You will never learn to sit with the moment and blossom. You will just keep clicking through struggle into something that feels easier.
 
 > “We humans are unhappy in large part because we are insatiable; after working hard to get what we want, we routinely lose interest in the object of our desire. Rather than feeling satisfied, we feel a bit bored, and in response to this boredom, we go on to form new, even grander desires.”
 
