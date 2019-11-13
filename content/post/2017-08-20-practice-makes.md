@@ -1,6 +1,6 @@
 ---
 title: "Practice Makes"
-date: '2019-11-12'
+date: '2017-08-20'
 author: Kellen Evan
 description: "Addicted to technology? Trying to cut back? What else do you learn when you fill up your reading list with endless pages? What do you really practice?"
 published: true
