@@ -1,39 +1,36 @@
 ---
 title: "Practice Makes"
-date: '2017-08-20'
+date: '2019-11-12'
 author: Kellen Evan
-published: false
+description: "Addicted to technology? Trying to cut back? What else do you learn when you fill up your reading list with endless pages? What do you really practice?"
+published: true
 ---
 
-I often prevent myself from visiting sites I deem too distracting. The frothing, victor-less political and moral battlegrounds of social networks: gone. Aggregators with dubious ranking algorithms and suspect turf composition: gone. Once focused and objective tech media outlets: gone.
+I no longer visit distracting applications. The frothing battlegrounds of social networks: gone. Aggregators with dubious ranking algorithms and suspect turf composition: so long! Once focused and objective tech media outlets: adios. My reading list has been replaced with a deeper peace.
 
-Never before have flavours of the month been so apparent; in every compelling thread, an expert on every niche subject. This does not inspire comfort. It is easy to get the sensation that someone or something is always ahead, always better. We feel that if we _don't_ study that we will fall behind the unseen, unrelenting curve. Our cushy jobs will vanish, the robots will take over and the rare chosen few, those who learned _that little bit extra_ will be their handlers.
+Why? I felt trapped, stressed and stagnant. I felt that if I didn't ride the wave then I would fall behind the curve. I believed that my job would vanish, that the robots would take over and that the rare chosen few -- those who learned _that little bit extra_ -- would be their handlers instead of me.
 
-We tell ourselves that _we're interested_; this is my hobby and I _love_ spending my weekends programming and reading books that will improve my performance and productivity. We are smart, and to the smart, it's implied: learning is effortless. One thing we've learned, a meme that courses through the currents, is that the _best_ work is done by those who _love what they do_.
+I had convinced myself that I was _interested_. I told myself that this is my hobby and that I _loved_ spending my weekends programming and reading books to improve my performance and productivity. And I had always heard that the "best work" gets done by those who love what they do.
 
-So, of course we all love what we do; we're all going to stick around and find that money or that success or whatever it is we're seeking. It is going to be easy because we've mastered the recipe: we're smart and we love it.
+But this obsession was not love. It was fear and insecurity. I feared being irrelevant. I worried that my wave would dissolve into meaninglessness. And I had to stay ahead, always watchful for the next thing that would swell up behind it.
 
-Fear and insecurity begin to drive us. We are driven by the fear of irrelevancy and the implication that the current thing we're doing, that once important and popular thing, is splashing towards meaninglessness. An even bigger wave is right behind it, rolling with ease over what once felt so monumental.
+I began to wonder what **patterns** I was building as I filled up my reading list and clicked my life away. I saw what attracted me: the allure of potential. I had become obsessed with the future, the next thing. And so, I saw a pattern **deference**.
 
-If we consider that fear is in the driver seat, the second avenue deals with what sort of patterns we _are_ forming when our reading lists balloon with the data we feel we require to remain competitive in the market. We are learning to respond to fear and to place a higher value on the externalized realities whose potential persuades us more than that of our current reality.
+**Deference** is a dark pattern. It happens when you defer an experience in the moment in exchange for an illusory one tomorrow; procrastinating, the tomorrow or next hour that never comes. It is an abstraction, an impossible destination.
 
-When we get lost in the limitless nature of _new_ potential, we lose track of the present. The present, once shimmering with possibility, has brought to light the challenges and struggles required to realize that potential.
+The present is where challenge and struggle dwell. And we must experience them to activate our potential. But lusting after the future caused me to avoid challenge and struggle. I had lost touch with the present. This is a lesson stress taught me.
 
-And so, we begin to **defer**.
+It is Wednesday afternoon. I am exhausted; it's been a long week already and I am carrying stress. On Wednesday I'd tell myself: "On Friday, I will relax".
 
-**Deference** is a dark pattern. A casual example might look as follows: It is Wednesday afternoon and you are already wiped out; it's been a long week and you are stressed out. While eating dinner on Wednesday you tell yourself: "On Friday, I will relax".
+Wednesday comes and goes and I would remain distressed. Thursday the same. But no worries: tomorrow is Friday. And when that day comes, it will be time to relax.
 
-Wednesday comes and goes and you've remained in a state of distress. Thursday, the same: tomorrow is Friday, when that day comes, you'll relax.
+Friday, sweet Friday arrives. Time to relax! But did I? Could I? When have I practiced relaxation? Does this mean I'd stay up late reading articles, getting through that reading list? Learning, improving, producing?
 
-Friday, sweet Friday arrives on its golden cloud... You finish your meal and it is time to relax. But do you? Can you? When have you practiced, what is required to relax? Has relaxation become the consumption of substances that simulate contentedness? Your being cares little what day it is on the calendar; to it, it's like every other day. If you wanted to relax on Friday, or any day, you should have relaxed on Wednesday when you were in the midst of stress.
+My being cares little what day it is on the calendar. To it  there is one day, one time, one moment: right now. If I wanted to relax on Friday, then the time to learn relaxation was Wednesday when I was in the midst of stress. And when Friday arrived then I would have done it already. I would _do_ it.
 
-The only time that one is capable of relaxing is _right now_. You are unable to _defer_ relaxation. If on Wednesday you can relax, then on Thursday you can relax, and Friday, and on and on -- you are a relaxed person, you have taken the time to habituate relaxing patterns. Patterns do not come when called, they are woven and created over-time.
+We are unable to **defer** relaxation just as we can not defer learning. We can not defer self development. If I want to learn, then I have to stop. I have to pick something -- and then learn it, deeply -- right now!
 
-When learning chases us out into the future, we are deferring the development of patience. Instead of getting deeper into, and learning to enjoy, our present state, the _now_ where we take place, we look for the new to bestow a more immediate reward.
-
-Without curiosity and a hunger for the knowledge we need to actualize wisdom, it's unlikely any of us would create beautiful and wonderful things. But it takes great care not to lose oneself in the insatiable nature of the human condition.
-
-Polishing ourselves and our abilities is useful, but to what end? Perfection is an unattainable goal. We are never able to _make perfect_, the best we can do is make _ourselves_ content with our own progress. What is it that you're practicing?
+Patterns do not come when called. They are woven through time, encoded deep into your being. And if you defer patience and lose the perseverance to develop meaningful skills, then you will never grow. You will click through struggle into something else.
 
 > “We humans are unhappy in large part because we are insatiable; after working hard to get what we want, we routinely lose interest in the object of our desire. Rather than feeling satisfied, we feel a bit bored, and in response to this boredom, we go on to form new, even grander desires.”
 
