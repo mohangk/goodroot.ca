@@ -1,70 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://goodroot.ca/post/2018/03/06/the-garden-axiom/</loc>
+    <loc>https://goodroot.ca/</loc>
+    <lastmod>2019-05-04T21:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/2019/05/04/on-deep-work/</loc>
+    <lastmod>2019-05-04T21:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/</loc>
+    <lastmod>2019-05-04T21:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/2018/12/22/biological-boot-loader/</loc>
+    <lastmod>2018-12-22T19:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/2018/10/13/practicality-metaphysics-conways-law/</loc>
+    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/2018/09/16/veganism/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/2018/07/29/twice-dead/</loc>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodroot.ca/post/2018/03/06/seeds/</loc>
     <lastmod>2018-03-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://goodroot.ca/post/2018/03/02/rest-well-dr-paul-roberts/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2018/02/23/an-opinion-on-opions/</loc>
+    <loc>https://goodroot.ca/post/2018/02/23/power-word-opinion/</loc>
     <lastmod>2018-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2018/02/21/the-best-game-on-earth/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2017/08/20/practice-makes/</loc>
-    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2017/08/07/hockey-and-roles/</loc>
-    <lastmod>2017-08-07T13:56:31-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2017/07/17/digital-vinyl/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2017/03/17/declutter-your-digital-life/</loc>
-    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2017/03/17/projecting-management/</loc>
-    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://goodroot.ca/post/2017/01/20/do-the-astral-plane/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2017/01/17/video-game-university/</loc>
-    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2016/03/22/after-ayahuasca/</loc>
-    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/2015/11/15/social-networks-are-bad-for-you/</loc>
-    <lastmod>2015-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,61 +63,11 @@
   </url>
   
   <url>
-    <loc>https://goodroot.ca/categories/ayahuasca/</loc>
-    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://goodroot.ca/categories/</loc>
-    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/categories/culture/</loc>
-    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/categories/gaming/</loc>
-    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/categories/health/</loc>
-    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/</loc>
-    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/post/</loc>
-    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/categories/programming/</loc>
-    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://goodroot.ca/categories/spirituality/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://goodroot.ca/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

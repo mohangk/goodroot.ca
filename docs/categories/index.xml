@@ -1,69 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Goodroot</title>
+    <title>Categories on goodroot</title>
     <link>https://goodroot.ca/categories/</link>
-    <description>Recent content in Categories on Goodroot</description>
+    <description>Recent content in Categories on goodroot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://goodroot.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ayahuasca</title>
-      <link>https://goodroot.ca/categories/ayahuasca/</link>
-      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://goodroot.ca/categories/ayahuasca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://goodroot.ca/categories/culture/</link>
-      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://goodroot.ca/categories/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaming</title>
-      <link>https://goodroot.ca/categories/gaming/</link>
-      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://goodroot.ca/categories/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://goodroot.ca/categories/health/</link>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://goodroot.ca/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://goodroot.ca/categories/programming/</link>
-      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://goodroot.ca/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spirituality</title>
-      <link>https://goodroot.ca/categories/spirituality/</link>
-      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://goodroot.ca/categories/spirituality/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
