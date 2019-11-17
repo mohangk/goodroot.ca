@@ -10,7 +10,7 @@ In the ‘90s, everyone was weird. We were the age-less, culture-less, state-les
 
 The reasons would differ: fighting parents, an unusual or unsightly face, too much time and not enough attention, an odd mind, strange hair or just too many idiosyncrasies. Some wanted to learn the ways of technology. Some wanted to play. Others wanted to seek for greater truths. Most were lonely.
 
-Whatever it was, they did not hear the message that the social world delivered — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found solace on the Internet. I was there, too.
+Whatever it was, they did not hear the same message that the social world delivered — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found solace on the Internet. I was there, too.
 
 In the first grade I had a harrowing realization: the previous years' institutional sentence was not a one-off occurrence. It was, in fact, a pattern that would continue for the foreseeable future.
 
