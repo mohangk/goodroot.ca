@@ -10,9 +10,9 @@ In the ‘90s, everyone was weird. We were the age-less, culture-less, state-les
 
 Their reasons would differ. Their parents fought. They had an unusual face or were unsightly. They had strange hair or were just full of too many idiosyncrasies. They wanted to learn the ways of technology. They went seeking for greater truths. They were lonely.
 
-Whatever it was, they did not hear the message that the social world would deliver — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found solace on the Internet.
+Whatever it was, they did not hear the message that the social world would deliver — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found solace on the Internet. I was there, too.
 
-In the first grade, realization struck an intelligent and charismatic young boy. That boy was me. It was made clear to me that the previous years' institutional sentence was not a one-off occurrence. It was, in fact, a pattern that would continue for the foreseeable future.
+In the first grad I had a harrowing realization: the previous years' institutional sentence was not a one-off occurrence. It was, in fact, a pattern that would continue for the foreseeable future.
 
 Upon delivery to my classroom and a farewell from my mother, I refused to let go. *"I'll be quiet. I'll be good!""*, I bargained through tears while clinging to her legs.
 
