@@ -32,7 +32,7 @@ Social obligations became just that. Gatherings became set pieces, the people wi
 
 Hands full of digital gold became a sore back and a commute. Important conversations with fancy titles: “Chiefs”, “Directors”, “Managers”, became an adventure into patience. How much self-important puffery can I absorb before this moon-light warrior snapped a spell or two out from under a bored breath?
 
-Depression was inevitable; a soul existed in one place, the body in another. A lost scroll of technical talents and anonymous international accomplishments, a resume destined to find a place as a cog in a spirit-less machine. And soon digital friends started to disappear, conscripted into 'real life'. The voices that used to speak the loudest and clearest stopped signing in and trying to build or fix things. And I was a man now. It was my turn.
+Depression was inevitable; a soul existed in one place, the body in another. A lost scroll of technical talents and anonymous international accomplishments, a resume destined to become cog in a spirit-less machine. Soon digital friends started to disappear, conscripted into 'real life'. The voices that used to speak the loudest and clearest stopped signing in and trying to build or fix things. And I was a man now. It was my turn.
 
  Men need to find a way to provide for their families and loved ones. Men need to learn how to suck it up and fit into modern existence. But I could not, I was too broken. I fell down a dark path. Yet there was always a small glimmer of light, just out of my reach.
 
