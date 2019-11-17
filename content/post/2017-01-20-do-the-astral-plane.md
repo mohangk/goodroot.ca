@@ -4,7 +4,7 @@ date: '2017-01-20'
 author: Kellen Evan
 slug: do-the-astral-plane
 ---
-Growing up, I devoured fiction. Within these novels I found something that sparked my spirit. I would then head to the computer to let my mind run, wild and deep, into the unknown. There was a webpage for every thing one could dream.
+Growing up, I devoured fiction. Within these novels I would often find something that would spark my spirit. And then I would take that inspiration into the computer and let my mind run, wild and deep, to expand into the unknown. There was a webpage for every thing one could dream. And I had wild dreams.
 
 I enjoyed the abstract. The more bizarre and uncommon the plot-line, the more I longed to sink my teeth into it. One of the many series of abstract children's fiction I consumed was titled: [The Zack Files](http://amzn.to/2iXH8lS). Within these simple books, Zack would explore meta-physical phenomenon. In the book ‘[I’m Out of My Body, Please Leave a Message](http://amzn.to/2iXH8lS)’, he dabbles in Astral Projection.
 
@@ -57,5 +57,3 @@ As years went by, the flame of spirit began to rekindle within my heart. Slowly,
 Instead of exploring the magical realms of faith and silly belief that lived inside me, I became an empty, material vessel. I lost touch with myself. I stopped imagining. I abandoned introspection and I lusted after things and people, trying to fill a hole I had created in their pursuit. It was my physical being that decided it wanted no part of being whole, casting my soul adrift.
 
 My spirit did not hold a grudge. To rescue my ethereal other-half from the solitary abyss, I only needed to open my heart, extend an invitation and welcome it back. And, of course, promise to let it out to venture from time to time. Now, darkness is unfamiliar to me; my imagination glows anew. My body and soul are together and I feel complete.
-
- 
