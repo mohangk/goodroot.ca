@@ -10,33 +10,31 @@ In the ‘90s, everyone was weird. We were the age-less, culture-less, state-les
 
 The reasons would differ: fighting parents, an unusual or unsightly face, too much time and not enough attention, an odd mind, strange hair or just too many idiosyncrasies. Some wanted to learn the ways of technology. Some wanted to play. Others wanted to seek for greater truths. Most were lonely.
 
-Whatever it was, they did not hear the same message that the social world delivered — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found solace on the Internet. I was there, too.
+Whatever it was, these people did not hear the same message that the social world delivered — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found their solace on the Internet. I was there, too.
 
 In the first grade I had a harrowing realization: the previous years' institutional sentence was not a one-off occurrence. It was, in fact, a pattern that would continue for the foreseeable future.
 
 On that first day after my mother kissed me farewell, I clung to her legs and refused to let go. *"I'll be quiet! I'll be good!""*, I bargained through tears.
 
-It was evident to the classroom’s matriarch that I had no inclination towards learning, sitting still and behaving like the rest of the faces who were pleasant and neat in their straight and well organized desk rows. The wretched woman had a way of dealing with these things, a magical bullet that would evolve even the most spirited and wily little creature into a calm and phonetically excellent warm body of learning. It came in the form of a pill and it was one that was proven to be effective.
+It was evident to my classroom’s matriarch that I had no inclination towards learning, sitting still and behaving like the rest of the faces who were pleasant and neat in their straight and well organized desk rows. And this wretched woman had a way of dealing with these things, a magical bullet that would evolve even the most spirited and wily little creature into a calm and phonetically excellent warm body of learning. It came in the form of a pill and it was one that was proven to be effective.
 
 Unbeknownst to me, a discussion took place behind administrative doors with my parents. If I did not begin my regiment of federally approved medicine, then they would no longer be interested in attempting to try and educate me. And so, I moved schools.
 
-I met new friends. I moved again. And then again I met new friends. A further move... But this time things were different. Hormones had set in and I withdrew to my bedroom, alone on the computer, where my eyes were opened and a different sort of life began. It became clear that friends could be found in other places: Internet Relay Chat, forums, games, Ventrilo — someone was always there, weirder than the last, willing to share things and listen.
+I met new friends. I moved again. And then again I met new friends. A further move... But this time things were different. Hormones had set in and I withdrew to my bedroom, alone on the computer, where my eyes were opened and a different sort of life began. Friends appeared from different places: Internet Relay Chat, forums, games, Ventrilo — someone was always there, weirder than the last, willing to share things and listen.
 
 Being in a well-to-do neighbourhood, connected to a computer and a loving family, online activity appears harmless and quietly well-intended. Relationships form, hobbies appear, skills develop and suddenly a boy becomes a name and transcends his flesh; a conduit for information, channelling unfathomable facts large and small to all possible corners of the world.
 
-I, the seemingly inattentive boy, had found an environment that seemed to align with the rapidity and creativity of my mind. Secrets. So many secrets.
+I, the seemingly inattentive boy, had found an environment that aligned with the rapidity and creativity of my mind. And there were secrets. So many secrets.
 
-I gained wisdom, bordering on magic. Some of it dark, manipulative and dangerous. Much of it light: bright, helpful, inspired and altruistic. This wizardry came not without consequence. Reality, the one I'd wake up to, the one that awaited me when I would pack my lunch and leave for work, seemed unbothered by my revelations. It began to feel further and further away.
+I gained wisdom, bordering on magic. Some of it dark, manipulative and dangerous. Much of it light: bright, helpful, inspired and altruistic. But this wizardry came not without consequence. Reality, the one I'd wake up to, the one that awaited me when I would pack my lunch and leave for work, seemed unbothered by my revelations. It began to feel further and further away.
 
 Social obligations became just that. Gatherings became set pieces, the people within them like actors in a foreign play. The ambitions I embraced in moonlight faded when the sun was shining.
 
 Hands full of digital gold became a sore back and a commute. Important conversations with fancy titles: “Chiefs”, “Directors”, “Managers”, became an adventure into patience. How much self-important puffery can I absorb before this moon-light warrior snapped a spell or two out from under a bored breath?
 
-Depression was inevitable. A soul existed in one place, the body in another. A lost scroll of technical talents and anonymous international accomplishments, a resume destined to find a place as a cog in a spirit-less machine.
+Depression was inevitable; a soul existed in one place, the body in another. A lost scroll of technical talents and anonymous international accomplishments, a resume destined to find a place as a cog in a spirit-less machine. And soon digital friends started to disappear, conscripted into 'real life'. The voices that used to speak the loudest and clearest stopped signing in and trying to build or fix things. And I was a man now. It was my turn.
 
-Soon digital friends started to disappear, conscripted into life. The voices that used to speak the loudest and clearest stopped signing in and trying to build or fix things. And I was a man now. It was my turn.
-
- Men need to find a way to provide for their families and loved ones. Men need to learn how to fit into modern existence. But I could not. I was too broken. I fell down a dark path. Yet there was always a small glimmer of light, just out of my reach.
+ Men need to find a way to provide for their families and loved ones. Men need to learn how to suck it up and fit into modern existence. But I could not, I was too broken. I fell down a dark path. Yet there was always a small glimmer of light, just out of my reach.
 
 Following that light, I wound up in Peru with a plastic cup full of thick, chocolate coloured, freshly brewed Shamanic potion in my hands. Surrounded by strangers and several traditional medicine men, I felt no fear in the middle of the Amazonian jungle, about to consume the strongest hallucinogenic concoction in the known universe. I brought the cup to my lips and drank.
 
@@ -48,11 +46,13 @@ _"Maybe I should drink more"_, I thought.
 
 The shamans continued to sing and they began pounding on drums.
 
-Why do I still feel empty? I am still lost. My head is still too full, my government is still too crooked, my culture does not fit right and I still feel like I was born into the wrong planet.
+The thoughts came more rapidly. Why do I still feel empty? I am still lost. My head is still too full, my government is still too crooked, my culture does not fit right and I still feel like I was born into the wrong planet.
 
 _"The potion did not work for me."_
 
-I tried. I failed. I stand up and head to the washroom. My stomach feels a little funny. I decide to let it pass and then I will go to sleep.
+I tried. I failed.
+
+I stand up and head to the washroom. My stomach feels a little funny. I decide to let it pass and then I will go to sleep.
 
 I sit on the toilet in the middle of the jungle and pull my pants down to my ankles. I allow myself deep, seething anger.
 
@@ -80,7 +80,7 @@ An ancient, patient being exists — as it always has — where the mind
 
 Time does not exist here. This is where one came from. This is where one will go. This is where one is right at this moment and in all moments.
 
-A man is aware of his mind again. The entity is still with him. Their communication appears to be over but their work is not. The shattered threads of a human-being are wrung out then straightened with grace and love. The entity performs their work with such joyful ease; each twist bleeding out darkness, each re-arranged thread brighter than sunlight.
+A man is aware of his mind again, but the entity is still with him. Their communication appears to be over but their work is not. The shattered threads of a human-being are wrung out then straightened with grace and love. The entity performs their work with such joyful ease; each twist bleeding out darkness, each re-arranged thread brighter than sunlight.
 
 On some level, a man registers being on the floor of a hallway. Someone helps him into a shower. He is covered in vomit, yet immaculate. He is clean to the pure centre of a soul he never knew existed. He tries to leave the shower but a young boy almost forgotten dives head first into his heart. He falls to the floor complete but crushed with an absolute unawareness of who, what or where, when or why.
 
