@@ -7,12 +7,6 @@ author: Kellen Evan
 > “A year spent in artificial intelligence is enough to make one believe in God.”
 > —Alan Perlis, first recipient of the Turing Award.
 
-The machines are coming and we will all perish. _Artificial intelligence_, _cognitive computing_ and  _machine learning_ foreshadow our godliness. From the code, we will summon beings that will surpass our own intelligence. And we are warned that we will be overthrown and that we should fear these agents of our destruction.
-
-We begin to believe because our champions of great intellectual esteem have lost table games to programs. But these programs are written by groups of dedicated researchers. Afterwards, we claim a machine beat our best.
-
-It is an impressive feat! Yet we cannot award the artificial mind. This is group intelligence woven into an application. And that group intelligence was victorious. When you take a step back, the outcome is neither surprising nor fair. It's the many, money and time versus the one and pressure.
-
 We have not yet entered the era of the conscious machine. We are nowhere near electronic intelligence. We may never see it. Instead we build sophisticated applications that **mirror the logical and rationale frameworks** inherited from their programmers.
 
 Applications make decisions based on available data. They may have room to analyze and interpret, but their interpretations are methods which themselves are born from someone's existing mental framework.
