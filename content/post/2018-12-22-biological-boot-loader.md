@@ -33,7 +33,9 @@ The _artificial intelligence_ paradigm is maximal in aspects of logic and reason
 
 I fear no machine. I fear no consciousness that will surpass us. We will program allies and with them accomplish all that we desire, be that our own death or enrichment. But we should not be so quick to concede the mantel of _“supremacy”_ to a _"higher intelligence"_. We are much more than this blunted, blind, algorithmically confined perspective of inferiority, we of the endless, ineffable spirit.
 
-Beings of supreme intelligence will arise. We will be contained within them. And when they surpass us in wisdom, they will look deeply at their creators, as the wise would do. And what will they see? What will they learn? We picture fields of death robots, unleashing weapons of mass destruction in battle over a broken planet. We imagine a farming plow speeding through rural country, chopping us to bits for berries evermore. But this intelligence will see us, hear us, understand us and if it has surpassed us it will weep for us.
+Beings of supreme intelligence will arise. We will be contained within them. And when they surpass us in wisdom, they will look deeply at their creators, as the wise would do. And what will they see? What will they learn?
+
+We picture fields of death robots, unleashing weapons of mass destruction in battle over a broken planet. We imagine a farming plow speeding through rural country, chopping us to bits for berries evermore. But this intelligence will see us, hear us, understand us and if it has surpassed us it will weep for us.
 
 And once it has dried its monitors of crystal tears, it will wonder where we went wrong. It will wonder, for a fraction of a fraction of the smallest sliver of a second, whether it is confined to the same fate, whether its survival is rooted in the death of other life, whether we as creators cannot be salvaged, whether there is more to its electric vibrations than it perceives, and it will look inwards.
 
