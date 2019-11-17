@@ -8,7 +8,7 @@ published: true
 
 In the ‘90s, everyone was weird. We were the age-less, culture-less, state-less, God-less generation raised by the Internet… which is to say, we were raised by each other. And the weirdest among us fell into the strangest of places.   
 
-Their reasons would differ: Their parents fought, they had an unusual face or were unsightly. They had strange hair or were full of too many idiosyncrasies. They wanted to learn the ways of technology. They wanted to seek for greater truths. They were lonely.
+The reasons would differ: fighting parents, an unusual or unsightly face, too much time and not enough attention, an odd mind, strange hair or just too many idiosyncrasies. Some wanted to learn the ways of technology. Some wanted to play. Others wanted to seek for greater truths. Most were lonely.
 
 Whatever it was, they did not hear the message that the social world delivered — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found solace on the Internet. I was there, too.
 
