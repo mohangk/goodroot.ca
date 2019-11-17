@@ -28,17 +28,19 @@ I, the seemingly inattentive boy, had found an environment that seemed to align 
 
 I gained wisdom, bordering on magic. Some of it dark, manipulative and dangerous. Much of it light: bright, helpful, inspired and altruistic. This wizardry came not without consequence. Reality, the one I'd wake up to, the one that awaited me when I would pack my lunch and leave for work, seemed unbothered by my revelations. It began to feel further and further away.
 
-Social obligations became just that. Gatherings became set pieces, the people within them like actors in a foreign play. The ambitions I embraced in moonlight faded when the sun was shining. Hands full of digital gold became a sore back and a commute. Important conversations with fancy titles: “Chiefs”, “Directors”, “Managers”, became an adventure into patience. How much self-important puffery can I absorb before this moon-light warrior snapped a spell or two out from under a bored breath?
+Social obligations became just that. Gatherings became set pieces, the people within them like actors in a foreign play. The ambitions I embraced in moonlight faded when the sun was shining.
+
+Hands full of digital gold became a sore back and a commute. Important conversations with fancy titles: “Chiefs”, “Directors”, “Managers”, became an adventure into patience. How much self-important puffery can I absorb before this moon-light warrior snapped a spell or two out from under a bored breath?
 
 Depression was inevitable. A soul existed in one place, the body in another. A lost scroll of technical talents and anonymous international accomplishments, a resume destined to find a place as a cog in a spirit-less machine.
 
-Soon, digital friends start to disappear, conscripted into life. The voices that used to speak the loudest and clearest suddenly stop signing in and trying to build or fix things. And I was a man now.
+Soon digital friends started to disappear, conscripted into life. The voices that used to speak the loudest and clearest stopped signing in and trying to build or fix things. And I was a man now. It was my turn.
 
  Men need to find a way to provide for their families and loved ones. Men need to learn how to fit into modern existence. But I could not. I was too broken. I fell down a dark path. Yet there was always a small glimmer of light, just out of my reach.
 
 Following that light, I wound up in Peru with a plastic cup full of thick, chocolate coloured, freshly brewed Shamanic potion in my hands. Surrounded by strangers and several traditional medicine men, I felt no fear in the middle of the Amazonian jungle, about to consume the strongest hallucinogenic concoction in the known universe. I brought the cup to my lips and drank.
 
-Comparisons to chocolate existed only in colour. A bitter, bean-like, basic flavour sludged down my throat. The Shamans began to sing and shake their leaf rattles.
+Comparisons to chocolate exist only in colour. A bitter, bean-like, basic flavour sludged down my throat. The Shamans began to sing and shake their leaf rattles.
 
 An hour passed. A second hour was close. I felt nothing.
 
@@ -46,7 +48,7 @@ _"Maybe I should drink more"_, I thought.
 
 The shamans continued to sing and they began pounding on drums.
 
-Why do I still feel empty? I am still lost. My head is still too full, my government is still too crooked, my culture does not fit right and I still feels like I was born into the wrong planet.
+Why do I still feel empty? I am still lost. My head is still too full, my government is still too crooked, my culture does not fit right and I still feel like I was born into the wrong planet.
 
 _"The potion did not work for me."_
 
@@ -60,9 +62,7 @@ Anger for being unable to fit in with peers who seemed to have such different, m
 
 Anger for being helpless and unable to change a world so thoroughly broken.
 
-Anger and disappointment for failing to just shut up, be normal and love those in my life who have love me.
-
-A calm voice brings me an unexpected sense of ease.
+Anger and disappointment for failing to just shut up, be normal and love those in my life who love me. But soon a calm voice brings me an unexpected sense of ease.
 
 _“These are just your demons speaking”_, it says.
 
@@ -102,7 +102,7 @@ _"Have I been broken?"_
 
 _“…Shhh…”…_, they giggle and embrace him.
 
-_"Who was that?"
+_"Who was that?"_
 
 _“…Shhh…”_, they giggle again, beautiful and full of music.
 
@@ -112,4 +112,4 @@ They stay with him for an eternity. Capable of nothing but love, they accompany 
 
 That soul now returns to the world of the technical, where countless Internet packets stream across borders and into homes, carrying lost spirits. The shamans call it medicine, an honest and accurate description. As one soul who has traversed deeply into both the darkest and brightest corners of the Internet and the spiritual world will now tell you: our world is sick.
 
-We can make the right choices out of love and trust in the right medicine or we can continue living in fear and conflict, trying to apply material and intellectual solutions to the void that exists inside our being… where our souls used to be.
+We can make the right choices out of love and trust in the right medicine or we can continue living in fear and conflict, trying to apply material and intellectual solutions to the void that exists inside of us all… where our souls used to be.
