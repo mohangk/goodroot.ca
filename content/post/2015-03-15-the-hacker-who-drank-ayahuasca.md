@@ -12,9 +12,9 @@ Their reasons would differ. Their parents fought. They had an unusual face or we
 
 Whatever it was, they did not hear the message that the social world would deliver — with tremendous success — to their corporeal peers. All they knew was that there was a mold, they did not belong in it and so they withdrew. And like millions of others they found solace on the Internet. I was there, too.
 
-In the first grad I had a harrowing realization: the previous years' institutional sentence was not a one-off occurrence. It was, in fact, a pattern that would continue for the foreseeable future.
+In the first grade I had a harrowing realization: the previous years' institutional sentence was not a one-off occurrence. It was, in fact, a pattern that would continue for the foreseeable future.
 
-Upon delivery to my classroom and a farewell from my mother, I refused to let go. *"I'll be quiet. I'll be good!""*, I bargained through tears while clinging to her legs.
+On that first day after my mother kissed me farewell, I clung to my mother her legs and refused to let go. *"I'll be quiet! I'll be good!""*, I bargained through tears.
 
 It was evident to the classroom’s matriarch that I had no inclination towards learning, sitting still and behaving like the rest of the faces who were pleasant and neat in their straight and well organized desk rows. She had a way of dealing with these things, a magical bullet that would evolve even the most spirited and wily little creature into a calm and phonetically excellent warm body of learning.
 
