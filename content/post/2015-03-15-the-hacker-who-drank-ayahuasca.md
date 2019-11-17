@@ -16,7 +16,7 @@ In the first grade I had a harrowing realization: the previous years' institutio
 
 On that first day after my mother kissed me farewell, I clung to my mother her legs and refused to let go. *"I'll be quiet! I'll be good!""*, I bargained through tears.
 
-It was evident to the classroom’s matriarch that I had no inclination towards learning, sitting still and behaving like the rest of the faces who were pleasant and neat in their straight and well organized desk rows. She had a way of dealing with these things, a magical bullet that would evolve even the most spirited and wily little creature into a calm and phonetically excellent warm body of learning.
+It was evident to the classroom’s matriarch that I had no inclination towards learning, sitting still and behaving like the rest of the faces who were pleasant and neat in their straight and well organized desk rows. The wretched woman had a way of dealing with these things, a magical bullet that would evolve even the most spirited and wily little creature into a calm and phonetically excellent warm body of learning.
 
 A pill was needed and it was one that was proven to be effective. Unbeknownst to me, a discussion took place behind administrative doors with my parents. If I did not begin my regiment of federally approved medicine, then they would no longer be interested in attempting to try and educate me.
 
