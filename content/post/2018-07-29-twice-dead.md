@@ -14,11 +14,9 @@ published: true
                             - Dan Deacon
 ```
 
-This is a story of my two deaths. Growing up, I thrice relocated: kindergarten, grade four and grade nine. Each move required that I reinvent my character. Traumatic perhaps, but not yet one of my deaths. I was much alive!
+This is a story of my two deaths. I was the class clown of the third grade. You could never coax me into being still. I would leap to make people laugh, to joke, make a silly noise or a do funny impression. But when I changed schools in grade four, that changed.
 
-I was the class clown of the third grade. You could never coax me into being still. I would leap to make people laugh, to joke, make a silly noise, or a funny impression. But when I changed schools in grade four, that changed.
-
-I arrived at my new school the me that I had been. I was the gregarious, hilarious, obnoxious, tenacious, and wild-haired boy. I started off with a bang. I adored the role of the ‘new kid’. But the reality of the pack and the hidden cruelty of hierarchal younglings would soon present itself.
+I arrived at my new school the me that I had been. I was the gregarious, hilarious, obnoxious, tenacious and wild-haired boy. I started off with a bang. I adored the role of the ‘new kid’. But the reality of the pack and the hidden cruelty of hierarchal younglings would soon present itself.
 
 One day a much larger boy known for his size and passion for Brazilian Ju-Jitsu approached me. He had a smaller, smirking, freckle-faced crony at his side.
 
@@ -30,7 +28,7 @@ But no laughter came.
 
 “…That was *not* funny…”
 
-A torturous silence followed.
+Silence followed.
 
 “Now [OTHER_BOY] - you tell me a joke.”
 
