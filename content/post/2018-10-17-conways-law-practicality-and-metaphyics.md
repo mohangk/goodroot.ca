@@ -73,7 +73,7 @@ The teams' conclusion was thus:
 
 > "... organizational measures predict failure-proneness in Windows Vista with significant precision, recall and sensitivity."
 
-And it gives proves Conway's Law even further: **organizations can be analyzed to predict quality of programmed work and vice versa**.
+And it proves Conway's Law even further: **organizations can be analyzed to predict quality of programmed work and vice versa**.
 
 It is easy to miss "the forest from the trees" when drawing conclusions from scientific rigour. Social dynamics are so rooted in chaos that one wonders about the repeatability and transferability of these studies. But we emerge with two key take aways and consider them to be true:
 
