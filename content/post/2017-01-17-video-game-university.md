@@ -26,13 +26,13 @@ But as the state of the gaming art evolved, so did the medium: the computer was 
 
 **Error! A driver is missing.**
 
-Step 0: learn the underlying guts of the operating system. Afterwards, you can play. Instant gratification? Weeks of tears, rage and frustration. No search engines. And the parents would just shrug: *go outside*!... Sometime later, the game would come alive.
+Step 0: learn the underlying guts of the operating system. Afterwards, you can play. Instant gratification? Weeks of tears, rage and frustration. No search engines. And the parents would just shrug: *"go outside"*!... Sometime later, the game would come alive.
 
 On the computer there were much more than two buttons. You have a keyboard and mouse. Between them there are 84 buttons and a fluid X-Y axis. Simple and reactive 2-button games with simple plots were replaced with sprawling, fantastical adventures. And the keyboard enabled free expression.
 
 My reading level took a giant leap, inspired by line after line of advanced and nuanced text, delivered through the sheen of three dimensions. Once a mellow plumber jumping through pipes and eating mushrooms, now a wry space captain over-throwing a corrupt galactic empire or an omni-potent deity commanding armies of savage Orcs.
 
-It was common for early games to include ‘solution guides’ to walk one through their quirks and challenges. I would receive no such salvation. My parents threw these guides into the trash: “*you need to figure things out for yourself!*” No guide to help me turn it on, no guide to help me reach the end - no new games until I beat the one I had.
+It was common for early games to include ‘solution guides’ to walk one through their quirks and challenges. I would receive no such salvation. My parents threw these guides into the trash: *“you need to figure things out for yourself!”* No guide to help me turn it on, no guide to help me reach the end - no new games until I beat the one I had.
 
 As the games advanced, the quests became deeper. They required advanced reading and comprehension. The solutions become more hilarious and absurd. The enemies became smarter and tougher.
 
