@@ -50,11 +50,11 @@ In the blink of blue-light burnt eyes, years passed. Our sing-song telephone mod
 
 I learned important lessons: you will not always win; someone is always faster; someone is always smarter; someone is always better. Everyone does not play fair and cheaters can get away with it. Friends have no face, colour, or location. You can bond, spirit on spirit, mind on mind, through wires in the ground. And as more people connected, the number of fellow students grew.
 
-The classes, catalyzed by stronger connections, proceeded to get more advanced. The most savage courses bludgeoned me with extra-curricular social, technical, and communication requirements: Counter-Strike and EVE Online. It was here that ancillary career skills received true refinement.
+The classes, catalyzed by stronger connections, proceeded to get more advanced. The most savage courses bludgeoned me with extra-curricular social, technical, and communication requirements.
 
-Relatively simple pixelated adventures smoothed out into complicated and delicate team-based dances. Hyper-charged ‘point and make things explode’ shoot-em-ups evolved into competitive 5-on-5 league play. Piloting X-Wings and Tie Fighters through canyons in linear space morphed into a boundless and hyper-realistic universes with sophisticated, organic economies.
+Relatively simple pixelated adventures smoothed out into complicated and delicate team-based dances. Casual, hyper-charged ‘point and make things explode’ shoot-em-ups evolved into competitive 5-on-5 gaming league matches. Piloting X-Wings and Tie Fighters alone through canyons in linear space morphed into boundless and hyper-realistic massively multiplayer universes with sophisticated, organic economies.
 
-Anonymity revealed the worst in people. These communities were often wretched places. But I learned to adapt and shine in spite of them.
+Yet anonymity revealed the worst in people. These communities were often wretched places. And I learned to adapt and shine in spite of them.
 
 Video Game University: doing battle within thousands of diverse, simulated worlds with thousands of diverse, over-stimulated people. My developmental years were well-spent building a well-rounded and unbreakable constitution. And today things seem quiet and simple compared with the unrelenting fury of the developing Internet.
 
