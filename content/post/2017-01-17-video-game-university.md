@@ -8,7 +8,7 @@ published: true
 
 I have a deep love and respect for video games. It was a passion developed from growing up glued to a Gameboy. And why not? Games provided a thrill, a challenge and hours of blissful amusement. They were magical contraptions, capable of sating my demanding and hyper-active mind.
 
-Digital escapades were a part of our family legacy: “_Remember the time Kellen brought his Gameboy to hockey practice, and sat on the bench playing it instead of skating on the ice?_”
+Digital escapades were a part of our family legacy: _“Remember the time Kellen brought his Gameboy to hockey practice, and sat on the bench playing it instead of skating on the ice?”_
 
 Sad? Maybe.
 
