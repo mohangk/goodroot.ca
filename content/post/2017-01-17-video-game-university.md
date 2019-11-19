@@ -14,9 +14,9 @@ Sad? Maybe.
 
 Hilarious? Yes.
 
- Disengaged? Not in the slightest.
+Disengaged? Not in the slightest.
 
- The time was not wasted; I was learning.
+The time was not wasted. I was learning.
 
 The Gameboy was an ideal pacifier. You could drag me anywhere and I would be sedated as long as my batteries remained fresh. Luckily, my parents saw that - apart from amusement - the polyphonic chirping and button mashing was developing *some* kind of skill.
 
