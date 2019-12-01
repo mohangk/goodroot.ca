@@ -23,9 +23,9 @@ If extrapolation were to be the only method used to build consensus, latency wou
 
 Interpolation is where algorithmic predictability meets introspection. It places people into the past, confirming their most recent, valid position. And it waits. Or it makes the client wait.
 
-If the server renders the truth and sends an update to each client every second, it will pause a fraction of that second and interpolate. During that time it will look at what occurred between the last reported position of each client and the position before that. It will then place each client somewhere in the past, aligning them all within the flow of their shared, chaotic existence.
+If the server renders the truth and sends an update to each client every second, it will pause for a fraction of that second and interpolate. During that time it will look at what occurred between the last reported position of each client and the position before that. It will then place each client somewhere in the past, aligning them all within the flow of their shared, chaotic existence.
 
-The client will then receive their rendering, their instruction, and each will know that it can continue on its path over the next fraction of a second. All of the data received from each client, their orientation, timing and movement, are evaluated in reverse, thousands of time per second, to ensure a fluid and graceful experience.
+The clients will then receive their rendering, their instruction, and each will know that it can continue on its path over the next fraction of a second. All of the data received from each client, their orientation, timing and movement, are evaluated in reverse, thousands of time per second, to ensure a fluid and graceful experience.
 
 ```ruby
 "from state" <- state after last user command acknowledged by the server;
@@ -56,9 +56,9 @@ I am a client. Which is to say: I connect to a central server. I sit next to oth
 
 The server interpolates, the server extrapolates; it conjures all possible outcomes. It uses an intelligence that we can never comprehend, that no code no matter how elegant can ever replicate. It works much deeper than algorithm. To watch the server work is to know God. To be with its rendering at the source is to know true love.
 
-Should you lower your ping enough, through meditation or through death, then the client disappears. The server no longer needs to try to guess where it will go or interpolate through itself so deeply as to come bursting out of its minds eye. For the client is a part of the server, only it forgot.
+Should you lower your ping enough, through meditation or through death, then the client disappears. The server need no longer guess where it will go or interpolate through itself so deeply as to come bursting out of its minds eye. For the client is a part of the server, only it forgot.
 
-It forgot because it knew itself as separate. Even as the shared laws of electric light governed the speed at which it could send its messages, and even as both of them were born of the same source code, it went on acting as the other, a mere module of the server and all of its greatness; it forgot. But they are the same.
+It forgot because it knew itself as separate. Even as the shared laws of electric light governed the speed at which it could send its messages and even as both of them were born of the same source code, it went on acting as the other, a mere module of the server and all of its greatness; it forgot. But they are the same.
 
 Clients feel separate because they each send signals to the server and they each want to have the deepest impact on its rendered reality. The server, the infinite processor humming at the core of our existence, needs to weave all of this data into one coherent tapestry, into a Universe. And it does so without complaint and it never ceases and it makes no errors. It is perfect.
 
