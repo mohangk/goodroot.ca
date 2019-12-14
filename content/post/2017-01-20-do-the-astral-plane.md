@@ -4,7 +4,7 @@ date: '2017-01-20'
 author: Kellen Evan
 slug: do-the-astral-plane
 ---
-Growing up, I devoured fiction. Within these novels I would often find something that would spark my spirit. And then I would take that inspiration into the computer and let my mind run, wild and deep, to expand into the unknown. There was a webpage for every thing one could dream. And I had wild dreams.
+Growing up, I devoured fiction. Within these novels I would often find something that would spark my spirit.  I would then take that inspiration to the computer and let my mind run, wild and deep, into the unknown. There was a webpage for every thing one could dream. And I had wild dreams.
 
 I enjoyed the abstract. The more bizarre and uncommon the plot-line, the more I longed to sink my teeth into it. One of the many series of abstract children's fiction I consumed was titled: [The Zack Files](http://amzn.to/2iXH8lS). Within these simple books, Zack would explore meta-physical phenomenon. In the book ‘[I’m Out of My Body, Please Leave a Message](http://amzn.to/2iXH8lS)’, he dabbles in Astral Projection.
 
@@ -14,9 +14,13 @@ Reading about such concepts lit a strange coloured fire somewhere in my heart; t
 
 In the 90s, Wikipedia did not yet exist to tell you how scientifically incorrect and silly your views were. The items that would populate the front-page were presented in lo-fidelity. Search engines did nothing to screen for “quality”; if it was relevant to your keywords and visited by people, it was presented higher.
 
-Today I wonder who created these obscure, mystical, and out-right mad digital codexes. In my youth, with my filter undeveloped, I was quick to click on the first link and gobble up every word written as though it were gospel. I recall one page vividly. It had cryptic and large Times New Roman on a twilight background, speckled with planets and galaxies. GIFs of flame and sparkle book-ended headers, within which contained the instruction I sought: “How to Visit the Astral Plane”.
+Today I wonder who created these obscure, mystical, and out-right mad digital codexes. In my youth, with my filter undeveloped, I was quick to click on the first link and gobble up every word written as though it were gospel. I recall one page vividly. It had large cryptic text on a twilight background, speckled with planets and galaxies. GIFs of flame and sparkle book-ended headers, within which contained the instruction I sought: “How to Visit the Astral Plane”.
 
-Underneath several paragraphs of screaming capitalized words there sat a strange picture: “**STARE AT IT AND BREATHE DEEPLY** ”, the words told me, “**YOU WILL FEEL YOUR SOUL BEGIN TO SEEP OUTSIDE OF YOUR BODY**.”
+Underneath several paragraphs of screaming capitalized words there sat a strange picture:
+
+“**STARE AT IT AND BREATHE DEEPLY** ”, the words told me,
+
+“**YOU WILL FEEL YOUR SOUL BEGIN TO SEEP OUTSIDE OF YOUR BODY**.”
 
 I stared. I breathed.
 
@@ -30,17 +34,21 @@ I felt it! I was sure! Fueled by the rush of discovery, I tore through the remai
 
 “**DO NOT LINGER OR YOUR SOUL MAY BECOME LOST**”, it hinted – ya-ya.
 
-“**BEWARE THE ASTRAL VAMPIRE**”, it warned – Uhh, right... Got it!
+“**BEWARE THE ASTRAL VAMPIRE**” -- ... Uhhmm...
 
-Ready to slice my tether to reality asunder, I sprinted back into my bedroom, shut the door, lay flat, squeezed my eyes shut and began breathing deeply: *I am leaving my body*. *I am leaving my body*. Nothing yet. I will try again tomorrow, I promised myself.
+Ready to slice my tether to reality asunder, I sprinted back into my bedroom, shut the door, lay flat, squeezed my eyes shut and began breathing deeply: *I am leaving my body*. *I am leaving my body*.
+
+Nothing yet. I will try again tomorrow, I promised myself.
 
 Moons later, on one fateful evening whilst laying in my bed repeating this haunting mantra, I began to feel a tingle in my furthest appendages. My toes vibrated with an unseen energy… then my fingers… then the tip of my head.
 
 “*At last! It is working*!“
 
-My ankles, then my elbows; my legs, and then my arms. Eventually my entire being came alive with a warm and buzzing sensation. Electricity pulsed through every fibre of my watery vessel. Suddenly, my stomach gave a lurch and I flashed my eyes open for fear of rolling out of my bed. Instead of toppling onto the floor, I stared back into my own face which was smiling, relaxed in peaceful sleep.
+My ankles, then my elbows; my legs, and then my arms. Eventually my entire being came alive with a warm and buzzing sensation. Electricity pulsed through every fibre of my watery vessel. Suddenly, my stomach gave a lurch and I flashed my eyes open for fear of rolling out of my bed. Yet instead of toppling onto the floor, I stared back into my own face which was smiling, relaxed in peaceful sleep.
 
-With ghostly limbs flailing in every direction, I re-oriented myself in the ether. At last! My spirit was free to drift among the radiant lights of unfathomable new dimensions. Here, there was no homework. Out in the Astral Plane, no one could boss me around or make me feel inadequate. My imagination burst open, imbuing the abstract night-world with a typhoon of eccentric characters and mystical locations. It was a spiritual paradise within my own mind.
+With ghostly limbs flailing in every direction, I re-oriented myself in the ether. At last! My spirit was free to drift among the radiant lights of unfathomable new dimensions. Here, there was no homework.
+
+Out in the Astral Plane, no one could boss me around or make me feel inadequate. My imagination burst open, imbuing the abstract night-world with a typhoon of eccentric characters and mystical locations. It was a spiritual paradise within my own mind.
 
 I practiced this bizarre and imagined ritual until one day in my teenaged years all became forgotten. The allure of the Astral Realm weakened and the pull of the material became too great. With hormones aflame, I moved, lost friends, developed new interests, created relationships, bought things, and gave in to endless distraction.
 
@@ -56,4 +64,4 @@ As years went by, the flame of spirit began to rekindle within my heart. Slowly,
 
 Instead of exploring the magical realms of faith and silly belief that lived inside me, I became an empty, material vessel. I lost touch with myself. I stopped imagining. I abandoned introspection and I lusted after things and people, trying to fill a hole I had created in their pursuit. It was my physical being that decided it wanted no part of being whole, casting my soul adrift.
 
-My spirit did not hold a grudge. To rescue my ethereal other-half from the solitary abyss, I only needed to open my heart, extend an invitation and welcome it back. And, of course, promise to let it out to venture from time to time. Now, darkness is unfamiliar to me; my imagination glows anew. My body and soul are together and I feel complete.
+Yet my spirit did not hold a grudge. To rescue my ethereal other-half from the solitary abyss, I only needed to open my heart, extend an invitation and welcome it back. And, of course, promise to let it out to venture from time to time. Now, darkness is unfamiliar to me; my imagination glows anew. My body and soul are together and I feel complete.
