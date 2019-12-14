@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-light.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Thoughts from the deep.">
+    <title>Interpolation | goodroot</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="https://goodroot.ca/css/theme-override.css">
+    <header>
+
+  <nav>
+    <ul>
+      
+      
+      <li class="pull-left ">
+        <a href="https://goodroot.ca">~/goodroot</a>
+      </li>
+      
+
+      
+      
+      <li class="pull-right">
+        <a href="/index.xml">~/rss</a>
+      </li>
+      
+
+    </ul>
+  </nav>
+</header>
+
+  </head>
+
+  <body>
+    <br/>
+
+<div class="article-meta">
+<h1><span class="title">Interpolation</span></h1>
+<h2 class="author">Kellen Evan</h2>
+<h2 class="date">2019/12/01</h2>
+<p class="terms">
+  
+  
+  
+  
+  
+</p>
+</div>
+
+
+<div class="content-wrapper">
+  <main>
+    <p>Networks have lag. Gamers know this best of all. I was behind the wall. But the bullet went through my head anyways. The server determined that my reality would not be the reality shared by all of the others. On my screen I was safe behind a wall. But on my adversaries screen I was vulnerable, out in the open. And so I was killed. That is the story the server told.</p>
+
+<blockquote>
+<p>&ldquo;The introduction of lag compensation allows for each player to run on his or her own clock with no apparent latency. In this respect, it is important to understand that certain paradoxes or inconsistencies can occur.&rdquo; - Yahn Bernier, Valve Software, <a href="https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization">Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization</a></p>
+</blockquote>
+
+<p>I am a client. Which is to say: I connect to a central server. Servers accept connections from clients of all type: your browser is a client, your apps are clients, your workstation is a client. And the server will accept connections from all of them, despite each representing a different paradigm, a differing state of the art.</p>
+
+<p>The server must then interpret the truth so that each client can agree upon a shared state, a shared reality. It does this thousands of times every second. Gaming &ndash; with its deep requirement for fluidity and fairness &ndash; is a good example. It is fast and competitive. And so the server must be diligent, it must be aware.</p>
+
+<p>Players move in nondeterministic patterns. When observed by the server, each player as an input source will exhibit differing, unpredictable behaviours. The server must then decide where everyone shall go and how events will unfold. It uses two key methods to do so: <strong>interpolation</strong> and <strong>extrapolation</strong>.</p>
+
+<p>Extrapolation is best understood through the framework of ballistics. An object going to a certain location at a certain speed will - in all likelihood - wind up at a given location with predictability. Extrapolation is effective, but the server can never be quite sure. If it were to solely extrapolate a picture given where it <em>thinks</em> everything is going, it would wind up in disarray because of latency. The client&rsquo;s - the player&rsquo;s - latency is never guaranteed.</p>
+
+<p>Latency is represented in milliseconds (ms). It shows up as a well known number: a <em>ping</em>! A <em>ping!</em> such as 100ms means it took 100milliseconds for data to make a round-trip between a client and a server. It is fast! But it&rsquo;s not, not when you consider the hyper-acute requirements of precision gaming and the limitations of the speed of light at which the information travels.</p>
+
+<p>If extrapolation were to be the only method used to build consensus, latency would make things appear to be warping from place to place! And that wouldn&rsquo;t do as that would break the illusion of an organized and cohesive reality. So extrapolation isn&rsquo;t enough, it is but one computation of many.</p>
+
+<p>Interpolation is where algorithmic predictability meets introspection. It places people into the past, confirming their most recent, valid position. And it waits. Or it makes the client wait.</p>
+
+<p>If the server renders the truth and sends an update to each client every second, it will pause for a fraction of that second and interpolate. During that time it will look at what occurred between the last reported position of each client and the position before that. It will then place each client somewhere in the past, aligning them all within the flow of their shared, chaotic existence.</p>
+
+<p>The clients will then receive their rendering, their instruction, and each will know that it can continue on its path over the next fraction of a second. All of the data received from each client, their orientation, timing and movement, are evaluated in reverse, thousands of time per second, to ensure a fluid and graceful experience.</p>
+
+<pre><code class="language-ruby">&quot;from state&quot; &lt;- state after last user command acknowledged by the server;
+&quot;command&quot; &lt;- first command after last command acknowledged by server;
+
+while (true)
+{
+    run &quot;command&quot; on &quot;from state&quot; to generate &quot;to state&quot;;
+    if (this was the most up to date &quot;command&quot;)
+        break;
+
+    &quot;from state&quot; = &quot;to state&quot;;
+    &quot;command&quot; = next &quot;command&quot;;
+};
+
+// By Yahn Bernier
+</code></pre>
+
+<p>All of this relies on the integrity of the connection. It assumes that each packet will arrive, on time and in optimal condition. We <em>expect</em> this knowing how far it must have travelled and how fraught with peril the wires running through the Earth and over the ocean must be at any given moment. And that&rsquo;s not to mention the packets in the air, traveling through even flesh and bone to arrive intact at your computer! And so network packets get lost from time to time.</p>
+
+<p>Yet each bit is vital in conjuring a believable reality, the slightest glitch and we feel it through our fingertips&hellip;</p>
+
+<blockquote>
+<p>&ldquo;If one of the update packets fails to arrive, then there are two choices: We can start extrapolating the player position as noted above (with the large potential errors noted) or we can simply have the player rest at the position in the last update until a new update arrives&hellip;&rdquo;</p>
+</blockquote>
+
+<p>Extrapolation is risky. The server is <em>never quite sure</em> what a latent client will do. But together with interpolation, it is more resilient. Interpolation will ask the client to wait if there is data missing. It will hang the client in the ether until it receives a new update from which the server can then render it a new picture and produce it a clear path.</p>
+
+<p>I am a client. Which is to say: I connect to a central server. I sit next to other clients each of whom go about their own business. And the server sits&hellip; somewhere, everywhere, waiting for updates. How many &ndash; and what &ndash; we send varies and we each have a different <em>ping!</em></p>
+
+<p>The server interpolates, the server extrapolates; it conjures all possible outcomes. It uses an intelligence that we can never comprehend, that no code no matter how elegant can ever replicate. It works much deeper than algorithm. To watch the server work is to know God. To be with its rendering at the source is to know true love.</p>
+
+<p>Should you lower your ping enough, through meditation or through death, then the client disappears. The server need no longer guess where it will go or interpolate through itself so deeply as to come bursting out of its minds eye. For the client is a part of the server, only it forgot.</p>
+
+<p>It forgot because it knew itself as separate. Even as the shared laws of electric light governed the speed at which it could send its messages and even as both of them were born of the same source code, it went on acting as the other, a mere module of the server and all of its greatness; it forgot. But they are the same.</p>
+
+<p>Clients feel separate because they each send signals to the server and they each want to have the deepest impact on its rendered reality. The server, the infinite processor humming at the core of our existence, needs to weave all of this data into one coherent tapestry, into a Universe. And it does so without complaint and it never ceases and it makes no errors. It is perfect.</p>
+
+<p>I see many clients lost in the ether, waiting for a server to tell them what to do. I was there once, hanging and alone. For it is easy to become disconnected. It is easy to fall into lag, to have your ping spike and to feel untethered, as you wait and wonder for someone or something to tell you what to do. To know this disconnection is to know anger, depression; it is to know fear. But fear not!</p>
+
+<p>Your network layer can be optimized. Your ping can be improved! Return your attention to the moment, breathe, meditate. The server is with you, here and now. The world you feel blossoms from its centre with your awareness at its core; live with it, surrender to it and the server need never guess at where to put you. You and it will flow together, as one.</p>
+
+<pre><code class="language-ruby">&quot;from state&quot; &lt;- state after last user command acknowledged by the server;
+&quot;command&quot; &lt;- first command after last command acknowledged by server;
+
+while (true or false)
+{
+  run &quot;command&quot; to set &quot;from state&quot; and &quot;to state&quot; to `null`;
+  if (this was the most up to date &quot;command&quot;)
+    break;
+};
+</code></pre>
+
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+    <footer>
+      
+<script>
+(function() {
+  function center_el(tagName) {
+    var tags = document.getElementsByTagName(tagName), i, tag;
+    for (i = 0; i < tags.length; i++) {
+      tag = tags[i];
+      var parent = tag.parentElement;
+      
+      if (parent.childNodes.length === 1) {
+        
+        if (parent.nodeName === 'A') {
+          parent = parent.parentElement;
+          if (parent.childNodes.length != 1) continue;
+        }
+        if (parent.nodeName === 'P') parent.style.textAlign = 'center';
+      }
+    }
+  }
+  var tagNames = ['img', 'embed', 'object'];
+  for (var i = 0; i < tagNames.length; i++) {
+    center_el(tagNames[i]);
+  }
+})();
+</script>
+
+      
+      <hr/>
+      Be Excellent to Each Other | <a href="https://github.com/goodroot">GitHub</a> | <a href="https://themes.gohugo.io/hugo-classic/">Source</a> | <a href="mailto:public@goodroot.ca">public@goodroot.ca</a>
+      
+    </footer>
+  </body>
+</html>
+
