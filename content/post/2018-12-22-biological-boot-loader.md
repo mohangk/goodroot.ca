@@ -7,7 +7,7 @@ author: Kellen Evan
 > “A year spent in artificial intelligence is enough to make one believe in God.”
 > —Alan Perlis, first recipient of the Turing Award.
 
-We have not yet entered the era of the conscious machine. We are nowhere near electronic intelligence. We may never see it. Instead we build sophisticated applications that **mirror the logical and rationale frameworks** inherited from their programmers.
+We have not yet entered the era of the conscious machine. We are nowhere near electronic intelligence. We may never see it. Instead we build sophisticated applications that **mirror the logical and rational frameworks** inherited from their programmers.
 
 Applications make decisions based on available data. They may have room to analyze and interpret, but these interpretations are methods born from an existing framework. They are neither novel nor organic.
 
