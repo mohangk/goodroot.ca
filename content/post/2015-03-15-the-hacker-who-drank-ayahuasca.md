@@ -27,9 +27,7 @@ Not long after, relationships formed. Hobbies appeared, skills were developed an
 
 Years passed. I gained wisdom, bordering on magic. Some of it dark, manipulative and dangerous. Much of it light: bright, helpful, inspired and altruistic. Alas, this wizardry came not without consequence. Reality, the one I'd wake up to, the one that awaited me when I would pack my lunch and leave for work, seemed unbothered by my revelations. It began to feel further and further away.
 
-Social obligations became just that. Gatherings became set pieces, the people within them like actors in a foreign play. The ambitions I embraced in moonlight faded when the sun was shining.
-
-Hands full of digital gold became a sore back and a commute. Important conversations with fancy titles: “Chiefs”, “Directors”, “Managers”, became an adventure into patience. How much self-important puffery can I absorb before snapping a spell or two out from under a bored breath?
+Social obligations became just that. Gatherings became set pieces, the people within them like actors in a foreign play. The ambitions I embraced in moonlight faded when the sun was shining. Hands full of digital gold became a sore back and a commute. Important conversations with fancy titles: “Chiefs”, “Directors”, “Managers”, became an adventure into patience. How much self-important puffery can I absorb before snapping a spell or two from under a bored breath?
 
 Depression was inevitable; a soul existed in one place, the body in another. A lost scroll of technical talents and anonymous international accomplishments, a resume destined to become cog in a spirit-less machine. And worse, digital friends started to disappear, conscripted into 'real life'. The voices that used to speak the loudest and clearest stopped signing in and trying to build or fix things. I was a man now. It was my turn.
 
