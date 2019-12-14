@@ -25,7 +25,7 @@ I met new friends. I moved again, met new friends. A further move... But this ti
 
 Not long after, relationships formed. Hobbies appeared, skills were developed and suddenly a boy becomes a name and transcends his flesh; a conduit for information, channelling unfathomable facts large and small to all possible corners of the world. I, the once inattentive boy, had found an environment that aligned with the rapidity and creativity of my mind. And there were secrets. So many secrets.
 
-Years passed. I gained wisdom, bordering on magic. Some of it dark, manipulative and dangerous. Much of it light: bright, helpful, inspired and altruistic. But this wizardry came not without consequence. Reality, the one I'd wake up to, the one that awaited me when I would pack my lunch and leave for work, seemed unbothered by my revelations. It began to feel further and further away.
+Years passed. I gained wisdom, bordering on magic. Some of it dark, manipulative and dangerous. Much of it light: bright, helpful, inspired and altruistic. Alas, this wizardry came not without consequence. Reality, the one I'd wake up to, the one that awaited me when I would pack my lunch and leave for work, seemed unbothered by my revelations. It began to feel further and further away.
 
 Social obligations became just that. Gatherings became set pieces, the people within them like actors in a foreign play. The ambitions I embraced in moonlight faded when the sun was shining.
 
