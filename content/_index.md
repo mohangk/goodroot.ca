@@ -1,5 +1,6 @@
 ---
 title: Home
+description: "The personal writings and expressions of Kellen, also known as goodroot. It is a loving and silly place. "
 ---
 <img
   id="kellen-face"
