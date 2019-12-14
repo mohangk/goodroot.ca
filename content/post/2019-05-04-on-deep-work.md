@@ -6,7 +6,7 @@ author: Kellen Evan
 ---
 Vacation reading is my favourite. When commitments disappear and the pace of life slows down, there are few things more rewarding than diving into new ideas. The ideas of this vacation came from [Deep Work by Cal Newport](http://www.calnewport.com/books/deep-work/), but they were not so new.
 
-> "Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy." - Cal Newport, Deep Work.
+> *"Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy."* - Cal Newport, Deep Work.
 
 Deep Work is best seller written by someone with great academic wisdom. I am grateful for the words placed upon these pages. But my eyes, unfamiliar with the grand culture of the American intellectual institutions, saw this book and the advice contained therein as strange.
 
@@ -28,7 +28,7 @@ As mentioned, within traditional meditation, the process is the same. If the min
 
 In a book filled with impressive anecdotes about prolific professors and proficient accumulators of mass capital, the author thus concludes:
 
-> "To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction. Put another way, **the type of work that optimizes your performance is deep work**. If you're not comfortable going deep for extended periods of time, it'll be difficult to get your performance to the peak levels of quality and quantity increasingly necessary to thrive professionally. Unless your talent and skills absolutely dwarf those of your competition, the deep workers among them will out produce you."
+> _"To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction. Put another way, **the type of work that optimizes your performance is deep work**. If you're not comfortable going deep for extended periods of time, it'll be difficult to get your performance to the peak levels of quality and quantity increasingly necessary to thrive professionally. Unless your talent and skills absolutely dwarf those of your competition, the deep workers among them will out produce you."_
 
 Returning back to **Productive Meditation**: those words together makeup a radical paradox
 
