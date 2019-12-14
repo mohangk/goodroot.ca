@@ -93,7 +93,7 @@ Yet the approach still seems wise on the surface. Compared to tighly coupled, mo
 
 ## Conway Yourself
 
-Communication is sometimes called a "_soft problem_". It's emotionally rooted, which is used as the rationale to dismiss its importance. And on the the surface that makes sense.
+Communication is sometimes called a "_soft problem_". It's emotionally rooted, which is used as the rationale to dismiss its importance. And on the surface that feels fair.
 
 There is evidence that open source projects operate successfully without a long-term plan, organizational structure and any form of social interaction. And it appears as though organizations can "reverse Conway" their systems, using architectural changes to "fix" their people.
 
