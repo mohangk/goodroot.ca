@@ -31,9 +31,11 @@ Social obligations became just that. Gatherings became set pieces, the people wi
 
 Depression was inevitable; a soul existed in one place, the body in another. A lost scroll of technical talents and anonymous international accomplishments, a resume destined to become cog in a spirit-less machine. And worse, digital friends started to disappear, conscripted into 'real life'. The voices that used to speak the loudest and clearest stopped signing in and trying to build or fix things. I was a man now. It was my turn.
 
-A man needs to find a way to provide for their families and loved ones, they tell me. He needs to learn how to suck it up and fit into modern existence. But I could not, I was too broken. I fell down a dark path. Yet there was always a small glimmer of light, just out of my reach.
+A man needs to find a way to provide for their families and loved ones, they tell me. He needs to learn how to suck it up and fit into modern existence. But I could not, I was too broken.
 
-Following that light, I wound up in Peru with a plastic cup full of thick, chocolate coloured, freshly brewed Shamanic potion in my hands. Surrounded by strangers and several traditional medicine men, I felt no fear in the middle of the Amazonian jungle, about to consume the strongest hallucinogenic concoction in the known universe. I brought the cup to my lips and drank.
+I fell down a dark path. Yet there was always a small glimmer of light, just out of my reach. Following that light, I wound up in Peru with a plastic cup full of thick, chocolate coloured, freshly brewed Shamanic potion in my hands.
+
+Surrounded by strangers and several traditional medicine men, I felt no fear in the middle of the Amazonian jungle, about to consume the strongest hallucinogenic concoction in the known universe. I brought the cup to my lips and drank.
 
 Comparisons to chocolate exist only in colour. A bitter, bean-like, basic flavour sludged down my throat. The Shamans began to sing and shake their leaf rattles.
 
@@ -71,7 +73,7 @@ A man dies. A universe shatters. A figure appears — or is it two figures? 
 
 They encompass everything there ever is, was and will be. Past, future and present possibility appear with them — in them, part of them, behind them, above them, through them. They do not speak but they communicate with impossible precision and clarity.
 
-Any feeble mental attempt to analye, interpret or translate fails to process — the mechanisms of observation have departed and no capacities remain to contemplate whether they may ever return.
+Any feeble mental attempt to analyze, interpret or translate fails to process — the mechanisms of observation have departed and no capacities remain to contemplate whether they may ever return.
 
 An ancient, patient being exists — as it always has — where the mind of a single man used to be. Understandings beyond comprehension and recollection are folded with immense weight into memory as human emotion and symbolic circumstance. A depth of presence too deep to fathom elegantly weaves the realities of an interconnected and unified existence deep into a consciousness.
 
