@@ -11,9 +11,9 @@ description: "The personal writings and expressions of Kellen, also known as goo
 
 ### :ocean: Always learning
 
-Born Canadian, **Kellen** - also known as goodroot - is an explorer and builder. He has spent over two decades fiddling with things on the Internet and has lived a strange life.
+Born Canadian, **Kellen** - also known as goodroot - has spent over two decades fiddling with things on the Internet.
 
-His greatest joys are his friends and loved ones, meditation, hockey, gaming, cooking, crafting useful systems and helping sprout positive teams and communities.
+His greatest joys are his friends and loved ones, meditation, hockey, gaming, cooking, crafting systems and building teams.
 
 <img src="/images/partywizard.gif">
 
