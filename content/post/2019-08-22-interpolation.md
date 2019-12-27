@@ -72,7 +72,7 @@ Your network layer can be optimized. Your ping can be improved! Return your atte
 
 while (true or false)
 {
-  run "command" to set "from state" and "to state" to `null`;
+  run "command" to set "from state" and "to state" to null;
   if (this was the most up to date "command")
     break;
 };
