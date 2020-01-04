@@ -8,13 +8,13 @@ published: true
 ---
 
 ```text
-                      I do not have a philosophy.
+                        I do not have a philosophy.
 
-                      I do not have a religion.
+                        I do not have a religion.
 
-                      I do not have an ideology.
+                        I do not have an ideology.
 
-                      I am joyful and aware.
+                        I have joyful awareness.
 ```
 
 </br>
