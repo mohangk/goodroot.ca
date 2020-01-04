@@ -73,10 +73,8 @@ This is weird. I do not believe these things. Click, click. I want something els
 
 Everything had to change. Desk job? Flying Eagle. Management? Wild Dog. Cynicism? Blue Bird. Technology has abstracted life away from true reality. We have been choking down Blue Pills. The Red Pill, the non-ordinary realities that ancient cultures have explored for millennia.
 
-Ayahuasca cured what was, for me, a spiritual crisis. I did not know it at the time, but I know it now. Ayahuasca reconnected me with the important things in life. Loving myself, loving others, and living in harmony with nature.
+Ayahuasca cured what was, for me, a spiritual crisis. I did not know it at the time, but I know it now. Ayahuasca reconnected me with the important things in life. Loving myself, loving others and living in harmony with nature.
 
-I want to bring Ayahuasca to more people. I want to live a less material life. I do not want to be motivated by the never-ending rat-race. I do not want to drink alcohol and brainlessly consume. I do not want to harm the earth.
-
-I realize now I can not integrate into the “modern world”, as it has been painted for me. From one natural thing, one animal, one explorer, one human to another: your soul misses you and it has a universe of beautiful and strange things it would like to show you.
+From one natural thing, one animal, one explorer, one human to another: your soul misses you and it has a universe of beautiful and strange things it would like to show you.
 
 > “Chaos is what we’ve lost touch with. This is why it is given a bad name. It is feared by the dominant archetype of our world, which is Ego, which clenches because its existence is defined in terms of control.” ― [Terence McKenna](http://amzn.to/1pdrHq2)

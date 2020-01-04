@@ -3,6 +3,7 @@ layout: blog
 title: On Deep Work
 date: 2019-05-04T21:14:00.863Z
 author: Kellen Evan
+published: false
 ---
 Vacation reading is my favourite. When commitments disappear and the pace of life slows down, there are few things more rewarding than diving into new ideas. The ideas of this vacation came from [Deep Work by Cal Newport](http://www.calnewport.com/books/deep-work/), but they were not so new.
 
