@@ -58,4 +58,4 @@ Yet anonymity revealed the worst in people. These communities were often wretche
 
 Video Game University: doing battle within thousands of diverse, simulated worlds with thousands of diverse, over-stimulated people. My developmental years were well-spent building a well-rounded and unbreakable constitution. And today things seem quiet and simple compared with the unrelenting fury of the developing Internet.
 
-Welcome to Graduation. After decades of high intensity audio, visual and emotional data splashed into my mind, here I sit. I navigate through the computer like lightning born from the heart of the machine. I enter the “hyper-fast”, "always on" modern workforce with fireworks behind my eyes. And it is much slower and more dull than I anticipated.
+Welcome to Graduation. After decades of high intensity audio, visual and emotional data splashing into my mind, here I sit. I navigate through a computer like lightning born from the very heart of the machine. I enter the “hyper-fast”, "always on" modern workforce with fireworks behind my eyes. And it is much slower and more dull than I anticipated.
