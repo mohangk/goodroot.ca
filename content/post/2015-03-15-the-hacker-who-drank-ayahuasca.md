@@ -107,8 +107,4 @@ _“…Shhh…”_, they giggle again, beautiful and full of music.
 
 They laugh because they know his soul is going to be within his body soon, the prior question an indication that his two-eyed humanity is taking hold again.
 
-They stay with him for an eternity. Capable of nothing but love, they accompany every thought back into his mind as he slowly comes to grips with who he is… where he is… what he is. His soul has returned and whatever existed in its place has been released to pure love.
-
-That soul now returns to the world of the technical, where countless Internet packets stream across borders and into homes, carrying lost spirits. The shamans call it medicine, an honest and accurate description. As one soul who has traversed deeply into both the strangest corners of the Internet and the spiritual world will now tell you: civilization is sick.
-
-We can make the right choices out of love and trust in the right medicine or we can continue living in fear and conflict, trying to apply material and intellectual solutions to fill the void that exists where our souls used to be.
+They stay with him for an eternity. Capable of nothing but love, they accompany every thought back into his mind as he slowly comes to grips with who he is… where he is… what he is. His soul has returned and whatever existed in its place has been released to pure love. Everything is different. He was sick. Yet no longer; the shamans and their allies gave him their medicine. And now he is whole again.
