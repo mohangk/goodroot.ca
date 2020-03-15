@@ -19,7 +19,7 @@ In 2011, Harvard business school published a paper: [Exploring the Duality betwe
 
 Under the name "The Mirroring Hypothesis" the group analyzed software patterns. They separated organizations into two groups: **tightly coupled** and **loosely coupled**.
 
-A **tightly coupled** organization has structured communication. Consider a corporate environment where employees dwell under the same roof, report to a manager, who reports to a manager within an intentional structure in organized concert.
+A **tightly coupled** organization has structured communication. Consider a corporate environment where employees dwell under the same roof, report to a manager, who reports to a manager, within an intentional structure in organized concert.
 
 On the flip side, an open source project is a prototypical example of a **loosely coupled** organization. Communication occurs between random contributors. It is unstructured, unmanaged and internationally distributed. The contributors are motivated by completing a task and there is minimal - if any - social fabric.
 
@@ -33,11 +33,11 @@ _Table from "A Test of the “Mirroring” Hypothesis"_
 |  Location | Centralized, Colocated  | Decentralized, Distributed  |
 |  Behaviour | Planned, Coordinated | Emergent, Independent  |
 
-A key concept from the study is that of _Propagation Cost_: _"the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element."_ In other words, the propagation cost is the **overall percentage of a system that is impacted when a function or file is altered**.
+A key concept from the Harvard study is that of _Propagation Cost_: _"the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element."_ In other words, the propagation cost is the **overall percentage of a system that is impacted when a function or file is altered**.
 
 By comparing open source projects to projects that were private, then open sourced, the paper established a clear link: tightly coupled organizations create software with significantly higher propagation cost. In contrast, loosely coupled organizations build systems with a much lower propagation cost.
 
-This suggests that loosely coupled systems are more modular and are therefore more approachable. And it provides partial proof of Conway's Law: **systems reflect the communication structures within which they are developed**.
+This suggests that loosely coupled systems are more modular and are therefore more approachable. It provides partial proof of Conway's Law: **systems reflect the communication structures within which they are developed**.
 
 A second study, [The Influence of Organizational Structure on Software Quality: An Empirical Case Study](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2008-11.pdf) by Nagappan, Murphy and Basili of Microsoft pushed the idea further.
 
@@ -87,18 +87,16 @@ Or, in short: **Conway's Law is true**.
 
 Conway's Law can help establish organizational structure as projects grow. Proponents of _microservice architecture_ offer social scaling as a key benefit of its methods: architect your code into modular microservices first and then the optimal organizational structure will follow. It's Conway's Law in reverse.
 
-When we think back to the "ideal team", a microservice team will be small, have a "master" and be made up of only one working group. But it can still be impacted by churn, make many updates and work across other organizational teams.
+When we think back to the "ideal team", a microservice team will be small, have a "master" and be made up of only one working group. But it can still be impacted by churn, make many updates and work across other organizational teams. Yet the approach still seems wise on the surface.
 
-Yet the approach still seems wise on the surface. Compared to tighly coupled, monolithic designs, a loosely-coupled microservice team will proliferate systems that are more approachable and less failure prone. But it cuts the other way in that there will then be a mesh of independent pieces, each vulnerable to the drawbacks of poor communication.
+Compared to tightly coupled, monolithic designs, a loosely-coupled microservice team will proliferate systems that are more approachable and less failure prone. But it cuts the other way in that there will then be a mesh of independent pieces, each vulnerable to the drawbacks of poo inter-dependent communication.
 
 ## Conway Yourself
 
-Communication is sometimes called a "_soft problem_". It's emotionally rooted, which is used as the rationale to dismiss its importance. And on the surface that feels fair.
-
-There is evidence that open source projects operate successfully without a long-term plan, organizational structure and any form of social interaction. And it appears as though organizations can "reverse Conway" their systems, using architectural changes to "fix" their people.
+Communication is sometimes called a "_soft problem_". It's emotionally rooted, which is used as the rationale to dismiss its importance. And on the surface that feels fair. There is evidence that open source projects operate successfully without a long-term plan, organizational structure and any form of social interaction. And it also appears as though organizations can "reverse Conway" their systems, using architectural changes to "fix" their people.
 
 But neither approach is good. Neither will scale. They both break down when other engineering, product, marketing and design teams need to contribute. They do not foster collaboration. They do not help **build a team**.
 
-Communication isn't an engineering problem. And it isn't a _"soft"_ problem. It's our default mode. A team optimizes for Conway's Law when it **improves its interpersonal communication**. The technical brilliance of tomorrow will be born from those that learn to minimize ego and **enhance** verbal, non-verbal, emotional and spiritual communication.
+Communication isn't an engineering problem. And it isn't a _"soft"_ problem. It's our default mode. A team optimizes for Conway's Law when it **improves its interpersonal communication** instead of trying to tool over it or engineer around it. The technical brilliance of tomorrow will be born from those that learn to minimize ego and **enhance** verbal, non-verbal, emotional and spiritual communication.
 
 So how do you do it? Ask your team mates.
