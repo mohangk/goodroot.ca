@@ -8,7 +8,7 @@ Growing up, I devoured fiction. Within these novels I would often find something
 
 I enjoyed the abstract. The more bizarre and uncommon the plot-line, the more I longed to sink my teeth into it. One of the many series of abstract children's fiction I consumed was titled: [The Zack Files](http://amzn.to/2iXH8lS). Within these simple books, Zack would explore meta-physical phenomenon. In the book ‘[I’m Out of My Body, Please Leave a Message](http://amzn.to/2iXH8lS)’, he dabbles in Astral Projection.
 
-Astral Projection is the belief that - with enough patience, magic, and focus - an individual is capable of separating their ethereal souls from their physical bodies. Once free from its fleshy confines, the soul is then permitted to explore the vapourous vastness of the Astral Plane. Within this plane one may find bizarre locales and beings of unimaginable power, benevolence, or malice.
+Astral Projection is the belief that with enough patience, magic, and focus, an individual is capable of separating their ethereal souls from their physical bodies. Once free from its fleshy confines, the soul is then permitted to explore the vastness of the Astral Plane. Within this plane one may find bizarre locales and beings of unimaginable power, benevolence, or malice.
 
 Reading about such concepts lit a strange coloured fire somewhere in my heart; the lush, unspoiled, and well-populated imaginations of the young are of the most beautiful places. I would venture to the computer, intoxicated with wonder and possibility. Within an archaic search engine, under the watchful eye of no agency or parental unit, I would type: **How to Visit the Astral Plane**.
 
@@ -24,7 +24,7 @@ Underneath several paragraphs of screaming capitalized words there sat a strange
 
 I stared. I breathed.
 
-I felt it! I was sure! Fueled by the rush of discovery, I tore through the remaining instructions. My perceptions had been fooled; the eerie sensation I felt had legitimized my faith and breathed fiction to life. I was now committed to practicing this most mysterious art. I became determined to leave my flesh behind for moonlit adventuring within the Astral Plane.
+I felt it! I was sure! Fueled by the rush of discovery, I tore through the remaining instructions. My perceptions had been fooled and the eerie sensation I felt had legitimized my faith and breathed fiction to life. I was now committed to practicing this most mysterious art andI became determined to leave my flesh behind for moonlit adventuring within the Astral Plane.
 
 “**LIE HORIZONTALLY**”, it said – mmm-hmm.
 
