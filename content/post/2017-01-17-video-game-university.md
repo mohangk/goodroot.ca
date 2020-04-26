@@ -3,7 +3,7 @@ title: Video Game University
 date: '2017-01-17'
 author: Kellen Evan
 slug: video-game-university
-published: true
+published: false
 ---
 
 I have a deep love and respect for video games. It was a passion developed from growing up glued to a Gameboy. And why not? Games provided a thrill, a challenge and hours of blissful amusement. They were magical contraptions, capable of sating my demanding and hyper-active mind.

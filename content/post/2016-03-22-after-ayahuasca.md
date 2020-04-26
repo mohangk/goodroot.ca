@@ -2,78 +2,73 @@
 title: After Ayahuasca
 date: '2016-03-22'
 author: Kellen Evan
-categories:
-  - Spirituality
-  - Ayahuasca
 slug: after-ayahuasca
 published: false
 ---
 
-One year ago, clothes were jammed into a backpack and a plane ticket was purchased for Iquitos, Peru. In the Amazon jungle, I spent a week with Shamans drinking Ayahuasca. My life has transformed. I am going to share with you my experiences re-integrating back into life after Ayahuasca.
+One year ago, I jammed my clothes into a backpack and purchased a plane ticket for Iquitos, Peru. In the Amazon jungle I spent a week with Shamans drinking Ayahuasca. It changed my life.
 
 > “Life lived in the absence of the psychedelic experience that primordial shamanism is based on is life trivialized, life denied, life enslaved to the ego.” ― [Terence McKenna](http://amzn.to/1pdrHq2)
 
-Diving into psychedelic, non-ordinary reality is not for the faint of heart. I have spent my life on the Internet. From a tender, young, and impressionable age, the internet has strayed no further than several meters from my inquisitive consciousness.
+The psychedelic "non-ordinary realities" are not for the faint of heart, yet they are not much different than the experiences had growing up within an unfiltered Internet.  
 
-A brave new world. The connected, instantaneous, bright, fast world where vibrant minds have bled their creative fluids. With retinas scorched by electronic light, few stop to wonder about the cost of off-loading our words, thoughts, pictures, and talents into clouds of server-racks.
+We built a strange and brave new world. It is a marvelous, instantaneous, bright and fast world where vibrant minds bleed their creative fluids. We stare through retinas scorched by electronic light and few stop to wonder about the cost of off-loading wave upon wave of our words, thoughts, pictures, and talents into clouds of server-racks.
 
-For some, the cost is dire. Pointlessness, uselessness, nihilism, and sadness. Line after line of machine-language; someone else is moving faster; the jobs are disappearing; the planet gets warmer; a picture of a cat; the Earth is dying.
+This great machine is built by the tired fingers of those who sing line after line of machine-language into the ether and yet it is unfulfilling because someone else moves faster and the jobs start to disappear and the planet gets warmer but there is a picture of a cat! And the Earth is dying.
 
 > “About a third of my cases are suffering from no clinically definable neurosis, but from the senselessness and emptiness of their lives. This can be defined as the general neurosis of our times.” ― C.G. Jung
 
-The mind has never been more satisfied. Each notification or byte of new information and you receive a refreshing spritz of dopamine — the good stuff. Keep clicking. Keep reading. No messages, feel awful. The only thing worse than receiving 100 emails is receiving 0.
+The consumer mind has never been more satisfied. Each notification or byte of new information results in a refreshing spritz of dopamine — the good stuff. Keep clicking. Keep reading. No messages, feel awful. The only thing worse than receiving 100 emails is receiving 0.
 
-Addiction is inadequate in describing the rampant need for novel information. What if it is an occupational necessity? When the food in the mouthes of your children relies upon your keystrokes. Remove your brain from the fire-hose and risk missing out. Technical teams have as many human dependencies as their duct-taped codebases.
-
-That is how I became numb and dark. A merciless and unbalanced signal-to-noise ratio. Thousands of hooks demanded my attention. My brain was elated and happy to be useful. My heart tried to follow, tricked by the problems I thought I wanted to solve. "I am helping build a better world."
+Addiction is inadequate in describing the rampant need for novel information. It is a merciless and unbalanced signal-to-noise ratio. Over time, this is how I coded myself to become numb and dark. A thousand hooks demand my attention and my brain is elated and happy to be useful. My wary heart tries to follow, tricked by the problems I think I want to solve and I tell myself "I am helping build a better world." Yet I do not.
 
 > “I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.” ― [Dr. Seuss](http://amzn.to/1LKuM5M)
 
-I felt there must be more to life. I felt my spirit needed saving. Insatiable curiosity led me down different paths towards enlightenment. Taking a lamp to the growing darkness, I learned about meditation. Soon after, I completed the Vipassana meditation ritual, 10 days of silent meditation in the thick of the forest.
+I feel there must be more to life. I feel my spirit needs saving. I feel an insatiable curiosity and a desire for goodness and it leads me down a different path towards spiritual enlightenment. I learned about meditation and it became my lamp against the growing darkness and it took me to places of nature and solitude and taught me lessons. I complete Vipassana.
 
-It was within the trees where I first felt real connectedness. I had done nothing, yet I had never felt more at peace. It was through being useless that I began to understand that I manufacture the reality where I am useful. My emotions, my reactions, choices and my opinions all contributed to the smothering fog within which I was living. I felt better.
+It was within the trees where I first feel real connectedness. I do nothing, yet I feel at peace. It is through being useless that I start to see that I manufacture the reality where I am useful. My emotions, my reactions, choices and my opinions all contribute to the smothering fog within which I live. I feel better.
 
 > “You are a divine being. You matter, you count. You come from realms of unimaginable power and light, and you will return to those realms.” ― Terence McKenna
 
-With mind aflame, I went to integrate back into the world after Vipassana. In 10 days, I had become sensitive. Imagine a lake, once thrashing in storm, becoming calm. It is easier to observe new thought as they ripples along a glassy surface.
+I integrate back into the technical world, yet I am now more sensitive. My mind feels as a lake, once thrashed by storm, now calm and still. New thoughts appear as gentle ripples along its glassy surface.
 
-Returning back to social environments, each run-in with ‘ego’ cast a stone into my waters. Each careless word disturbing the surface. Why are people so hectic? When did small things become so important? Ripples, splashes, waves.
+Each run-in with ‘ego’ casts a stone into my waters and each careless word disturbs the surface. I wonder why people are so hectic. I wonder when small things became so important. Splashes, waves, ripples.
 
-The contrast was devastating. I had seen peace but now I return to chaos. I felt life would never make as much sense as it did in the forest, with tranquil eyes lazily tracing the grooves in tree bark. I felt trapped. I fell even deeper into darkness. The sea is storming again.
+My new sensitivity makes the contrast devastating. I had seen peace but now I return and feel chaos. I feel that life will never make as much sense as it did in the forest, where tranquil eyes lazily traced the grooves in the tree bark. I feel trapped and I fall even deeper into depression. My sea is storming again.
 
 > “One does not become enlightened by imagining figures of light, but by making the darkness conscious.” ― [C.G. Jung](http://amzn.to/1QLz1Wd)
 
-Enter work life. You are a valuable asset, they would tell me. Your skills are lucrative. You are going to be successful. A corkscrew entering my entrails and twisting. My mind had slowed but my thoughts had become black. It was near the end of my rope that a chance encounter brought Ayahuasca into my life.
+They tell me I am a valuable corporate asset. I am reminded that my skills are lucrative. I am told I am going to be successful. I feel a corkscrew enter my entrails and it twists. My mind is slower and more simple but its thoughts become black. I read about Ayahuasca and I forget about it.
 
-I had read about the substance in a book, years prior. Another click into another link led me to an article that sent shivers up my spine. A depressed woman drank a hallucinogenic potion in the Jungle, was blown apart, then met God. She learned that there is no separation and then never felt depressed again.
+Later I read another article, and another, and I click click into another link and read it and it sends shivers up my spine. It is the story of depressed woman who drinks a hallucinogenic potion in the Jungle, gets blown apart, then meets God. She learns that there is no separation and then she never feels depressed again.
 
-As a sober-minded human, this did not swallow. She is speaking in metaphor. She did not meet anyone after drinking a jungle potion. It happened in her own mind, a vehicle to drive her problems away. My depression is more complicated. I am an intellectual.
-
-The seed was planted. Little did I know, I would meet Lady Ayahuasca.
+I am a sober-minded, intellectual, technical person and so this does not compute. I think she speaks in metaphor. I know she did not meet anyone after drinking a jungle potion and that it happened in her own mind, and that she created a mechanism to process and solve her own problems. Yet I am separate and special and valuable and my depression is more complicated, and did I mention that I am an intellectual? Although the seed is planted and little do I know, I would meet Lady Ayahuasca.
 
 > And the earth looked at me and said “wasn’t that fun?” And I replied “I’m sorry if I hurt anyone.” — Dan Deacon, ‘[When I Was Done Dying](http://amzn.to/1pds3wR)’
 
-The Shaman is an absurd profession. A practitioner of madness. Before the potion, you see people with drums and shakers. Improvisational musicians: singing, whistling, and pounding. "There are unfathomable numbers of spirits, alternate dimensions intertwined with our existence, infinities of healing love and light from which you came and will return," the Shaman tell you.
+The Shaman is an absurd profession, they are a practitioner of madness. Before the potion, I see people with drums and shakers and I think they are improvisational musicians: singing, whistling, and pounding to a tune only they can hear and that makes sense only to them.
 
-You have been a discerning ‘Scientific’-Internet-Reader for years. This sounds absurd. The Shaman hands you a cup filled with potion, after singing to it. You sit on your blanket, the soft poster-garment of infantile human comfort. You drink it.
+_"There are unfathomable numbers of spirits, alternate dimensions intertwined with our existence, infinities of healing love and light from which you came and will return,"_ the Shaman tell you.
 
-Language is insufficient in sharing the experience. Not with the largest choir, the most radical band or expansive artists, could I articulate the experience of being granted a mere peek, stretched endlessly, into the ‘it’. After the potion — for the first time — I saw truth.
+I am an intellectual and I think this sounds absurd. The Shaman hands me a cup filled with potion and he sings to it and I smile a patronizing smile. I sit on my blanket, as I always have, as I harken back to my infantile human comforts. I drink it.
+
+After the potion — for the first time — I see truth. I am not a strong enough writer and I believe that not with the largest choir or the most radical band or the greatest cohort of artists, could anyone ever articulate the experience of being granted a mere peek into this substance which stretches endlessly into the ‘it’.
 
 > And without even thinking cast me into space / But before she did that she wiped off my own face / She said better luck next time don’t worry so much / Without ears I couldn’t hear I could just feel the touch — Dan Deacon, ‘[When I Was Done Dying](http://amzn.to/1pds3wR)’
 
-You hear with your ears, you see with your eyes. Your tongue tastes, your skin touches. Activate the ansible that rests between your eyes and welcome the weird. Language is the bottleneck towards understanding. Experience communicates crushing leagues of love, light, wisdom and life.
+I hear with my ears and I see with my eyes. I taste with my tongue and touch with my skin. I feel an activation of some ansible hidden behind my eyes and everything is weird. I try to speak but my boxy language is only a bottleneck towards any understanding. I experience crushing leagues of love, light, wisdom and life.
 
-Your sense of self is the person you are. The one who likes blue coats, nice shoes, and fancy dinners. The one who stares at their phone when they are around strangers. The one who was bullied at school. The one who neglected their children or was mean to their parents. The one who just had every molecule of their being blown apart, dissected, and re-arranged by love-filled inter-dimensional beings.
+My sense of self is the person I am. It is the one who likes blue coats, nice shoes, and fancy dinners, the one who stares at its phone when around strangers, the one who is bullied at school, the one who neglects their children and is mean to its parents. These are not all me yet they are the one who just had every molecule of their being blown apart, dissected, and re-arranged by love-filled inter-dimensional beings.
 
-This is weird. I do not believe these things. Click, click. I want something else. I believe in sugar, caffeine, alcohol, television, and reality — the one the news tells me about. This is a metaphor. This is not a metaphor.
+This is weird and I feel I do not believe these things, and I try to click and click and I want something else and I want to believe again in sugar, caffeine, alcohol, television, and the reality that teachers and the news teach me about. This is a metaphor. I know this is not a metaphor.
 
 > “Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.” ― [C.G. Jung](http://amzn.to/1QLz1Wd)
 
-12 months ago, my life changed. It is permanent. No memories of darkness remain. The black I lived in dispersed into vapours; a vague memory of someone else’s bad dream. I am here. I am back. My soul came with me and my heart, mind, and spirit live together in the present. I am whole. I am joyful. I am ecstatic.
+My life changed and it is permanent and no memories of darkness remain. The black I lived in disperses into vapours and becomes a vague memory of someone else’s bad dream. I am here, I am back. My soul came with me and my heart, mind, and spirit live together in the present. I am whole. I am joyful. I am ecstatic.
 
-Everything had to change. Desk job? Flying Eagle. Management? Wild Dog. Cynicism? Blue Bird. Technology has abstracted life away from true reality. We have been choking down Blue Pills. The Red Pill, the non-ordinary realities that ancient cultures have explored for millennia.
+I feel I need to change everything. Desk job? Flying Eagle. Management? Wild Dog. Cynicism? Blue Bird.
 
-Ayahuasca cured what was, for me, a spiritual crisis. I did not know it at the time, but I know it now. Ayahuasca reconnected me with the important things in life. Loving myself, loving others and living in harmony with nature.
+I expected nothing but I know now. Ayahuasca reconnected me with the important things in life. Loving myself, loving others and living in harmony with nature.
 
 From one natural thing, one animal, one explorer, one human to another: your soul misses you and it has a universe of beautiful and strange things it would like to show you.
 
