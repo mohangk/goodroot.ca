@@ -45,7 +45,7 @@
     <br/>
 
 <div class="article-meta">
-<h1><span class="title">Conway's Law Is Real</span></h1>
+<h1><span class="title">Conway&rsquo;s Law Is Real</span></h1>
 <h2 class="author">Kellen Evan</h2>
 <h2 class="date">2018/10/13</h2>
 <p class="terms">
@@ -64,11 +64,11 @@
 <blockquote>
 <p>“organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.”</p>
 </blockquote>
-<p>It is often found in good humour: the system is a mess and the people who made it are a mess. Haha &ndash; that's Conway's Law for you! Joking aside, within it holds the potential for a radical leap forward in the development of complex programmatic systems.</p>
+<p>It is often found in good humour: the system is a mess and the people who made it are a mess. Haha &ndash; that&rsquo;s Conway&rsquo;s Law for you! Joking aside, within it holds the potential for a radical leap forward in the development of complex programmatic systems.</p>
 <h2 id="proving-the-law">Proving the Law</h2>
-<p>In 2011, Harvard business school published a paper: <a href="https://www.hbs.edu/faculty/Publication%20Files/08-039_1861e507-1dc1-4602-85b8-90d71559d85b.pdf">Exploring the Duality between Product and Organizational Architectures: A Test of the “Mirroring” Hypothesis</a>. The collaborative work, conducted by MaCormack, Rusnak and Baldwin, applied scientific rigour to Conway's Law.</p>
+<p>In 2011, Harvard business school published a paper: <a href="https://www.hbs.edu/faculty/Publication%20Files/08-039_1861e507-1dc1-4602-85b8-90d71559d85b.pdf">Exploring the Duality between Product and Organizational Architectures: A Test of the “Mirroring” Hypothesis</a>. The collaborative work, conducted by MaCormack, Rusnak and Baldwin, applied scientific rigour to Conway&rsquo;s Law.</p>
 <p>Under the name &ldquo;The Mirroring Hypothesis&rdquo; the group analyzed software patterns. They separated organizations into two groups: <strong>tightly coupled</strong> and <strong>loosely coupled</strong>.</p>
-<p>A <strong>tightly coupled</strong> organization has structured communication. Consider a corporate environment where employees dwell under the same roof, report to a manager, who reports to a manager within an intentional structure in organized concert.</p>
+<p>A <strong>tightly coupled</strong> organization has structured communication. Consider a corporate environment where employees dwell under the same roof, report to a manager, who reports to a manager, within an intentional structure in organized concert.</p>
 <p>On the flip side, an open source project is a prototypical example of a <strong>loosely coupled</strong> organization. Communication occurs between random contributors. It is unstructured, unmanaged and internationally distributed. The contributors are motivated by completing a task and there is minimal - if any - social fabric.</p>
 <p><em>Table from &ldquo;A Test of the “Mirroring” Hypothesis&rdquo;</em></p>
 <table>
@@ -107,11 +107,11 @@
 </tr>
 </tbody>
 </table>
-<p>A key concept from the study is that of <em>Propagation Cost</em>: <em>&ldquo;the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element.&quot;</em> In other words, the propagation cost is the <strong>overall percentage of a system that is impacted when a function or file is altered</strong>.</p>
+<p>A key concept from the Harvard study is that of <em>Propagation Cost</em>: <em>&ldquo;the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element.&quot;</em> In other words, the propagation cost is the <strong>overall percentage of a system that is impacted when a function or file is altered</strong>.</p>
 <p>By comparing open source projects to projects that were private, then open sourced, the paper established a clear link: tightly coupled organizations create software with significantly higher propagation cost. In contrast, loosely coupled organizations build systems with a much lower propagation cost.</p>
-<p>This suggests that loosely coupled systems are more modular and are therefore more approachable. And it provides partial proof of Conway's Law: <strong>systems reflect the communication structures within which they are developed</strong>.</p>
+<p>This suggests that loosely coupled systems are more modular and are therefore more approachable. It provides partial proof of Conway&rsquo;s Law: <strong>systems reflect the communication structures within which they are developed</strong>.</p>
 <p>A second study, <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2008-11.pdf">The Influence of Organizational Structure on Software Quality: An Empirical Case Study</a> by Nagappan, Murphy and Basili of Microsoft pushed the idea further.</p>
-<p>They revealed that Conway's Law is bidirectional. Code level failure metrics indicate poor organizational metrics:</p>
+<p>They revealed that Conway&rsquo;s Law is bidirectional. Code level failure metrics indicate poor organizational metrics:</p>
 <blockquote>
 <p>&ldquo;&hellip;organizational metrics when applied to data from Windows Vista were statistically significant predictors of failure-proneness.&rdquo;</p>
 </blockquote>
@@ -172,20 +172,19 @@
 <blockquote>
 <p>&ldquo;&hellip; organizational measures predict failure-proneness in Windows Vista with significant precision, recall and sensitivity.&rdquo;</p>
 </blockquote>
-<p>And it proves Conway's Law even further: <strong>organizations can be analyzed to predict quality of programmed work and vice versa</strong>.</p>
+<p>And it proves Conway&rsquo;s Law even further: <strong>organizations can be analyzed to predict quality of programmed work and vice versa</strong>.</p>
 <p>It is easy to miss &ldquo;the forest from the trees&rdquo; when drawing conclusions from scientific rigour. Social dynamics are so rooted in chaos that one wonders about the repeatability and transferability of these studies. But we emerge with two key take aways and consider them to be true:</p>
 <p><strong>1) Systems reflect the communication structures within which they are developed.</strong></p>
 <p><strong>2) Organizations can be analyzed to predict the quality of programmed work and vice versa.</strong></p>
-<p>Or, in short: <strong>Conway's Law is true</strong>.</p>
+<p>Or, in short: <strong>Conway&rsquo;s Law is true</strong>.</p>
 <h2 id="the-reverse-conway">The Reverse Conway</h2>
-<p>Conway's Law can help establish organizational structure as projects grow. Proponents of <em>microservice architecture</em> offer social scaling as a key benefit of its methods: architect your code into modular microservices first and then the optimal organizational structure will follow. It's Conway's Law in reverse.</p>
-<p>When we think back to the &ldquo;ideal team&rdquo;, a microservice team will be small, have a &ldquo;master&rdquo; and be made up of only one working group. But it can still be impacted by churn, make many updates and work across other organizational teams.</p>
-<p>Yet the approach still seems wise on the surface. Compared to tighly coupled, monolithic designs, a loosely-coupled microservice team will proliferate systems that are more approachable and less failure prone. But it cuts the other way in that there will then be a mesh of independent pieces, each vulnerable to the drawbacks of poor communication.</p>
+<p>Conway&rsquo;s Law can help establish organizational structure as projects grow. Proponents of <em>microservice architecture</em> offer social scaling as a key benefit of its methods: architect your code into modular microservices first and then the optimal organizational structure will follow. It&rsquo;s Conway&rsquo;s Law in reverse.</p>
+<p>When we think back to the &ldquo;ideal team&rdquo;, a microservice team will be small, have a &ldquo;master&rdquo; and be made up of only one working group. But it can still be impacted by churn, make many updates and work across other organizational teams. Yet the approach still seems wise on the surface.</p>
+<p>Compared to tightly coupled, monolithic designs, a loosely-coupled microservice team will proliferate systems that are more approachable and less failure prone. But it cuts the other way in that there will then be a mesh of independent pieces, each vulnerable to the drawbacks of poo inter-dependent communication.</p>
 <h2 id="conway-yourself">Conway Yourself</h2>
-<p>Communication is sometimes called a &ldquo;<em>soft problem</em>&quot;. It's emotionally rooted, which is used as the rationale to dismiss its importance. And on the surface that feels fair.</p>
-<p>There is evidence that open source projects operate successfully without a long-term plan, organizational structure and any form of social interaction. And it appears as though organizations can &ldquo;reverse Conway&rdquo; their systems, using architectural changes to &ldquo;fix&rdquo; their people.</p>
+<p>Communication is sometimes called a &ldquo;<em>soft problem</em>&quot;. It&rsquo;s emotionally rooted, which is used as the rationale to dismiss its importance. And on the surface that feels fair. There is evidence that open source projects operate successfully without a long-term plan, organizational structure and any form of social interaction. And it also appears as though organizations can &ldquo;reverse Conway&rdquo; their systems, using architectural changes to &ldquo;fix&rdquo; their people.</p>
 <p>But neither approach is good. Neither will scale. They both break down when other engineering, product, marketing and design teams need to contribute. They do not foster collaboration. They do not help <strong>build a team</strong>.</p>
-<p>Communication isn't an engineering problem. And it isn't a <em>&ldquo;soft&rdquo;</em> problem. It's our default mode. A team optimizes for Conway's Law when it <strong>improves its interpersonal communication</strong>. The technical brilliance of tomorrow will be born from those that learn to minimize ego and <strong>enhance</strong> verbal, non-verbal, emotional and spiritual communication.</p>
+<p>Communication isn&rsquo;t an engineering problem. And it isn&rsquo;t a <em>&ldquo;soft&rdquo;</em> problem. It&rsquo;s our default mode. A team optimizes for Conway&rsquo;s Law when it <strong>improves its interpersonal communication</strong> instead of trying to tool over it or engineer around it. The technical brilliance of tomorrow will be born from those that learn to minimize ego and <strong>enhance</strong> verbal, non-verbal, emotional and spiritual communication.</p>
 <p>So how do you do it? Ask your team mates.</p>
 
     <a href="/"> >> Home</a>
@@ -220,7 +219,7 @@
 
       
       <hr/>
-      t to Each Other | <a href="https://github.com/goodroot">GitHub</a> | <a href="https://themes.gohugo.io/hugo-classic/">Source</a> | <a href="mailto:public@goodroot.ca">public@goodroot.ca</a>
+      Be Excellent to Each Other | <a href="https://github.com/goodroot">GitHub</a> | <a href="https://themes.gohugo.io/hugo-classic/">Source</a> | <a href="mailto:public@goodroot.ca">public@goodroot.ca</a>
       
     </footer>
   </body>
