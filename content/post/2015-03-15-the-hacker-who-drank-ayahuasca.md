@@ -3,7 +3,6 @@ title: The Hacker Who Drank Ayahuasca
 date: '2015-03-15'
 author: Kellen Evan
 slug: the-hacker-who-drank-ayahuasca
-description: "I grew up on the Internet. I was depressed and fell into some mysterious and strange places. But none came close to what I experienced in the Amazon..."
 published: true
 ---
 
@@ -13,21 +12,29 @@ As for why, the reasons differ: fighting parents, an unusual or unsightly face, 
 
 Whatever the reason, these people do not hear the same message that the social world delivers — with tremendous success — to their corporeal peers. All they know is that there is a mold, they do not belong in it and so they withdraw and like millions of others they find their solace on the Internet.
 
+<img src="/images/wall.jpeg">
+
 In the first grade I have a realization: the previous years' institutional sentence is not to be a one-off occurrence. It is, in fact, a pattern that will continue for the foreseeable future.
 
 One fateful day, after my mother kisses me farewell, I cling to her legs and refuse to let go: *"I'll be quiet! I'll be good!""*, I bargain through tears. It does not work yet it should have for I have no place in the Elementary establishment.
 
 This soon becomes evident to my classroom’s matriarch. She sees that I have no inclination towards learning, sitting still and behaving like the rest of the faces who are pleasant and neat in their straight and well organized desk rows. Yet this wretched woman has a way of dealing with these things, a magical bullet that will evolve even the most spirited and wily little creature into a warm body of learning. It comes in the form of a pill and it is one that is proven to be effective.
 
+<img src="/images/calvin.jpeg">
+
 Unbeknownst to me, a discussion takes place behind administrative doors with my parents. If I do not begin my regiment of federally approved focus medicine, then the school will no longer be interested in attempting to try to educate me. My parents love me and I move schools.
 
 I meet new friends but then I have to move again, and I meet new friends. I have a further move... But this time things are different. Hormones set in and I withdraw to my bedroom, sullen and alone on the computer, where my eyes are opened and a different sort of life begins. Friends appear from strange places: Internet Relay Chat, forums, games, communities — someone is always there, weirder than the last, willing to share things and listen.
+
+<img src="/images/python.jpeg">
 
 Not long after, relationships form. Hobbies appear, skills develop and suddenly I become a name and transcend my flesh. I become a conduit for information and I channel unfathomable facts large and small to all possible corners of the world. I, the once inattentive boy, have found an environment that aligns with the rapidity and creativity of my mind and there are secrets, so many secrets.
 
 Years pass. I become a man. I gain wisdom and it borders on magic. Some of it is dark, manipulative and dangerous but much of it light: bright, helpful, inspired and altruistic. Alas, this wizardry comes not without consequences. Reality, the one I'd wake up to, the one that waits for me when I leave for work, seems unbothered by my revelations. It begins to feel further and further away.
 
 Social obligations become just that. Gatherings become set pieces and the people within them feel like actors in a foreign play. The ambitions I embrace in moonlight fade when the sun is shining and my piles of digital gold become a sore back and a commute. Important conversations with fancy titles: “Chiefs”, “Directors”, “Managers”, become an adventure into patience and I start to wonder how much self-important puffery I can absorb before I snap a spell or two from under a bored breath.
+
+<img src="/images/robot.png">
 
 Depression is inevitable. My soul exists in one place and my body in another. I have a lengthy scroll of technical talents and anonymous international accomplishments and a sterling resume destined to become cog in a spirit-less machine. And worse, digital friends start to disappear as we are conscripted into 'real life'. The voices that once spoke the loudest and clearest are no longer there to try to fix things. I start to suppose it is my turn.
 
@@ -70,6 +77,8 @@ I die. My universe shatters. A figure appears — or is it two figures? One 
 They encompass everything there ever is, was and will be.  I perceive past, future and present possibility as I see it appear with them — in them, part of them, behind them, above them, through them. They do not speak but they communicate to me with impossible precision and clarity. I... I... I do not know what I am.
 
 Any feeble mental attempt to analyze, interpret or translate my experience fails to process — my mechanisms for observation and analysis have departed as does any capacity to contemplate whether they may ever return.
+
+<img src="/images/eyes.png">
 
 An ancient, patient being exists — as it always has — where my mind used to be. I feel an understanding beyond comprehension and recollection fold with immense weight into memory and it is described to me through my human emotions, my past and future, all in symbolic circumstance. I feel a depth of presence too deep to fathom elegantly weave the realities of an interconnected and unified existence deep into my consciousness.
 
