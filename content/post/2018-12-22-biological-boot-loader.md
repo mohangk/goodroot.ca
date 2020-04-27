@@ -5,7 +5,7 @@ date: 2018-12-22T19:14:00.863Z
 author: Kellen Evan
 ---
 > “A year spent in artificial intelligence is enough to make one believe in God.”
-> —Alan Perlis, first recipient of the Turing Award.
+> —Alan Perlis, first recipient of the Turing Award
 
 We have not yet entered the era of the conscious machine and we are nowhere near machine intelligence. We may never see it. Instead we will build sophisticated applications that **mirror the logical and rational frameworks** inherited from their programmers.
 
