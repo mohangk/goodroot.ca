@@ -31,7 +31,7 @@ _Table from "A Test of the “Mirroring” Hypothesis"_
 
 A key concept from the Harvard study is that of _Propagation Cost_:
 
-> "the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element."_
+> "the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element."
 
 In other words, the propagation cost is the **overall percentage of a system that is impacted when a function or file is altered**. By comparing open source projects to projects that were private, then open sourced, the paper establishes a clear link: **tightly coupled** organizations build systems with significantly **higher** propagation cost while **loosely coupled** organizations build systems with a much **lower** propagation cost.
 
