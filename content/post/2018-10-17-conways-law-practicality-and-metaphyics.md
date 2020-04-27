@@ -17,7 +17,7 @@ In 2011, Harvard business school published a paper: [Exploring the Duality betwe
 
 * A **tightly coupled** organization is a typical corporate software development environment where employees dwell under the same roof, report to a manager, who reports to a manager, within an intentional structure in organized concert. It has structured communication that bends to the physical confines of the workplace.
 
-* A **loosely coupled** organization is best exemplified by an open source project. Communication occurs between random contributors, it is unstructured, unmanaged and the workforce is most often distributed. The contributors are motivated by completing a task and there is minimal -- if any -- social fabric.
+* A **loosely coupled** organization is best exemplified by an open source project. Communication occurs between random contributors, it is unstructured, unmanaged and the workforce is most often distributed. There is minimal -- if any -- social fabric.
 
 _Table from "A Test of the “Mirroring” Hypothesis"_
 
@@ -29,9 +29,11 @@ _Table from "A Test of the “Mirroring” Hypothesis"_
 |  Location | Centralized, Colocated  | Decentralized, Distributed  |
 |  Behaviour | Planned, Coordinated | Emergent, Independent  |
 
-A key concept from the Harvard study is that of _Propagation Cost_: _"the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element."_ In other words, the propagation cost is the **overall percentage of a system that is impacted when a function or file is altered**.
+A key concept from the Harvard study is that of _Propagation Cost_:
 
-By comparing open source projects to projects that were private, then open sourced, the paper establishes a clear link: **tightly coupled** organizations build systems with significantly **higher** propagation cost while **loosely coupled** organizations build systems with a much **lower** propagation cost.
+> "the percentage of system elements that can be effected, on average, when a change is made to a randomly chosen element."_
+
+In other words, the propagation cost is the **overall percentage of a system that is impacted when a function or file is altered**. By comparing open source projects to projects that were private, then open sourced, the paper establishes a clear link: **tightly coupled** organizations build systems with significantly **higher** propagation cost while **loosely coupled** organizations build systems with a much **lower** propagation cost.
 
 The reason appears to be that loosely coupled systems do not share any existing social context and therefore their authors write more approachable code so anyone may alter the system without that context. Open source authors are aware that their code will be seen by the broad public and similar to a writer cleaning up their language for a broad audience, so the programmer does with their code. It is a function of applied empathy for the reader or next contributor. The study, and its implications, provides partial proof of Conway's Law: **systems reflect the communication structures within which they are developed**.
 
