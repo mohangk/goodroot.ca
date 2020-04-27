@@ -43,7 +43,7 @@ The study, and its implications, provides partial proof of Conway's Law: **syste
 
 A second study, [The Influence of Organizational Structure on Software Quality: An Empirical Case Study](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2008-11.pdf) by Nagappan, Murphy and Basili of Microsoft pushed the idea further. They revealed that Conway's Law is bidirectional and that code level failure metrics indicate poor organizational metrics:
 
-> "...organizational metrics when applied to data from Windows Vista were statistically significant predictors of failure-proneness."
+> "...organizational metrics when applied to data ... were statistically significant predictors of failure-proneness."
 
 What were these "organizational metrics" that they collected? How did these metrics speak towards software failure proneness? And does this mean that _code_ can be analyzed to see where _organizations_ need to change?
 
