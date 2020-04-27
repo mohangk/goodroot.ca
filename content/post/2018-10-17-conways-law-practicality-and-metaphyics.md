@@ -45,7 +45,7 @@ A second study, [The Influence of Organizational Structure on Software Quality: 
 
 > "...organizational metrics when applied to data ... were statistically significant predictors of failure-proneness."
 
-What were these "organizational metrics" that they collected? How did these metrics speak towards software failure proneness? And does this mean that _code_ can be analyzed to see where _organizations_ need to change?
+But what were these "organizational metrics" that they collected? How did these metrics speak towards software failure proneness? And does this mean that _code_ can be analyzed to see where _organizations_ need to change?
 
 _The following table has been adapted from the article, with the descriptions expanded for clarity and context. Low failure rate is is good, high failure rate is bad._
 
