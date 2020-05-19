@@ -42,6 +42,8 @@ I start to feel that a man needs to find a way to provide for his family and his
 
 I fall down a dark path. Yet after a time I start to see a small glimmer of light. I follow it to Peru where I am handed a plastic cup full of thick, chocolate coloured, freshly brewed shamanic potion.
 
+<img src="/images/falling.png">
+
 I am surrounded by strangers and several traditional medicine men and I feel no fear despite being in the middle of the Amazon jungle about to consume the strongest hallucinogenic concoction on the planet. I bring the cup to my lips and I drink.
 
 I learn that my comparison to chocolate exists only in colour as I feel a bitter, bean-like, basic flavour sludge down my throat. The Shamans begin to sing and shake their leaf rattles and I lay back and start to listen. I hear groans and retching. An hour passes, then a second hour is close and I feel nothing.
