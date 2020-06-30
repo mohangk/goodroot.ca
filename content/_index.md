@@ -11,7 +11,7 @@ description: "The personal writings and expressions of Kellen, also known as goo
 
 ### :earth_africa: :purple_heart:
 
-Born Canadian, **Kellen** - also known as goodroot - has spent over two decades fiddling with things on the Internet.
+Born in Edmonton, **Kellen** - also known as goodroot - has spent over two decades fiddling with things on the Internet.
 
 His greatest joys are his friends and loved ones, nature, meditation, hockey, gaming, cooking, crafting systems and building teams.
 
