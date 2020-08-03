@@ -16,5 +16,3 @@ Born in [Edmonton](https://en.wikipedia.org/wiki/Edmonton), **Kellen** - also kn
 His greatest joys are his friends and loved ones, nature, meditation, hockey, gaming, cooking, crafting systems and building teams.
 
 <img src="/images/partywizard.gif">
-
-## Thinkings
