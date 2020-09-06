@@ -14,13 +14,15 @@ I never wound up working with the Alianza Arkana. But I did speak with Paul at l
 
 Before passing he wrote a three-part, 10,000 word paper. It is worth reading.
 
-**Earth-Beings, Plant Spirits, Ayahuasca and Equivocations** by Dr. Paul Roberts:
+**Earth-Beings, Plant Spirits, Ayahuasca and Equivocations**:
 
 * [Part One](https://conversationswithdonmachingaandotherbeings.wordpress.com/2017/04/23/earth-beings-plant-spirits-ayahuasca-and-equivocations-part-one/)
 * [Part Two](https://conversationswithdonmachingaandotherbeings.wordpress.com/2017/05/07/part-two-earth-beings-plant-spirits-ayahuasca-and-equivocations/)
 * [Part Three](https://conversationswithdonmachingaandotherbeings.wordpress.com/2017/06/29/part-three-earth-beings-plant-spirits-ayahuasca-and-equivocations/)
 
-Thank you, Paul. Rest well, my friend. May you find yourself in good company among the Other Beings.
+Thank you, Dr. Roberts. Rest well, my friend. 
+
+May you find yourself in good company among the Other Beings.
 
 ![A cool picture of Dr. Paul](/images/paul_roberts.jpg)
 
