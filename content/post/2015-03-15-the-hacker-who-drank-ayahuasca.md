@@ -110,4 +110,4 @@ _“…Shhh…”_, they giggle again, beautiful and full of music.
 
 They laugh because they know my soul is going to be back within my body soon and the prior question is an indication that my two-eyed humanity is taking hold again. Yet they stay with me for an eternity.
 
-Capable of nothing but love, they accompany every thought back into my mind as I slowly come to grips with who I am… where I am… what I am... and I understand that my soul has returned and whatever existed in its place has been released to pure love and everything is different. I was sick yet I am no longer as the shamans and their allies gave me their medicine and now I feel whole again.
+Capable of nothing but love, they accompany every thought back into my mind as I slowly come to grips with who I am… where I am… what I am... and I understand that my soul has returned and whatever existed in its place has been released to pure love and everything is different. I was sick, yet I am no longer as the shamans and their allies gave me their medicine. And now I feel whole again.
