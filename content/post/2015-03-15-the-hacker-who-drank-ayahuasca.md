@@ -94,7 +94,7 @@ What are these clothes for?
 
 Whose language is this? I hear communication.
 
-Do I speak the same language? I try to vocalize: _"Hrnrnnk"_… Huh, that did not sound the same and somewhere a beautiful voice is singing. A stern yet loving face appears without any earthly attachments. It is clear that this face will be the face who tells me where to go.
+Do I speak the same language? I try to vocalize: _"Hrnrnnk"_ … Huh, that did not sound the same and somewhere a beautiful voice is singing. A stern yet loving face appears without any earthly attachments. It is clear that this face will be the face who tells me where to go.
 
 My physical body has been returned to its space. Its location, its purpose, its feelings of identity, still too far outside the grasp of any of its senses.
 
