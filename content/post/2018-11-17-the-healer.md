@@ -6,7 +6,7 @@ slug: the-healer
 published: false
 ---
 
-I remember the first time that I was healed. In a very clinical room, in an ordinary office, I had a man fix my back by rubbing upon my belly. Before this, I had maladies cured by doctors. I had an infection in my lungs, a doctor gave me a pill, and I was cured. But I was not healed.
+I remember the first time that I was healed. In a very clinical room, in an ordinary office, I had a man fix my back by rubbing my belly. Before this, I had maladies cured by doctors. I had an infection in my lungs, a doctor gave me a pill, and I was cured. But I was not healed.
 
 I walked out of that office with a confused smile on my face.
 
