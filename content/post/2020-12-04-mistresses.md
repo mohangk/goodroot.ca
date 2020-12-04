@@ -37,7 +37,7 @@ published: true
                         revelations torrential
                         scared
 
-                        but feel alive again
+                        feel alive again
                         we remain three friends
                         for my mind, at least
                         a bittersweet release
