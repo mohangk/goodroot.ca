@@ -17,3 +17,4 @@ His greatest joys are his friends and loved ones, nature, meditation, hockey, ga
 
 <img src="/images/partywizard.gif">
 
+### Mind stuff
