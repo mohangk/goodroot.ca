@@ -32,7 +32,7 @@ published: true
                         pray
                         come what may
 
-                        I think, prepared
+                        think, prepared
                         she whispers: "infinite potential"
                         revelations torrential
                         scared
