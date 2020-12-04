@@ -6,7 +6,7 @@ description: "The ballad of two sisters"
 published: true
 ---
 
-                    ```
+```
                     two mistresses
                     life and death
                     one wants what I have
@@ -41,4 +41,4 @@ published: true
                     we remain three friends
                     for my mind, at least
                     a bittersweet release
-                    ```
+```
