@@ -3,7 +3,7 @@ title: "Rest Well, Dr. Paul Roberts"
 author: Kellen Evan
 date: '2018-03-02'
 slug: rest-well-dr-paul-roberts
-published: true
+published: false
 ---
 
 Today I am saddened to hear about the passing of Dr. Paul Roberts. Paul had a significant impact on my life. As 2017 opened up, I found myself at a cross-roads. All this technical skills and successes, all these offers to further technology for technologies sake or pad the pockets of some swindling businessman. Where's the spirit? What's the point? I felt the need for guidance.
