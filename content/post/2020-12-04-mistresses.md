@@ -33,7 +33,7 @@ published: true
                         come what may
 
                         think, prepared
-                        she whispers: "infinite potential"
+                        whispers: "infinite potential"
                         revelations torrential
                         scared
 
