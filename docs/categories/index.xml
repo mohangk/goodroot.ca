@@ -6,9 +6,64 @@
     <description>Recent content in Categories on goodroot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://goodroot.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poem</title>
+      <link>https://goodroot.ca/categories/poem/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/categories/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Songs</title>
+      <link>https://goodroot.ca/categories/songs/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/categories/songs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spirit</title>
+      <link>https://goodroot.ca/categories/spirit/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/categories/spirit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://goodroot.ca/categories/technology/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ayahuasca</title>
+      <link>https://goodroot.ca/categories/ayahuasca/</link>
+      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/categories/ayahuasca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>https://goodroot.ca/categories/gaming/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/categories/gaming/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

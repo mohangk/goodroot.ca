@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on goodroot</title>
+    <link>https://goodroot.ca/categories/technology/</link>
+    <description>Recent content in Technology on goodroot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://goodroot.ca/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interpolation</title>
+      <link>https://goodroot.ca/post/2019/12/01/interpolation/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2019/12/01/interpolation/</guid>
+      <description>I was behind the wall, but the bullet went through my head anyways. Alas, a server determined that the reality on my screen was not the one that it would carry forward to consensus. On my screen, I was safe behind a wall. Yet on my adversaries screen, I was vulnerable, out in the open, and so I was killed. That is the story the server told, the one it took to consensus, the one that it interpreted.</description>
+    </item>
+    
+    <item>
+      <title>Biological Boot Loader</title>
+      <link>https://goodroot.ca/post/2018/12/22/biological-boot-loader/</link>
+      <pubDate>Sat, 22 Dec 2018 19:14:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2018/12/22/biological-boot-loader/</guid>
+      <description>“A year spent in artificial intelligence is enough to make one believe in God.” —Alan Perlis, first recipient of the Turing Award
+ I fear no consciousness that will surpass us. We will program allies in our image and with them accomplish all that we desire, be that our own death or enrichment. But we should not be so quick to concede the mantel of “supremacy” to a &amp;ldquo;higher intelligence&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Conway&#39;s Law Is Real</title>
+      <link>https://goodroot.ca/post/2018/10/13/practicality-metaphysics-conways-law/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2018/10/13/practicality-metaphysics-conways-law/</guid>
+      <description>Conway&amp;rsquo;s Law was first articulated in 1967 by computer programmer Melvin Conway and within it holds the potential for a radical leap forward in the development of complex programmatic systems:
+ “organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.”
+ Proving the Law In 2011, Harvard business school published a paper: Exploring the Duality between Product and Organizational Architectures: A Test of the “Mirroring” Hypothesis.</description>
+    </item>
+    
+    <item>
+      <title>Glass</title>
+      <link>https://goodroot.ca/post/2018/05/23/glass/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2018/05/23/glass/</guid>
+      <description>Oh, the Internet. Its borderless edges, unrelenting novelty, and limitless supply of companions won my heart and captivated my imagination. It is heralded as the greatest collaborative engineering effort in human history. But it is much more than that. It is the mirror within which we see our reality and the final platform for our conflicts and outrage that will rocket us towards spiritual evolution.
+Today the Internet is tidy chaos.</description>
+    </item>
+    
+  </channel>
+</rss>

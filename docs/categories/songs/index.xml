@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Songs on goodroot</title>
+    <link>https://goodroot.ca/categories/songs/</link>
+    <description>Recent content in Songs on goodroot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://goodroot.ca/categories/songs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fell</title>
+      <link>https://goodroot.ca/post/2020/07/25/fell/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2020/07/25/fell/</guid>
+      <description>Oh no! Your browser does not support the audio element.   Headphones recommended!</description>
+    </item>
+    
+    <item>
+      <title>Fly</title>
+      <link>https://goodroot.ca/post/2020/04/20/fly/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2020/04/20/fly/</guid>
+      <description>Oh no! Your browser does not support the audio element.   Headphones recommended!
+I return to my apartment on the darkest of all days. It is home and on the ground level, although it does not get much sunlight. My desk is feet from the back door. On it sits three 23&amp;rdquo; monitors and mounted upon the wall is another gigantic pane of glowing black glass. Powering these black mirrors are three computer towers and one flat rack server and they all greet me with a gentle hum.</description>
+    </item>
+    
+  </channel>
+</rss>

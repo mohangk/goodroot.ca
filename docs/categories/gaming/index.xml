@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaming on goodroot</title>
+    <link>https://goodroot.ca/categories/gaming/</link>
+    <description>Recent content in Gaming on goodroot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://goodroot.ca/categories/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gaming Buddies</title>
+      <link>https://goodroot.ca/post/2015/02/20/gaming-buddies/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://goodroot.ca/post/2015/02/20/gaming-buddies/</guid>
+      <description>It was 13 years ago when Whitethumbs and I first met, waging virtual war late at night within a crowded voice chat server. We were both young. Myself, 13. Whitethumbs, 14. We both had a passion for competitive gaming. We made fast friends, as we were both goofy and talkative. Little did I know the impact this friendship would have on my life.
+After a night of gaming began to wind down, we decided we should exchange contact information to play again another night.</description>
+    </item>
+    
+  </channel>
+</rss>
