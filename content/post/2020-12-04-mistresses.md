@@ -8,7 +8,7 @@ categories:
 published: true
 ---
 
-{{% class="poetry" %}}
+{{% poetry %}}
 two mistresses
 life and death
 one wants what I have
@@ -43,4 +43,4 @@ alive again
 we remain three friends
 for my mind, at least
 a bittersweet release
-{{% /class %}}
+{{% /poetry %}}
