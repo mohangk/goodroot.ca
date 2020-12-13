@@ -4,6 +4,8 @@ date: '2015-03-15'
 author: Kellen Evan
 slug: the-hacker-who-drank-ayahuasca
 published: true
+categories:
+    - Ayahuasca
 ---
 
 In the ‘90s, everyone is weird. We are the age-less, culture-less, state-less, God-less generation being raised by the Internet… which is to say, we are raising each other. And the weirdest among us fall into strange places.

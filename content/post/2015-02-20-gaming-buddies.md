@@ -3,6 +3,8 @@ title: Gaming Buddies
 date: '2015-02-20'
 author: Kellen Evan
 slug: gaming-buddies
+categories:
+    - Gaming
 ---
 
 It was 13 years ago when Whitethumbs and I first met, waging virtual war late at night within a crowded voice chat server. We were both young. Myself, 13. Whitethumbs, 14. We both had a passion for competitive gaming. We made fast friends, as we were both goofy and talkative. Little did I know the impact this friendship would have on my life.

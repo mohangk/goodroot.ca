@@ -5,6 +5,8 @@ date: '2018-10-13'
 slug: practicality-metaphysics-conways-law
 description: "People build systems that reflect their communication structures. This is an easy to digest and thoughtful introduction to Conway's Law. Learn how to unlock..."
 published: true
+categories:
+    - Technology
 ---
 
 Conway's Law was first articulated in 1967 by computer programmer Melvin Conway and within it holds the potential for a radical leap forward in the development of complex programmatic systems:

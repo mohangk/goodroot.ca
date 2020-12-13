@@ -3,6 +3,8 @@ title: Do the Astral
 date: '2017-01-20'
 author: Kellen Evan
 slug: do-the-astral-plane
+categories:
+    - Spirit
 ---
 Growing up, I devoured fiction novels. Something within them sparked my spirit. I would take their inspiration to my other salvation, the computer, and let my mind run, wild and deep, into the unknown. There was a webpage for every thing one could dream. And I had wild dreams.
 

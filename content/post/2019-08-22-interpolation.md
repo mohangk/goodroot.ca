@@ -3,6 +3,8 @@ title: "Interpolation"
 date: 2019-12-01
 author: Kellen Evan
 published: true
+categories:
+    - Technology
 ---
 
 I was behind the wall, but the bullet went through my head anyways. Alas, a server determined that the reality on my screen was not the one that it would carry forward to consensus. On my screen, I was safe behind a wall. Yet on my adversaries screen, I was vulnerable, out in the open, and so I was killed. That is the story the server told, the one it took to consensus, the one that it interpreted.

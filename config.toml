@@ -12,6 +12,11 @@ footnotereturnlinkcontents = "↩"
 [markup.goldmark.renderer]
 unsafe = true
 
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
 [[menu.feed]]
     name = "rss"
     url = "/index.xml"

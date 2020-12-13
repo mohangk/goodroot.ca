@@ -4,6 +4,8 @@ title: Biological Boot Loader
 date: 2018-12-22T19:14:00.863Z
 author: Kellen Evan
 published: true
+categories:
+    - Technology
 ---
 > “A year spent in artificial intelligence is enough to make one believe in God.”
 > —Alan Perlis, first recipient of the Turing Award

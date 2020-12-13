@@ -14,17 +14,17 @@ The psychedelic "non-ordinary realities" are not for the faint of heart, yet the
 
 We built a strange and brave new world. It is a marvelous, instantaneous, bright and fast world where vibrant minds bleed their creative fluids. We stare through retinas scorched by electronic light and few stop to wonder about the cost of off-loading wave upon wave of our words, thoughts, pictures, and talents into clouds of server-racks.
 
-This great machine is built by the tired fingers of those who sing line after line of machine-language into the ether and yet it is unfulfilling because someone else moves faster and the jobs start to disappear and the planet gets warmer but there is a picture of a cat! And the Earth is dying.
+This great machine is built by the tired fingers of those who sing line after line of machine-language into the ether and yet it is unfulfilling because someone else moves faster and the jobs start to disappear and the planet gets warmer, but there is a picture of a cat! And the Earth is dying. And so is the state of my mind, ever darting.
 
 > “About a third of my cases are suffering from no clinically definable neurosis, but from the senselessness and emptiness of their lives. This can be defined as the general neurosis of our times.” ― C.G. Jung
 
-The consumer mind has never been more satisfied. Each notification or byte of new information results in a refreshing spritz of dopamine — the good stuff. Keep clicking. Keep reading. No messages, feel awful. The only thing worse than receiving 100 emails is receiving 0.
+The consuming mind has never been more satisfied. Each notification or byte of new information results in a refreshing spritz of dopamine — the good stuff. Keep clicking. Keep reading. No messages, feel awful. The only thing worse than receiving 100 emails is receiving 0. Gift giving from the browser, sentimental packaging with the click of a button. Perhaps [Terrence McKenna was right](http://www.fractal-timewave.com/), and we roil in the world of now infinte novelty.
 
-Addiction is inadequate in describing the rampant need for novel information. It is a merciless and unbalanced signal-to-noise ratio. Over time, this is how I coded myself to become numb and dark. A thousand hooks demand my attention and my brain is elated and happy to be useful. My wary heart tries to follow, tricked by the problems I think I want to solve and I tell myself "I am helping build a better world." Yet I do not.
+Addiction is inadequate in describing the rampant need for new information. It a is a byproduct of a merciless and unbalanced signal-to-noise ratio. Over time, this is how I coded myself to become numb and dark. A thousand hooks demand my attention, and my brain is elated and happy to be useful. My wary heart tries to follow, tricked by the problems I think I want to solve and I tell myself "I am helping build a better world." Am I?
 
 > “I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.” ― [Dr. Seuss](http://amzn.to/1LKuM5M)
 
-I feel there must be more to life. I feel my spirit needs saving. I feel an insatiable curiosity and a desire for goodness and it leads me down a different path towards spiritual enlightenment. I learned about meditation and it became my lamp against the growing darkness and it took me to places of nature and solitude and taught me lessons. I complete Vipassana.
+There is more to life. My spirit needs saving. I feel an insatiable curiosity and a desire for goodness and it leads me down a different path towards spiritual enlightenment. I learned about meditation and it became my lamp against the growing darkness and it took me to places of nature and solitude and taught me lessons. I complete Vipassana.
 
 It was within the trees where I first feel real connectedness. I do nothing, yet I feel at peace. It is through being useless that I start to see that I manufacture the reality where I am useful. My emotions, my reactions, choices and my opinions all contribute to the smothering fog within which I live. I feel better.
 

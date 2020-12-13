@@ -4,6 +4,8 @@ author: Kellen Evan
 date: '2018-07-29'
 slug: twice-dead
 published: true
+categories:
+    - Spirit
 ---
 
 ```
