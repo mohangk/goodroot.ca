@@ -15,7 +15,7 @@ Born in [Edmonton](https://en.wikipedia.org/wiki/Edmonton), **Goodroot** - also 
 
 His greatest joys are his friends and loved ones, nature, meditation, hockey, gaming, cooking, crafting systems and building teams.
 
-As a software engineering leader by trade, the creative works herein provide eccentric, decolonialized, spirited observations on the modern techno-social lifestyle. 
+As a software engineering leader by trade, the creative works herein provide eccentric and spirited observations on the modern techno-social lifestyle. 
 
 Welcome and enjoy!
 
